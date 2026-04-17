@@ -12,7 +12,7 @@ Repository | Description | Star
 ## 编码助手
 Repository | Description | Star
 ----- | ----- | -----
-[claude code](https://github.com/LasCC/HackTools)      | 面向红队和渗透测试人员的一体化浏览器插件 |
-[claude code](https://github.com/LasCC/HackTools)      | 面向红队和渗透测试人员的一体化浏览器插件 |
-[claude code](https://github.com/LasCC/HackTools)      | 面向红队和渗透测试人员的一体化浏览器插件 |
-[claude code](https://github.com/LasCC/HackTools)      | 面向红队和渗透测试人员的一体化浏览器插件 |
+[claude-code](https://github.com/LasCC/HackTools)      | 最好用，最受欢迎的的AI编程助手 |
+[codex](https://github.com/LasCC/HackTools)      | 面向红队和渗透测试人员的一体化浏览器插件 |
+[qwen-code](https://github.com/QwenLM/qwen-code)      | 面向红队和渗透测试人员的一体化浏览器插件 |
+[kimi-cli](https://github.com/MoonshotAI/kimi-cli)      | 面向红队和渗透测试人员的一体化浏览器插件 |
