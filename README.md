@@ -1,2 +1,6 @@
-# ai-tools
-收集AI时代实用、有趣的项目
+## Awesome Repositories
+
+Repository | Description
+---- | ----
+[Android Security](https://github.com/ashishb/android-security-awesome) 			| Collection of Android security related resources
+[AppSec](https://github.com/paragonie/awesome-appsec)								| Resources for learning about application security
