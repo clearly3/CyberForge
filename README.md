@@ -14,7 +14,7 @@ Repository | Description | Star
 ----- | ----- | -----
 [claude-code](https://github.com/anthropics/claude-code)      | 最好用，最受欢迎的的AI编码助手 |
 [codex](https://github.com/openai/codex)      | OpenAI推出的编程助手，支持代码生成、解释和调试 |
-[cursor](https://cursor.com/)      | 基于VSCode深度定制的AI原生IDE，支持自然语言编程、多文件协作和MCP协议扩展 |
+[cursor](https://cursor.com/)      | 基于VSCode深度定制的AI原生IDE，支持自然语言编程|
 [opencode](https://opencode.ai/)      | 完全开源免费的AI编码工具 |
 [kiro](https://kiro.dev/)      | 亚马逊推出的AI IDE |
 [qoder](https://qoder.com/)      | 面向红队和渗透测试人员的一体化浏览器插件 |
