@@ -16,8 +16,10 @@ Repository | Description | Star
 [codex](https://github.com/openai/codex)      | OpenAI推出的编程助手，支持代码生成、解释和调试 |
 [cursor](https://cursor.com/)      | 基于VSCode深度定制的AI原生IDE，支持自然语言编程|
 [opencode](https://opencode.ai/)      | 完全开源免费的AI编码工具 |
+[Trae](https://www.trae.cn/)      | 字节跳动推出的AI原生集成开发环境 |
 [kiro](https://kiro.dev/)      | 亚马逊推出的AI IDE |
 [qoder](https://qoder.com/)      | 阿里巴巴开发并维护的编程智能体，特色是专家团开发 |
-[kimi-cli](https://github.com/MoonshotAI/kimi-cli)      | Moonshot AI推出的命令行通用智能体工具 |
-[Trae](https://www.trae.cn/)      | 字节跳动推出的AI原生集成开发环境 |
 [qwen-code](https://github.com/QwenLM/qwen-code)      | 阿里巴巴基于Qwen3-Coder的命令行AI工作流工具 |
+[kimi-cli](https://github.com/MoonshotAI/kimi-cli)      | kimi官方推出的命令行通用智能体工具 |
+
+
