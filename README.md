@@ -13,10 +13,13 @@ Repository | Description | Star
 Repository | Description | Star
 ----- | ----- | -----
 [claude-code](https://github.com/anthropics/claude-code)      | 最好用，最受欢迎的的AI编码助手 |
-[codex](https://github.com/openai/codex)      | 面向红队和渗透测试人员的一体化浏览器插件 |
-[cursor](https://cursor.com/)      | 面向红队和渗透测试人员的一体化浏览器插件 |
+[codex](https://github.com/openai/codex)      | OpenAI推出的编程助手，支持代码生成、解释和调试，可作为扩展集成到开发工作流 |
+[cursor](https://cursor.com/)      | 基于VSCode深度定制的AI原生IDE，支持自然语言编程、多文件协作和MCP协议扩展 |
 [opencode](https://github.com/anomalyco/opencode/)      | 面向红队和渗透测试人员的一体化浏览器插件 |
+[kiro](https://kiro.dev/)      | 面向红队和渗透测试人员的一体化浏览器插件 |
 [qoder](https://qoder.com/)      | 面向红队和渗透测试人员的一体化浏览器插件 |
-[Trae](https://www.trae.cn/)      | 面向红队和渗透测试人员的一体化浏览器插件 |
-[qwen-code](https://github.com/QwenLM/qwen-code)      | 面向红队和渗透测试人员的一体化浏览器插件 |
+[kimi-cli](https://github.com/MoonshotAI/kimi-cli)      | Moonshot AI推出的命令行通用智能体工具 |
+[Trae](https://www.trae.cn/)      | 字节跳动推出的AI原生集成开发环境 |
+[qwen-code](https://github.com/QwenLM/qwen-code)      | 阿里巴巴基于Qwen3-Coder的命令行AI工作流工具 |
+[kimi-cli](https://github.com/MoonshotAI/kimi-cli)      | 面向红队和渗透测试人员的一体化浏览器插件 |
 [kimi-cli](https://github.com/MoonshotAI/kimi-cli)      | 面向红队和渗透测试人员的一体化浏览器插件 |
