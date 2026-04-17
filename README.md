@@ -7,3 +7,12 @@ Repository | Description | Star
 [VueCrack](https://github.com/Ad1euDa1e/VueCrack)      | 红队浏览器插件-检测VUE站点未授权漏洞 |
 [CloudVueRoute](https://github.com/cloud-jie/CloudVueRoute)      | 一个用于快速提取Vue应用中路由信息的浏览器脚本 |
 [Vue-Router](https://github.com/dear-cell/Vue-Router)      | 测试Vue路由接口的chorme插件 |
+
+
+## 编码助手
+Repository | Description | Star
+----- | ----- | -----
+[claude code](https://github.com/LasCC/HackTools)      | 面向红队和渗透测试人员的一体化浏览器插件 |
+[claude code](https://github.com/LasCC/HackTools)      | 面向红队和渗透测试人员的一体化浏览器插件 |
+[claude code](https://github.com/LasCC/HackTools)      | 面向红队和渗透测试人员的一体化浏览器插件 |
+[claude code](https://github.com/LasCC/HackTools)      | 面向红队和渗透测试人员的一体化浏览器插件 |
