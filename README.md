@@ -46,7 +46,7 @@
 
 ### 传统安全工具
 
-| 仓库名 | 描述 | Stars | 最近更新 | 
+| 仓库名 | 描述 | Stars | 最近更新 |
 |-----|--------|------|----------|------------|
 | [yakit](https://github.com/yaklang/yakit) | 单兵作战武器库 |  |  |
 
@@ -85,7 +85,7 @@
 
 ### 浏览器插件
 
-| 仓库名 | 描述 | Stars | 最近更新 | s
+| 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|----------|------------|----------|
 | [HackTools](https://github.com/LasCC/HackTools) | 面向红队和渗透测试人员的一体化浏览器插件 |  |  |
 | [SnowEyes](https://github.com/SickleSec/SnowEyes) | 网站解析、网页敏感信息检测、指纹识别的chrome插件 |  |  |
@@ -96,7 +96,7 @@
 
 ### 编码助手
 
-| 仓库名 | 描述 | Stars | 最近更新 | |
+| 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|----------|------------|----------|
 | [Claude Code](https://github.com/anthropics/claude-code) | 最好用、最受欢迎的AI编码助手 |  |  |
 | [Codex](https://github.com/openai/codex) | OpenAI推出的编程助手，支持代码生成、解释和调试 |  |  |
