@@ -46,19 +46,19 @@
 
 ### 传统安全工具
 
-| 仓库名 | 描述 | Stars | 最近更新 |
-|-----|--------|------|----------|------------|
-| [yakit](https://github.com/yaklang/yakit) | 单兵作战武器库 |  |  |
+| 🏷️ | 仓库名 | 描述 | Stars | 最近更新 |
+|-----|--------|------|-------|----------|
+| 🛡️ | [yakit](https://github.com/yaklang/yakit) | 单兵作战武器库 |  |  |
 
 ### 网络安全工具
 
-| 仓库名 | 描述 | Stars | 最近更新 |
-|--------|------|----------|------------|
+| 🏷️ | 仓库名 | 描述 | Stars | 最近更新 |
+|-----|--------|------|-------|----------|
 
 ### 渗透测试工具
 
-| 仓库名 | 描述 | Stars | 最近更新 |
-|--------|------|----------|------------|
+| 🏷️ | 仓库名 | 描述 | Stars | 最近更新 |
+|-----|--------|------|-------|----------|
 
 ---
 
@@ -66,18 +66,18 @@
 
 ### AI开发框架
 
-| 仓库名 | 描述 | Stars | 最近更新 |
-|--------|------|----------|------------|
+| 🏷️ | 仓库名 | 描述 | Stars | 最近更新 |
+|-----|--------|------|-------|----------|
 
 ### 机器学习库
 
-| 仓库名 | 描述 | Stars | 最近更新 |
-|--------|------|----------|------------|
+| 🏷️ | 仓库名 | 描述 | Stars | 最近更新 |
+|-----|--------|------|-------|----------|
 
 ### AI安全工具
 
-| 仓库名 | 描述 | Stars | 最近更新 |
-|--------|------|----------|------------|
+| 🏷️ | 仓库名 | 描述 | Stars | 最近更新 |
+|-----|--------|------|-------|----------|
 
 ---
 
@@ -85,38 +85,38 @@
 
 ### 浏览器插件
 
-| 仓库名 | 描述 | Stars | 最近更新 |
-|--------|------|----------|------------|----------|
-| [HackTools](https://github.com/LasCC/HackTools) | 面向红队和渗透测试人员的一体化浏览器插件 |  |  |
-| [SnowEyes](https://github.com/SickleSec/SnowEyes) | 网站解析、网页敏感信息检测、指纹识别的chrome插件 |  |  |
-| [keyFinder](https://github.com/momenbasel/keyFinder) | 被动发现各种API密钥和敏感信息的浏览器插件 |  |  |
-| [VueCrack](https://github.com/Ad1euDa1e/VueCrack) | 红队浏览器插件-检测VUE站点未授权漏洞 |  |  |
-| [CloudVueRoute](https://github.com/cloud-jie/CloudVueRoute) | 快速提取Vue应用中路由信息的浏览器脚本 |  |  |
-| [Vue-Router](https://github.com/dear-cell/Vue-Router) | 测试Vue路由接口的chorme插件 |  |  |
+| 🏷️ | 仓库名 | 描述 | Stars | 最近更新 |
+|-----|--------|------|-------|----------|
+| 🌐 | [HackTools](https://github.com/LasCC/HackTools) | 面向红队和渗透测试人员的一体化浏览器插件 |  |  |
+| 🌐 | [SnowEyes](https://github.com/SickleSec/SnowEyes) | 网站解析、网页敏感信息检测、指纹识别的chrome插件 |  |  |
+| 🌐 | [keyFinder](https://github.com/momenbasel/keyFinder) | 被动发现各种API密钥和敏感信息的浏览器插件 |  |  |
+| 🌐 | [VueCrack](https://github.com/Ad1euDa1e/VueCrack) | 红队浏览器插件-检测VUE站点未授权漏洞 |  |  |
+| 🌐 | [CloudVueRoute](https://github.com/cloud-jie/CloudVueRoute) | 快速提取Vue应用中路由信息的浏览器脚本 |  |  |
+| 🌐 | [Vue-Router](https://github.com/dear-cell/Vue-Router) | 测试Vue路由接口的chorme插件 |  |  |
 
 ### 编码助手
 
-| 仓库名 | 描述 | Stars | 最近更新 |
-|--------|------|----------|------------|----------|
-| [Claude Code](https://github.com/anthropics/claude-code) | 最好用、最受欢迎的AI编码助手 |  |  |
-| [Codex](https://github.com/openai/codex) | OpenAI推出的编程助手，支持代码生成、解释和调试 |  |  |
-| [Cursor](https://cursor.com/) | 基于VSCode深度定制的AI原生IDE |  |  |
-| [OpenCode](https://opencode.ai/) | 完全开源免费的AI编码工具 |  |  |  |
-| [Trae](https://www.trae.cn/) | 字节跳动推出的AI原生集成开发环境 |  |  |
-| [Kiro](https://kiro.dev/) | 亚马逊推出的AI IDE |  |  |
-| [Qoder](https://qoder.com/) | 阿里巴巴开发的编程智能体，特色是专家团开发 |  |  |
-| [qwen-code](https://github.com/QwenLM/qwen-code) | 阿里巴巴基于Qwen3-Coder的命令行AI工作流工具 |  |  |
-| [kimi-cli](https://github.com/MoonshotAI/kimi-cli) | kimi推出的命令行通用智能体工具 |  |  |
+| 🏷️ | 仓库名 | 描述 | Stars | 最近更新 |
+|-----|--------|------|-------|----------|
+| 🤖 | [Claude Code](https://github.com/anthropics/claude-code) | 最好用、最受欢迎的AI编码助手 |  |  |
+| 🤖 | [Codex](https://github.com/openai/codex) | OpenAI推出的编程助手，支持代码生成、解释和调试 |  |  |
+| 🤖 | [Cursor](https://cursor.com/) | 基于VSCode深度定制的AI原生IDE |  |  |
+| 🤖 | [OpenCode](https://opencode.ai/) | 完全开源免费的AI编码工具 |  |  |
+| 🤖 | [Trae](https://www.trae.cn/) | 字节跳动推出的AI原生集成开发环境 |  |  |
+| 🤖 | [Kiro](https://kiro.dev/) | 亚马逊推出的AI IDE |  |  |
+| 🤖 | [Qoder](https://qoder.com/) | 阿里巴巴开发的编程智能体，特色是专家团开发 |  |  |
+| 🤖 | [qwen-code](https://github.com/QwenLM/qwen-code) | 阿里巴巴基于Qwen3-Coder的命令行AI工作流工具 |  |  |
+| 🤖 | [kimi-cli](https://github.com/MoonshotAI/kimi-cli) | kimi推出的命令行通用智能体工具 |  |  |
 
 ### 开发工具
 
-| 仓库名 | 描述 | Stars | 最近更新 |
-|--------|------|----------|------------|
+| 🏷️ | 仓库名 | 描述 | Stars | 最近更新 |
+|-----|--------|------|-------|----------|
 
 ### 实用工具库
 
-| 仓库名 | 描述 | Stars | 最近更新 |
-|--------|------|----------|------------|
+| 🏷️ | 仓库名 | 描述 | Stars | 最近更新 |
+|-----|--------|------|-------|----------|
 
 ---
 
@@ -127,7 +127,7 @@
 1. 浏览对应分类查找相关工具
 2. 点击仓库名访问GitHub项目页面
 3. 查看Stars数和最近更新了解项目活跃度
-4. 根据技术栈标签选择适合的工具
+4. 根据图标类型选择适合的工具
 
 ### 如何贡献
 
@@ -141,7 +141,7 @@
 **格式要求**:
 - "仓库名"列: 必须包含完整的GitHub URL
 - "描述"列: 简洁明了的中文或英文描述
-- "技术栈"列: 可选，填写主要编程语言或技术
+- "🏷️"列: 根据项目类型添加对应图标（如🛡️安全、🌐浏览器插件、🤖AI工具等）
 
 ### 自动更新说明
 
