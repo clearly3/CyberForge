@@ -59,7 +59,7 @@
   - [代码审计](#代码审计)
   - [蓝队工具资源](#蓝队工具资源)
 - [🤖AI时代足够好用的资源项目](#🤖AI时代足够好用的资源项目)
-  - [AI编码助手](#AI编码助手)about claude code
+  - [AI编码助手](#AI编码助手)
   - [about claude-code](#about-claude-code)
   - [MCP](#MCP)
   - [skills](#skills)
