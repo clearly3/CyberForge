@@ -59,7 +59,8 @@
   - [代码审计](#代码审计)
   - [蓝队工具资源](#蓝队工具资源)
 - [🤖AI时代足够好用的资源项目](#AI时代足够好用的资源项目)
-  - [AI编码助手](#AI编码助手)
+  - [AI编码助手](#AI编码助手)about claude code
+  - [about-claude-code](#about claude code)
   - [MCP](#MCP)
   - [skills](#skills)
   - [渗透智能体](#渗透智能体)
@@ -268,20 +269,25 @@
 | [kimi-cli](https://github.com/MoonshotAI/kimi-cli) | kimi推出的命令行通用智能体工具 |  |  |
 | [Lingma](https://lingma.aliyun.com/) | 阿里云推出的免费的图形化编程智能体 |  |  |
 
-### MCP
-|--------|------|-------|----------|
+### about claude code
 | 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
+| [web-search-fast](https://github.com/uk0/web-search-fast) | 一个简单的本地 web search mcp |  |  |
+
+### MCP
+| 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
 | [web-search-fast](https://github.com/uk0/web-search-fast) | 一个简单的本地 web search mcp |  |  |
 
 ### skills
-|--------|------|-------|----------|
 | 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
 | [web-search-fast](https://github.com/uk0/web-search-fast) | 一个简单的本地 web search mcp |  |  |
 
 
 ### 渗透智能体
-|--------|------|-------|----------|
 | 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
 | [web-search-fast](https://github.com/uk0/web-search-fast) | 一个简单的本地 web search mcp |  |  |
 
 
