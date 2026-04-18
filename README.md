@@ -26,7 +26,7 @@
 
 ## 📚 目录索引
 
-- [🛡️时至今日仍旧好用的安全项目](#时至今日仍旧好用的安全项目)
+- [🛡️时至今日仍旧好用的安全项目](#🛡️ 时至今日仍旧好用的安全项目)
   - [信息收集](#信息收集)
     - [企业信息收集](#企业信息收集)
     - [子域名收集](#子域名收集)
@@ -38,8 +38,8 @@
     - [资产收集与测绘平台](#资产收集与测绘平台)
   - [web安全](#web安全)
     - [web渗透框架](#web渗透框架)
-    - [OWASP-Web-Top10](#OWASP Web Top10)
-    - [payload-list](#payload list)
+    - [OWASP Web Top10](#OWASP-Web-Top10)
+    - [payload list](#payload-list)
     - [web漏洞](#web漏洞)
     - [webshell管理工具](#webshell管理工具)
     - [信息泄露](#信息泄露)
@@ -58,9 +58,9 @@
     - [环境搭建](#C2)
   - [代码审计](#代码审计)
   - [蓝队工具资源](#蓝队工具资源)
-- [🤖AI时代足够好用的资源项目](#AI时代足够好用的资源项目)
+- [🤖AI时代足够好用的资源项目](#🤖 AI时代足够好用的资源项目)
   - [AI编码助手](#AI编码助手)about claude code
-  - [about-claude-code](#about claude code)
+  - [about claude-code](#about-claude-code)
   - [MCP](#MCP)
   - [skills](#skills)
   - [渗透智能体](#渗透智能体)
