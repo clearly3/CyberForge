@@ -85,7 +85,7 @@
 
 ### 浏览器插件
 
-| 仓库名 | 描述 | Stars | 最近更新 | 技术栈 |
+| 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|----------|------------|----------|
 | [HackTools](https://github.com/LasCC/HackTools) | 面向红队和渗透测试人员的一体化浏览器插件 |  |  |
 | [SnowEyes](https://github.com/SickleSec/SnowEyes) | 网站解析、网页敏感信息检测、指纹识别的chrome插件 |  |  |
