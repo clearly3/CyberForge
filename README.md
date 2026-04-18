@@ -26,7 +26,7 @@
 
 ## 📚 目录索引
 
-- [🛡️直至今日仍旧好用的安全工具](#直至今日仍旧好用的安全工具)
+- [🛡️时至今日仍旧好用的安全项目](#时至今日仍旧好用的安全项目)
   - [信息收集](#信息收集)
     - [企业信息收集](#企业信息收集)
     - [子域名收集](#子域名收集)
@@ -36,20 +36,33 @@
     - [指纹识别](#指纹识别)
     - [综合工具](#综合工具)
     - [资产收集与测绘平台](#资产收集与测绘平台)
-    - [字典](#字典)
   - [web安全](#web安全)
+    - [web渗透框架](#web渗透框架)
+    - [OWASP-Web-Top10](#OWASP Web Top10)
+    - [payload-list](#payload list)
+    - [web漏洞](#web漏洞)
+    - [webshell管理工具](#webshell管理工具)
+    - [信息泄露](#信息泄露)
+    - [字典](#字典)
   - [漏洞扫描](#漏洞扫描)
   - [漏洞利用](#渗透测试工具)
   - [POC资源](#POC资源)
-  - [内网渗透](#内网渗透)
-  - [代码审计](#代码审计)
   - [BurpSuite插件](#BurpSuite插件)
   - [浏览器插件](#浏览器插件)
+  - [内网渗透](#内网渗透)
+    - [内网信息收集](#内网信息收集)
+    - [C2](#C2)
+    - [权限提升](#权限提升)
+  - [基础设施](#基础设施)
+    - [代理池](#内网信息收集)
+    - [环境搭建](#C2)
+  - [代码审计](#代码审计)
   - [蓝队工具资源](#蓝队工具资源)
-- [🤖 AI与人工智能](#ai与人工智能)
+- [🤖AI时代足够好用的资源项目](#AI时代足够好用的资源项目)
   - [AI编码助手](#AI编码助手)
   - [MCP](#MCP)
   - [skills](#skills)
+  - [渗透智能体](#渗透智能体)
 
 
 
@@ -101,14 +114,57 @@
 |--------|------|-------|----------|
 | [TscanPlus](https://github.com/TideSec/TscanPlus) | 支持信息收集、资产测绘、漏洞扫描的强大工具 |  |  |
 | [Fine](https://github.com/fasnow/fine) | 针对企业信息收集、目标资产探测、小程序反编译的工具 |  |  |
-| [BurpSuite](https://github.com/yaklang/yakit) | 无需主动扫描、快速被动收集目标URL的工具 |  |  |
+| [mitan](https://github.com/kkbo8005/mitan) | Java编写的信息收集、资产测绘于一体的综合工具 |  |  |
 
 #### 资产收集与测绘平台
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [nemo_go](https://github.com/hanc00l/nemo_go) | 自动化信息收集 |  |  |
-| [Fine](https://github.com/yaklang/yakit) | 针对企业信息收集、目标资产探测、小程序反编译的工具 |  |  |
-| [BurpSuite](https://github.com/yaklang/yakit) | 无需主动扫描、快速被动收集目标URL的工具 |  |  |
+
+### web安全
+#### web渗透框架
+| 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
+| [BurpSuite](https://github.com/yaklang/yakit) | 最受欢迎的web应用测试框架，功能强大，插件丰富 |  |  |
+| [Yakit](https://github.com/yaklang/yakit) | 单兵作战武器库 |  |  |
+| [Caido](https://github.com/caido/caido) | rust语言编写的轻量的web应用测试框架，正在撼动burp的地位 |  |  |
+
+#### OWASP Web Top10
+| 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
+| [sqlmap](https://github.com/sqlmapproject/sqlmap) | 发现sql注入后，快速利用它 |  |  |
+| [ByPassTamperPlus](https://github.com/Tas9er/ByPassTamperPlus) | 提升sqlmap绕过waf能力的Tamper合集 |  |  |
+| [ghauri](https://github.com/r0oth3x49/ghauri) | 与sqlmap神似的注入漏洞扫描工具 |  |  |
+| [XSStrike](https://github.com/s0md3v/XSStrike) | 号称最好用的xss扫描器 |  |  |
+| [liffy](https://github.com/mzfr/liffy) | 本地文件包含漏洞扫描工具 |  |  |
+| [SSRFmap](https://github.com/swisskyrepo/SSRFmap) | 自动SSRF模糊测试与利用工具 |  |  |
+| [xray](https://github.com/mzfr/liffy) | 本地文件包含漏洞扫描工具 |  |  |
+| [liffy](https://github.com/mzfr/liffy) | 本地文件包含漏洞扫描工具 |  |  |
+
+#### payload list
+| 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
+| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 几乎包含所有常见web漏洞payload的仓库 |  |  |
+| [Payloader](https://github.com/3516634930/Payloader/) | 渗透测试payload速查 |  |  |
+
+#### web漏洞
+| 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
+| [nomore403](https://github.com/devploit/nomore403) | 执行低误报的40x绕过方案 |  |  |
+| [plecost](https://github.com/Plecost/plecost) | 针对WordPress的漏洞扫描工具 |  |  |
+
+#### webshell管理工具
+| 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
+| [Godzilla](https://github.com/BeichenDream/Godzilla) | 好用的webshell管理工具 |  |  |
+| [EtherGhost](https://github.com/Marven11/EtherGhost) | 游魂-支持PHP/JSP的webshell管理工具 |  |  |
+
+#### 信息泄露
+| 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
+| [GitHack](https://github.com/lijiejie/GitHack) | .git文件夹泄露漏洞利用 |  |  |
+| [gitleaks](https://github.com/gitleaks/gitleaks) | 一个秘钥泄露扫描工具 |  |  |
+| [idea_exploit](https://github.com/lijiejie/idea_exploit) | 扫描idea配置文件中可能存在的敏感信息 |  |  |
 
 #### 字典
 | 仓库名 | 描述 | Stars | 最近更新 |
@@ -117,44 +173,36 @@
 | [Fine](https://github.com/yaklang/yakit) | 针对企业信息收集、目标资产探测、小程序反编译的工具 |  |  |
 | [BurpSuite](https://github.com/yaklang/yakit) | 无需主动扫描、快速被动收集目标URL的工具 |  |  |
 
-### web安全
-| 仓库名 | 描述 | Stars | 最近更新 |
-|--------|------|-------|----------|
-| [BurpSuite](https://github.com/yaklang/yakit) | 最受欢迎的web应用测试框架，功能强大，插件丰富 |  |  |
-| [Yakit](https://github.com/yaklang/yakit) | 单兵作战武器库 |  |  |
-| [Caido](https://github.com/yaklang/yakit) | rust语言编写的轻量的web应用测试框架，正在撼动burp的地位 |  |  |
-| [sqlmap](https://github.com/sqlmapproject/sqlmap) | 发现sql注入后，快速利用它 |  |  |
-| [ByPassTamperPlus](https://github.com/Tas9er/ByPassTamperPlus) | 提升sqlmap绕过waf能力的Tamper合集 |  |  |
-| [ghauri](https://github.com/r0oth3x49/ghauri) | 与sqlmap神似的注入漏洞扫描工具 |  |  |
-| [nomore403](https://github.com/devploit/nomore403) | 执行低误报的40x绕过方案 |  |  |
-| [XSStrike](https://github.com/s0md3v/XSStrike) | 号称最好用的xss扫描器 |  |  |
-| [liffy](https://github.com/mzfr/liffy) | 本地文件包含漏洞扫描工具 |  |  |
-| [plecost](https://github.com/Plecost/plecost) | 针对WordPress的漏洞扫描工具 |  |  |
-| [SSRFmap](https://github.com/swisskyrepo/SSRFmap) | 自动SSRF模糊测试与利用工具 |  |  |
-| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 几乎包含所有常见web漏洞payload的仓库 |  |  |
-| [xray](https://github.com/mzfr/liffy) | 本地文件包含漏洞扫描工具 |  |  |
-| [liffy](https://github.com/mzfr/liffy) | 本地文件包含漏洞扫描工具 |  |  |
-
-### 内网渗透
-| 仓库名 | 描述 | Stars | 最近更新 |
-|--------|------|-------|----------|
-| [BurpSuite](https://github.com/yaklang/yakit) | 最受欢迎的web应用测试框架，功能强大，插件丰富 |  |  |
-
 ### 漏洞扫描
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [nuclei](https://github.com/yaklang/yakit) | 最受欢迎的web应用测试框架，功能强大，插件丰富 |  |  |
-| [afrog](https://github.com/yaklang/yakit) | 最受欢迎的web应用测试框架，功能强大，插件丰富 |  |  |
-
-### POC资源
-| 仓库名 | 描述 | Stars | 最近更新 |
-|--------|------|-------|----------|
-| [Vulnerability-Wiki-PoC](https://github.com/SourByte05/Vulnerability-Wiki-PoC) | 2024-至今 1Day 漏洞 PoC 深度研究与复现归档 |  |  |
+| [nuclei](https://github.com/projectdiscovery/nuclei) | 基于yaml语法定制漏洞模版的快速、低误报率的漏洞扫描工具 |  |  |
+| [afrog](https://github.com/zan8in/afrog) | 轻量快速的扫描器，有着适合国内环境的poc |  |  |
+| [xray](https://github.com/chaitin/xray) | 强大的支持被动式的web漏洞扫描器 |  |  |
+| [dddd](https://github.com/SleepingBag945/dddd) | 只需一个参数即可完成信息收集到漏洞检测的全自动扫描 |  |  |
+| [VscanPlus](https://github.com/youki992/VscanPlus) | vscan二次开发的版本，批量快速检测网站安全隐患 |  |  |
 
 ### 漏洞利用
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [ShiroAttack2](https://github.com/SummerSec/ShiroAttack2) | shiro反序列化漏洞综合利用工具 |  |  |
+| [I-Wanna-Get-All](https://github.com/R4gd0ll/I-Wanna-Get-All) | 综合漏洞后渗透利用工具 |  |  |
+
+### POC资源
+| 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
+| [cve](https://github.com/trickest/cve) | 这是一个cve漏洞仓库，作者声称所有poc均公开可用 |  |  |
+| [PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) | 一个持续更新的cve漏洞仓库 |  |  |
+| [Vulnerability-Wiki-PoC](https://github.com/SourByte05/Vulnerability-Wiki-PoC) | 2024-至今 1Day 漏洞 PoC 深度研究与复现归档 |  |  |
+| [Awesome-POC](https://github.com/Threekiii/Awesome-POC) | 一个漏洞 PoC 知识库 |  |  |
+| [POC](https://github.com/eeeeeeeeee-code/POC) | wy876的POC镜像仓库 |  |  |
+| [nuclei_poc](https://github.com/adysec/nuclei_poc) | 一个nuclei的模版仓库 |  |  |
+
+### BurpSuite插件
+| 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
+| [BypassPro](https://github.com/0x727/BypassPro) | 自动化绕过40x和waf的burp插件 |  |  |
+
 
 ### 浏览器插件
 | 仓库名 | 描述 | Stars | 最近更新 |
@@ -166,24 +214,44 @@
 | [CloudVueRoute](https://github.com/cloud-jie/CloudVueRoute) | 快速提取Vue应用中路由信息的浏览器脚本 |  |  |
 | [Vue-Router](https://github.com/dear-cell/Vue-Router) | 自动测试Vue路由接口的chorme插件 |  |  |
 
----
-
-## 🤖 AI与人工智能
-
-### AI开发框架
-
+### 内网渗透
+#### 内网信息收集
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
+| [e0e1-config](https://github.com/eeeeeeeeee-code/e0e1-config) | 收集浏览器、数据库连接工具等敏感信息的后渗透工具 |  |  |
+| [MX1014](https://github.com/L-codes/MX1014) | 大小仅2M左右，适合红队在内网进行快速端口扫描 |  |  |
 
-### 机器学习库
-
+#### C2
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
+| [sliver](https://github.com/BishopFox/sliver) | 可跨平台运行，支持linux后门生成的C2 |  |  |
+| [Viper](https://github.com/FunnyWolf/Viper) | 基于人工智能的对抗模拟和红队演练平台 |  |  |
+| [XiebroC2](https://github.com/INotGreen/XiebroC2) | 神似Cobalt Strike的C2客户端、功能多样且强大 |  |  |
+| [Wyrm](https://github.com/0xflux/Wyrm) | 红队后渗透框架 |  |  |
+| [Spark](https://github.com/0xflux/Spark) | 一个免费、安全、开源、基于网页、跨平台且功能丰富的远程管理工具 |  |  |
 
+#### 权限提升
+| 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
+| [RedSun](https://github.com/Nightmare-Eclipse/RedSun) | 利用windows defender进行提权 |  |  |
+
+### 基础设施
+#### 代理池
+| 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
+| [ProxyPool](https://github.com/XiaomingX/proxy-pool) | 帮助用户自动维护高质量的代理池 |  |  |
+| [fir-proxy](https://github.com/11firefly11/fir-proxy) | 一个轮换代理的图形化代理池程序 |  |  |
+
+#### 环境搭建
+| 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
+| [f8x](https://github.com/ffffffff0x/f8x) | 红蓝队环境自动化部署工具 |  |  |
+| [penetration-suite-toolkit](https://github.com/makoto56/penetration-suite-toolkit) | 一个包含常见渗透测试工具环境的windows虚拟机 |  |  |
+| [copy-cert](https://github.com/virusdefender/copy-cert) | 通过生成ssl证书伪造c2流量 |  |  |
 
 ---
 
-## ⚡ 开发工具与框架
+## 🤖 AI时代足够好用的资源项目
 
 ### AI编码助手
 
@@ -200,15 +268,22 @@
 | [kimi-cli](https://github.com/MoonshotAI/kimi-cli) | kimi推出的命令行通用智能体工具 |  |  |
 | [Lingma](https://lingma.aliyun.com/) | 阿里云推出的免费的图形化编程智能体 |  |  |
 
+### MCP
+|--------|------|-------|----------|
+| 仓库名 | 描述 | Stars | 最近更新 |
+| [web-search-fast](https://github.com/uk0/web-search-fast) | 一个简单的本地 web search mcp |  |  |
+
+### skills
+|--------|------|-------|----------|
+| 仓库名 | 描述 | Stars | 最近更新 |
+| [web-search-fast](https://github.com/uk0/web-search-fast) | 一个简单的本地 web search mcp |  |  |
+
+
 ### 渗透智能体
 |--------|------|-------|----------|
 | 仓库名 | 描述 | Stars | 最近更新 |
 | [web-search-fast](https://github.com/uk0/web-search-fast) | 一个简单的本地 web search mcp |  |  |
 
-### MCP
-|--------|------|-------|----------|
-| 仓库名 | 描述 | Stars | 最近更新 |
-| [web-search-fast](https://github.com/uk0/web-search-fast) | 一个简单的本地 web search mcp |  |  |
 
 ---
 
