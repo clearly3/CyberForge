@@ -37,7 +37,6 @@
     - [综合工具](#综合工具)
     - [资产收集与测绘平台](#资产收集与测绘平台)
     - [字典](#字典)
-    - [资产收集与测绘平台](#资产收集与测绘平台)
   - [web安全](#web安全)
   - [漏洞扫描](#漏洞扫描)
   - [漏洞利用](#渗透测试工具)
@@ -60,15 +59,19 @@
 
 ### 信息收集
 #### 企业信息收集
+| 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
 | [ENScan_GO](https://github.com/wgpsec/ENScan_GO) | 只需输入名称即可收集该企业及其分支的互联网暴露信息 |  |  |
 
 #### 子域名收集
 | 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
 | [Oneforall](https://github.com/shmilylty/OneForAll) | 强大的子域名收集工具，支持暴力枚举和多种API源收集 |  |  |
 | [subfinder](https://github.com/projectdiscovery/subfinder) | 从30余种数据源快速被动收集子域名 |  |  |
 
 #### 端口扫描
 | 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
 | [naabu](https://github.com/projectdiscovery/naabu) | 一款用Go语言编写的快速端口扫描器，注重可靠性和简洁性 |  |  |
 | [Smap](https://github.com/s0md3v/Smap) | 无缝替代nmap的端口扫描工具 |  |  |
 | [masnmapscan-V1.0](https://github.com/hellogoldsnakeman/masnmapscan-V1.0) | 结合了masscan和nmap的端口扫描器 |  |  |
@@ -76,40 +79,47 @@
 
 #### 目录扫描
 | 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
 | [dirsearch](https://github.com/maurosoria/dirsearch) | 一个好用的目录扫描工具 |  |  |
 
 #### URL收集
 | 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
 | [katana](https://github.com/projectdiscovery/katana) | 强大的爬虫框架，支持多种参数传入，全面收集目标URL |  |  |
 | [urlhunter](https://github.com/utkusen/urlhunter) | 被动收集目标在互联网暴露的URL信息 |  |  |
 | [urlfinder](https://github.com/projectdiscovery/urlfinder) | 无需主动扫描、快速被动收集目标URL的工具 |  |  |
 
 #### 指纹识别
 | 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
 | [dismap](https://github.com/zhzyker/dismap) | 辅助红队快速定位目标资产信息 |  |  |
 | [hfinger](https://github.com/HackAllSec/hfinger) | 一个用于web框架、CDN和CMS指纹识别的高性能命令行工具 |  |  |
 | [P1finger](https://github.com/P001water/P1finger) | 面向红队的指纹识别工具 |  |  |
 
 #### 综合工具
 | 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
 | [TscanPlus](https://github.com/TideSec/TscanPlus) | 支持信息收集、资产测绘、漏洞扫描的强大工具 |  |  |
 | [Fine](https://github.com/fasnow/fine) | 针对企业信息收集、目标资产探测、小程序反编译的工具 |  |  |
 | [BurpSuite](https://github.com/yaklang/yakit) | 无需主动扫描、快速被动收集目标URL的工具 |  |  |
 
 #### 资产收集与测绘平台
 | 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
 | [nemo_go](https://github.com/hanc00l/nemo_go) | 自动化信息收集 |  |  |
 | [Fine](https://github.com/yaklang/yakit) | 针对企业信息收集、目标资产探测、小程序反编译的工具 |  |  |
 | [BurpSuite](https://github.com/yaklang/yakit) | 无需主动扫描、快速被动收集目标URL的工具 |  |  |
 
 #### 字典
 | 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
 | [nemo_go](https://github.com/hanc00l/nemo_go) | 自动化信息收集 |  |  |
 | [Fine](https://github.com/yaklang/yakit) | 针对企业信息收集、目标资产探测、小程序反编译的工具 |  |  |
 | [BurpSuite](https://github.com/yaklang/yakit) | 无需主动扫描、快速被动收集目标URL的工具 |  |  |
 
 ### web安全
 | 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
 | [BurpSuite](https://github.com/yaklang/yakit) | 最受欢迎的web应用测试框架，功能强大，插件丰富 |  |  |
 | [Yakit](https://github.com/yaklang/yakit) | 单兵作战武器库 |  |  |
 | [Caido](https://github.com/yaklang/yakit) | rust语言编写的轻量的web应用测试框架，正在撼动burp的地位 |  |  |
@@ -127,23 +137,28 @@
 
 ### 内网渗透
 | 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
 | [BurpSuite](https://github.com/yaklang/yakit) | 最受欢迎的web应用测试框架，功能强大，插件丰富 |  |  |
 
 ### 漏洞扫描
 | 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
 | [nuclei](https://github.com/yaklang/yakit) | 最受欢迎的web应用测试框架，功能强大，插件丰富 |  |  |
 | [afrog](https://github.com/yaklang/yakit) | 最受欢迎的web应用测试框架，功能强大，插件丰富 |  |  |
 
 ### POC资源
 | 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
 | [Vulnerability-Wiki-PoC](https://github.com/SourByte05/Vulnerability-Wiki-PoC) | 2024-至今 1Day 漏洞 PoC 深度研究与复现归档 |  |  |
 
 ### 漏洞利用
 | 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
 | [ShiroAttack2](https://github.com/SummerSec/ShiroAttack2) | shiro反序列化漏洞综合利用工具 |  |  |
 
 ### 浏览器插件
 | 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
 | [HackTools](https://github.com/LasCC/HackTools) | 面向红队和渗透测试人员的一体化浏览器插件 |  |  |
 | [SnowEyes](https://github.com/SickleSec/SnowEyes) | 网站解析、网页敏感信息检测、指纹识别的chrome插件 |  |  |
 | [keyFinder](https://github.com/momenbasel/keyFinder) | 被动发现各种API密钥和敏感信息的浏览器插件 |  |  |
@@ -186,13 +201,13 @@
 | [Lingma](https://lingma.aliyun.com/) | 阿里云推出的免费的图形化编程智能体 |  |  |
 
 ### 渗透智能体
-
+|--------|------|-------|----------|
 | 仓库名 | 描述 | Stars | 最近更新 |
 | [web-search-fast](https://github.com/uk0/web-search-fast) | 一个简单的本地 web search mcp |  |  |
 
 ### MCP
-| 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
+| 仓库名 | 描述 | Stars | 最近更新 |
 | [web-search-fast](https://github.com/uk0/web-search-fast) | 一个简单的本地 web search mcp |  |  |
 
 ---
