@@ -96,7 +96,7 @@
 
 ### 编码助手
 
-| 仓库名 | 描述 | Stars | 最近更新 |
+| 仓库名 | 描述 | Stars | 最近更新 | 是
 |--------|------|----------|------------|----------|
 | [Claude Code](https://github.com/anthropics/claude-code) | 最好用、最受欢迎的AI编码助手 |  |  |
 | [Codex](https://github.com/openai/codex) | OpenAI推出的编程助手，支持代码生成、解释和调试 |  |  |
