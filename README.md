@@ -191,8 +191,8 @@
 | [web-search-fast](https://github.com/uk0/web-search-fast) | 一个简单的本地 web search mcp |  |  |
 
 ### MCP
-|--------|------|-------|----------|
 | 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
 | [web-search-fast](https://github.com/uk0/web-search-fast) | 一个简单的本地 web search mcp |  |  |
 
 ---
