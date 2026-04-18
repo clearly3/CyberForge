@@ -1,95 +1,95 @@
-# 🚀 TechStack Radar - 多技术领域资源大全  
-# 🚀 TechStack Radar - Multi-Technology Resource Catalog  
+# 🚀 TechStack Radar - 多技术领域资源大全
 
 [![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/MultiTech-Resource-Catalog?style=for-the-badge)](https://github.com/YOUR_USERNAME/MultiTech-Resource-Catalog/stargazers)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/MultiTech-Resource-Catalog?style=for-the-badge)](https://github.com/YOUR_USERNAME/MultiTech-Resource-Catalog/commits/main)
 [![License](https://img.shields.io/github/license/YOUR_USERNAME/MultiTech-Resource-Catalog?style=for-the-badge)](https://github.com/YOUR_USERNAME/MultiTech-Resource-Catalog/blob/main/LICENSE)
-[![Auto Update](https://img.shields.io/badge/🔄-Weekly%20Auto%20Update-blue?style=for-the-badge)](https://github.com/YOUR_USERNAME/MultiTech-Resource-Catalog/actions/workflows/auto_update.yml)
+[![Auto Update](https://img.shields.io/badge/🔄-每周自动更新-blue?style=for-the-badge)](https://github.com/YOUR_USERNAME/MultiTech-Resource-Catalog/actions/workflows/auto_update.yml)
 
 ---
 
-## 📖 简介 | Introduction
+## 📖 简介
 
 **TechStack Radar** 是一个精心策划的多技术领域开源资源目录，专注于**安全工具、AI开发、人工智能、渗透测试和开发工具**。本目录旨在为技术从业者、安全研究人员和AI开发者提供一个全面、最新的技术资源参考。
 
-**TechStack Radar** is a curated multi-technology open-source resource catalog focusing on **security tools, AI development, artificial intelligence, penetration testing, and development tools**. This catalog aims to provide technical practitioners, security researchers, and AI developers with a comprehensive and up-to-date technical resource reference.
+### ✨ 主要特性
 
-### ✨ 主要特性 | Key Features
 - **🔄 自动更新**: 每周自动从GitHub API获取项目最新信息（Stars数、更新时间）
 - **📊 多维度数据**: 包含项目Stars、最近更新、技术栈标签等信息
 - **🏷️ 智能分类**: 按技术领域和用途分类，便于快速查找
-- **🌐 中英双语**: 支持中文和英文用户使用
 
-### 📈 数据统计 | Statistics
-> 📊 **最后更新**: 2026-04-17 | 总项目数: 0 | 分类数: 5  
+### 📈 数据统计
+
+> 📊 **最后更新**: 2026-04-17 | **总项目数**: 0 | **分类数**: 5
 > ⚡ **更新频率**: 每周一自动更新 | 🛠️ **自动化脚本**: Python + GitHub Actions
 
 ---
 
-## 📚 目录索引 | Table of Contents
+## 📚 目录索引
 
-- [🛡️ 安全领域 | Security Domain](#-安全领域--security-domain)
-  - [传统安全工具 | Traditional Security Tools](#传统安全工具--traditional-security-tools)
-  - [网络安全工具 | Network Security Tools](#网络安全工具--network-security-tools)
-  - [渗透测试工具 | Penetration Testing Tools](#渗透测试工具--penetration-testing-tools)
-- [🤖 AI与人工智能 | AI & Artificial Intelligence](#-ai与人工智能--ai--artificial-intelligence)
-  - [AI开发框架 | AI Development Frameworks](#ai开发框架--ai-development-frameworks)
-  - [机器学习库 | Machine Learning Libraries](#机器学习库--machine-learning-libraries)
-  - [AI安全工具 | AI Security Tools](#ai安全工具--ai-security-tools)
-- [⚡ 开发工具与框架 | Development Tools & Frameworks](#-开发工具与框架--development-tools--frameworks)
-  - [开发工具 | Development Tools](#开发工具--development-tools)
-  - [实用工具库 | Utility Libraries](#实用工具库--utility-libraries)
+- [🛡️ 安全领域](#-安全领域)
+  - [传统安全工具](#传统安全工具)
+  - [网络安全工具](#网络安全工具)
+  - [渗透测试工具](#渗透测试工具)
+- [🤖 AI与人工智能](#-ai与人工智能)
+  - [AI开发框架](#ai开发框架)
+  - [机器学习库](#机器学习库)
+  - [AI安全工具](#ai安全工具)
+- [⚡ 开发工具与框架](#-开发工具与框架)
+  - [浏览器插件](#浏览器插件)
+  - [编码助手](#编码助手)
+  - [开发工具](#开发工具)
+  - [实用工具库](#实用工具库)
 
 ---
 
-## 🛡️ 安全领域 | Security Domain
+## 🛡️ 安全领域
 
-### 传统安全工具 | Traditional Security Tools
+### 传统安全工具
 
 | 仓库名 | 描述 | ⭐ Stars | 🔄 最近更新 | 🏷️ 技术栈 |
 |--------|------|----------|------------|----------|
 | [yakit](https://github.com/yaklang/yakit) | 单兵作战武器库，你值得拥有 |  |  | Go |
-| *更多项目正在收集中...* | *More projects are being collected...* |  |  |  |
+| *更多项目正在收集中...* | *更多项目正在收集中...* |  |  |  |
 
-### 网络安全工具 | Network Security Tools
-
-| 仓库名 | 描述 | ⭐ Stars | 🔄 最近更新 | 🏷️ 技术栈 |
-|--------|------|----------|------------|----------|
-| *项目正在收集中...* | *Projects are being collected...* |  |  |  |
-
-### 渗透测试工具 | Penetration Testing Tools
+### 网络安全工具
 
 | 仓库名 | 描述 | ⭐ Stars | 🔄 最近更新 | 🏷️ 技术栈 |
 |--------|------|----------|------------|----------|
-| *项目正在收集中...* | *Projects are being collected...* |  |  |  |
+| *项目正在收集中...* | *项目正在收集中...* |  |  |  |
+
+### 渗透测试工具
+
+| 仓库名 | 描述 | ⭐ Stars | 🔄 最近更新 | 🏷️ 技术栈 |
+|--------|------|----------|------------|----------|
+| *项目正在收集中...* | *项目正在收集中...* |  |  |  |
 
 ---
 
-## 🤖 AI与人工智能 | AI & Artificial Intelligence
+## 🤖 AI与人工智能
 
-### AI开发框架 | AI Development Frameworks
-
-| 仓库名 | 描述 | ⭐ Stars | 🔄 最近更新 | 🏷️ 技术栈 |
-|--------|------|----------|------------|----------|
-| *项目正在收集中...* | *Projects are being collected...* |  |  |  |
-
-### 机器学习库 | Machine Learning Libraries
+### AI开发框架
 
 | 仓库名 | 描述 | ⭐ Stars | 🔄 最近更新 | 🏷️ 技术栈 |
 |--------|------|----------|------------|----------|
-| *项目正在收集中...* | *Projects are being collected...* |  |  |  |
+| *项目正在收集中...* | *项目正在收集中...* |  |  |  |
 
-### AI安全工具 | AI Security Tools
+### 机器学习库
 
 | 仓库名 | 描述 | ⭐ Stars | 🔄 最近更新 | 🏷️ 技术栈 |
 |--------|------|----------|------------|----------|
-| *项目正在收集中...* | *Projects are being collected...* |  |  |  |
+| *项目正在收集中...* | *项目正在收集中...* |  |  |  |
+
+### AI安全工具
+
+| 仓库名 | 描述 | ⭐ Stars | 🔄 最近更新 | 🏷️ 技术栈 |
+|--------|------|----------|------------|----------|
+| *项目正在收集中...* | *项目正在收集中...* |  |  |  |
 
 ---
 
-## ⚡ 开发工具与框架 | Development Tools & Frameworks
+## ⚡ 开发工具与框架
 
-### 浏览器插件 | Browser Extensions
+### 浏览器插件
 
 | 仓库名 | 描述 | ⭐ Stars | 🔄 最近更新 | 🏷️ 技术栈 |
 |--------|------|----------|------------|----------|
@@ -100,7 +100,7 @@
 | [CloudVueRoute](https://github.com/cloud-jie/CloudVueRoute) | 快速提取Vue应用中路由信息的浏览器脚本 |  |  |  |
 | [Vue-Router](https://github.com/dear-cell/Vue-Router) | 测试Vue路由接口的chorme插件 |  |  |  |
 
-### 编码助手 | Coding Assistants
+### 编码助手
 
 | 仓库名 | 描述 | ⭐ Stars | 🔄 最近更新 | 🏷️ 技术栈 |
 |--------|------|----------|------------|----------|
@@ -114,30 +114,33 @@
 | [qwen-code](https://github.com/QwenLM/qwen-code) | 阿里巴巴基于Qwen3-Coder的命令行AI工作流工具 |  |  |  |
 | [kimi-cli](https://github.com/MoonshotAI/kimi-cli) | kimi官方推出的命令行通用智能体工具 |  |  |  |
 
-### 开发工具 | Development Tools
+### 开发工具
 
 | 仓库名 | 描述 | ⭐ Stars | 🔄 最近更新 | 🏷️ 技术栈 |
 |--------|------|----------|------------|----------|
-| *项目正在收集中...* | *Projects are being collected...* |  |  |  |
+| *项目正在收集中...* | *项目正在收集中...* |  |  |  |
 
-### 实用工具库 | Utility Libraries
+### 实用工具库
 
 | 仓库名 | 描述 | ⭐ Stars | 🔄 最近更新 | 🏷️ 技术栈 |
 |--------|------|----------|------------|----------|
-| *项目正在收集中...* | *Projects are being collected...* |  |  |  |
+| *项目正在收集中...* | *项目正在收集中...* |  |  |  |
 
 ---
 
-## 🔧 使用与贡献 | Usage & Contribution
+## 🔧 使用与贡献
 
-### 如何使用 | How to Use
+### 如何使用
+
 1. 浏览对应分类查找相关工具
 2. 点击仓库名访问GitHub项目页面
 3. 查看Stars数和最近更新了解项目活跃度
 4. 根据技术栈标签选择适合的工具
 
-### 如何贡献 | How to Contribute
+### 如何贡献
+
 我们欢迎社区贡献！如需添加新项目，请：
+
 1. Fork本仓库
 2. 在对应分类的表格中添加新行
 3. 确保"仓库名"列为有效的GitHub URL
@@ -148,24 +151,28 @@
 - "描述"列: 简洁明了的中文或英文描述
 - "技术栈"列: 可选，填写主要编程语言或技术
 
-### 自动更新说明 | Auto-Update Notes
+### 自动更新说明
+
 - 本目录使用自动化脚本每周更新Stars数和最近更新时间
 - 添加新项目时只需提供GitHub URL，脚本会自动获取其他信息
 - 如需手动触发更新，请前往GitHub Actions页面运行工作流
 
 ---
 
-## ⚙️ 技术架构 | Technical Architecture
+## ⚙️ 技术架构
 
-### 自动化系统 | Automation System
+### 自动化系统
+
 - **更新脚本**: `update_resources.py` - Python脚本，解析README并调用GitHub API
 - **工作流**: `.github/workflows/auto_update.yml` - GitHub Actions每周自动运行
 - **数据获取**: 通过GitHub REST API获取 `stargazers_count` 和 `pushed_at`
 
-### 项目结构 | Project Structure
+### 项目结构
+
 ```
 MultiTech-Resource-Catalog/
 ├── README.md                    # 主目录文件
+├── reademe_en.md                # 英文版本
 ├── update_resources.py          # 自动化更新脚本
 ├── requirements.txt             # Python依赖
 ├── .github/workflows/
@@ -176,19 +183,19 @@ MultiTech-Resource-Catalog/
 
 ---
 
-## 📄 许可证 | License
+## 📄 许可证
 
 本项目采用 [MIT License](LICENSE) 开源协议。
 
 ---
 
-## 🙏 致谢 | Acknowledgments
+## 🙏 致谢
 
 感谢所有开源项目的贡献者，以及参考项目的启发：
+
 - [All-Defense-Tool](https://github.com/L0una/All-Defense-Tool) - 安全工具目录设计参考
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - 资源聚合思路参考
 
-**保持更新，持续学习！** 🚀  
-**Stay Updated, Keep Learning!** 🚀
+**保持更新，持续学习！** 🚀
 
 > 📧 如有建议或问题，请通过GitHub Issues提交反馈。
