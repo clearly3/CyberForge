@@ -28,6 +28,16 @@
 
 - [🛡️直至今日仍旧好用的安全工具](#直至今日仍旧好用的安全工具)
   - [信息收集](#信息收集)
+    - [企业信息收集](#企业信息收集)
+    - [子域名收集](#子域名收集)
+    - [端口扫描](#端口扫描)
+    - [目录扫描](#目录扫描)
+    - [URL收集](#URL收集)
+    - [指纹识别](#指纹识别)
+    - [综合工具](#综合工具)
+    - [资产收集与测绘平台](#资产收集与测绘平台)
+    - [字典](#字典)
+    - [资产收集与测绘平台](#资产收集与测绘平台)
   - [web安全](#web安全)
   - [漏洞扫描](#漏洞扫描)
   - [漏洞利用](#渗透测试工具)
@@ -46,7 +56,7 @@
 
 ---
 
-## 🛡️ 时至今日仍旧好用的安全工具
+## 🛡️ 时至今日仍旧好用的安全项目
 
 ### 信息收集
 #### 企业信息收集
@@ -103,6 +113,17 @@
 | [BurpSuite](https://github.com/yaklang/yakit) | 最受欢迎的web应用测试框架，功能强大，插件丰富 |  |  |
 | [Yakit](https://github.com/yaklang/yakit) | 单兵作战武器库 |  |  |
 | [Caido](https://github.com/yaklang/yakit) | rust语言编写的轻量的web应用测试框架，正在撼动burp的地位 |  |  |
+| [sqlmap](https://github.com/sqlmapproject/sqlmap) | 发现sql注入后，快速利用它 |  |  |
+| [ByPassTamperPlus](https://github.com/Tas9er/ByPassTamperPlus) | 提升sqlmap绕过waf能力的Tamper合集 |  |  |
+| [ghauri](https://github.com/r0oth3x49/ghauri) | 与sqlmap神似的注入漏洞扫描工具 |  |  |
+| [nomore403](https://github.com/devploit/nomore403) | 执行低误报的40x绕过方案 |  |  |
+| [XSStrike](https://github.com/s0md3v/XSStrike) | 号称最好用的xss扫描器 |  |  |
+| [liffy](https://github.com/mzfr/liffy) | 本地文件包含漏洞扫描工具 |  |  |
+| [plecost](https://github.com/Plecost/plecost) | 针对WordPress的漏洞扫描工具 |  |  |
+| [SSRFmap](https://github.com/swisskyrepo/SSRFmap) | 自动SSRF模糊测试与利用工具 |  |  |
+| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 几乎包含所有常见web漏洞payload的仓库 |  |  |
+| [xray](https://github.com/mzfr/liffy) | 本地文件包含漏洞扫描工具 |  |  |
+| [liffy](https://github.com/mzfr/liffy) | 本地文件包含漏洞扫描工具 |  |  |
 
 ### 内网渗透
 | 仓库名 | 描述 | Stars | 最近更新 |
@@ -112,7 +133,6 @@
 | 仓库名 | 描述 | Stars | 最近更新 |
 | [nuclei](https://github.com/yaklang/yakit) | 最受欢迎的web应用测试框架，功能强大，插件丰富 |  |  |
 | [afrog](https://github.com/yaklang/yakit) | 最受欢迎的web应用测试框架，功能强大，插件丰富 |  |  |
-| [BurpSuite](https://github.com/yaklang/yakit) | 最受欢迎的web应用测试框架，功能强大，插件丰富 |  |  |
 
 ### POC资源
 | 仓库名 | 描述 | Stars | 最近更新 |
@@ -121,10 +141,6 @@
 ### 漏洞利用
 | 仓库名 | 描述 | Stars | 最近更新 |
 | [ShiroAttack2](https://github.com/SummerSec/ShiroAttack2) | shiro反序列化漏洞综合利用工具 |  |  |
-| [HackTools](https://github.com/LasCC/HackTools) | 面向红队和渗透测试人员的一体化浏览器插件 |  |  |
-| [HackTools](https://github.com/LasCC/HackTools) | 面向红队和渗透测试人员的一体化浏览器插件 |  |  |
-| [HackTools](https://github.com/LasCC/HackTools) | 面向红队和渗透测试人员的一体化浏览器插件 |  |  |
-| [HackTools](https://github.com/LasCC/HackTools) | 面向红队和渗透测试人员的一体化浏览器插件 |  |  |
 
 ### 浏览器插件
 | 仓库名 | 描述 | Stars | 最近更新 |
