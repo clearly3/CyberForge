@@ -139,11 +139,9 @@ def format_number(num: int) -> str:
     """
     return str(num)
 
-def pad_cell(text: str, width: int) -> str:
-    """
-    保留，仅供其他可能用途，此处不再使用固定宽度填充
-    """
-    return text
+def pad_to_width(text: str, width: int) -> str:
+    """将文本填充到指定宽度，保持左对齐"""
+    return text.ljust(width)
 
 def update_readme_table(readme_path: str):
     """
@@ -305,6 +303,15 @@ def process_table_section(table_lines: List[str]) -> List[str]:
     if col_indices['name'] == -1:
         return table_lines
 
+    # 从分隔行解析列宽度
+    separator = table_lines[1].strip()
+    sep_parts = [p.strip() for p in separator.split('|') if p.strip()]
+    col_widths = []
+    for sep in sep_parts:
+        # 计算分隔符显示的宽度（-的个数，:和空格不计）
+        width = len(sep.replace(':', '').replace('-', ''))
+        col_widths.append(max(width, 3))
+
     # 处理数据行
     result_lines = [table_lines[0]]  # 表头
     result_lines.append(table_lines[1])  # 分隔线
@@ -371,9 +378,11 @@ def process_table_section(table_lines: List[str]) -> List[str]:
     # 按stars数排序（可选）
     # 这里可以根据需要实现排序逻辑
 
-    # 添加排序后的数据行
+    # 添加排序后的数据行（带列宽对齐）
     for row in data_rows:
-        result_lines.append('| ' + ' | '.join(row) + ' |\n')
+        padded_row = [pad_to_width(cell, col_widths[i]) if i < len(col_widths) else cell
+                      for i, cell in enumerate(row)]
+        result_lines.append('| ' + ' | '.join(padded_row) + ' |\n')
 
     return result_lines
 
