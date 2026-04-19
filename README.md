@@ -3,9 +3,9 @@
 **多技术领域资源大全** · 安全 · AI · 渗透测试
 
 ---
-[![Stars](https://img.shields.io/github/stars/Z4nzu/hackingtool?style=flat-square&color=yellow)](https://github.com/Z4nzu/hackingtool/stargazers)&nbsp;
-[![License](https://img.shields.io/github/license/Z4nzu/hackingtool?style=flat-square&color=blue)](LICENSE)&nbsp;
-[![Last Commit](https://img.shields.io/github/last-commit/Z4nzu/hackingtool?style=flat-square&color=00FF88)](https://github.com/Z4nzu/hackingtool/commits/master)&nbsp;
+[![Stars](https://img.shields.io/github/stars/Z4nzu/hackingtool?style=for-the-badge&color=yellow)](https://github.com/Z4nzu/hackingtool/stargazers)&nbsp;
+[![License](https://img.shields.io/github/license/Z4nzu/hackingtool?style=for-the-badge&color=blue)](LICENSE)&nbsp;
+[![Last Commit](https://img.shields.io/github/last-commit/Z4nzu/hackingtool?style=for-the-badge&color=00FF88)](https://github.com/Z4nzu/hackingtool/commits/master)&nbsp;
 [![Auto Sync](https://img.shields.io/badge/AUTO--SYNC-WEEKLY-7B61FF?style=for-the-badge)](#)&nbsp;
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)&nbsp;
 [![Security](https://img.shields.io/badge/Security-FF4D4D?style=for-the-badge)](#)&nbsp;
