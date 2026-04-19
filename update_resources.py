@@ -342,13 +342,13 @@ def process_table_section(table_lines: List[str]) -> List[str]:
                     if col_indices['stars'] >= len(parts):
                         # 扩展列表
                         parts.extend([''] * (col_indices['stars'] - len(parts) + 1))
-                    parts[col_indices['stars']] = f"⭐ {format_number(repo_info['stargazers_count'])}"
+                    parts[col_indices['stars']] = format_number(repo_info['stargazers_count'])
 
                 # 更新更新时间列
                 if col_indices['updated'] != -1:
                     if col_indices['updated'] >= len(parts):
                         parts.extend([''] * (col_indices['updated'] - len(parts) + 1))
-                    parts[col_indices['updated']] = f"🔄 {repo_info['pushed_at_formatted']}"
+                    parts[col_indices['updated']] = repo_info['pushed_at_formatted']
 
         # 确保所有列都存在
         max_cols = max(col_indices.values()) + 1
