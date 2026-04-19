@@ -141,19 +141,9 @@ def format_number(num: int) -> str:
 
 def pad_cell(text: str, width: int) -> str:
     """
-    将文本填充到固定宽度（按字符计，中文占2宽度，英文/符号占1宽度）
-
-    Args:
-        text: 要填充的文本
-        width: 目标宽度
-
-    Returns:
-        填充后的文本
+    保留，仅供其他可能用途，此处不再使用固定宽度填充
     """
-    # 计算当前文本的显示宽度（中文=2，英文/符号=1）
-    display_width = sum(2 if '\u4e00' <= c <= '\u9fff' else 1 for c in text)
-    # 不足宽度则用空格填充
-    return text + ' ' * (width - display_width)
+    return text
 
 def update_readme_table(readme_path: str):
     """
@@ -206,7 +196,7 @@ def update_readme_table(readme_path: str):
 
         # 查找并更新stars数
         stars_pattern = rf'\[{re.escape(repo_name)}\]\({re.escape(url)}\)[^|]*\|[^|]*\|[^|]*\|\s*(\d+|\s*)\s*\|'
-        stars_replacement = f'[{repo_name}]({url}) | {info.get("description", "")} | {format_number(info["stargazers_count"])} |'
+        stars_replacement = f'[{repo_name}]({url}) | {info.get("description", "")} | ⭐ {format_number(info["stargazers_count"])} |'
 
         # 先尝试更新stars列
         if re.search(stars_pattern, updated_content):
@@ -316,13 +306,8 @@ def process_table_section(table_lines: List[str]) -> List[str]:
         return table_lines
 
     # 处理数据行
-    # 表头固定宽度
-    header_parts = [p.strip() for p in table_lines[0].strip().split('|') if p.strip()]
-    COL_WIDTHS = [45, 40, 10, 12]
-    padded_header = [pad_cell(cell, COL_WIDTHS[i]) for i, cell in enumerate(header_parts)]
-    result_lines = ['| ' + ' | '.join(padded_header) + ' |\n']
-    # 分隔线保持原样
-    result_lines.append(table_lines[1])
+    result_lines = [table_lines[0]]  # 表头
+    result_lines.append(table_lines[1])  # 分隔线
 
     data_rows = []
 
@@ -357,13 +342,13 @@ def process_table_section(table_lines: List[str]) -> List[str]:
                     if col_indices['stars'] >= len(parts):
                         # 扩展列表
                         parts.extend([''] * (col_indices['stars'] - len(parts) + 1))
-                    parts[col_indices['stars']] = f"{format_number(repo_info['stargazers_count'])}"
+                    parts[col_indices['stars']] = f"⭐ {format_number(repo_info['stargazers_count'])}"
 
                 # 更新更新时间列
                 if col_indices['updated'] != -1:
                     if col_indices['updated'] >= len(parts):
                         parts.extend([''] * (col_indices['updated'] - len(parts) + 1))
-                    parts[col_indices['updated']] = f"{repo_info['pushed_at_formatted']}"
+                    parts[col_indices['updated']] = f"🔄 {repo_info['pushed_at_formatted']}"
 
         # 确保所有列都存在
         max_cols = max(col_indices.values()) + 1
@@ -379,12 +364,9 @@ def process_table_section(table_lines: List[str]) -> List[str]:
     # 按stars数排序（可选）
     # 这里可以根据需要实现排序逻辑
 
-    # 添加排序后的数据行（固定宽度填充）
-    # 列宽定义：仓库名45 | 描述40 | Stars10 | 最近更新12
-    COL_WIDTHS = [45, 40, 10, 12]
+    # 添加排序后的数据行
     for row in data_rows:
-        padded_row = [pad_cell(cell, COL_WIDTHS[i]) for i, cell in enumerate(row)]
-        result_lines.append('| ' + ' | '.join(padded_row) + ' |\n')
+        result_lines.append('| ' + ' | '.join(row) + ' |\n')
 
     return result_lines
 
