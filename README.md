@@ -1,6 +1,6 @@
 # 🚀 CyberForge
 
-**安全研究员与AI开发者的资源雷达**
+**网络安全人员的资源雷达**
 
 ---
 [![Stars](https://img.shields.io/github/stars/clearly3/CyberForge?style=flat-square&color=yellow)](https://github.com/clearly3/CyberForge/stargazers)&nbsp;
