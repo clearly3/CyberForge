@@ -4,19 +4,17 @@
 
 ---
 [![Stars](https://img.shields.io/github/stars/Z4nzu/hackingtool?style=flat-square&color=yellow)](https://github.com/Z4nzu/hackingtool/stargazers)&nbsp;
-[![License](https://img.shields.io/github/license/Z4nzu/hackingtool?style=flat-square&color=7B61FF)](LICENSE)&nbsp;
-[![Last Commit](https://img.shields.io/github/last-commit/Z4nzu/hackingtool?style=flat-square&color=00FF88)](https://github.com/Z4nzu/hackingtool/commits/master)&nbsp;
-[![Auto Sync](https://img.shields.io/badge/AUTO--SYNC-WEEKLY-7B61FF?style=flat-square)](#)&nbsp;
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)&nbsp;
 [![Security](https://img.shields.io/badge/Security-FF4D4D?style=flat-square)](#)&nbsp;
 [![AI-Agent](https://img.shields.io/badge/AI--Agent-00FF88?style=flat-square)](#)&nbsp;
 [![Pentest](https://img.shields.io/badge/Pentest-FFA116?style=flat-square&logo=linux&logoColor=white)](#)&nbsp;
+[![Auto Sync](https://img.shields.io/badge/AUTO--SYNC-WEEKLY-7B61FF?style=flat-square)](#)&nbsp;
 
 ---
 
 ## 📖 简介
 
-**TechStack Radar** 是一个精心策划的多技术领域开源资源目录，专注于**安全工具、AI开发、人工智能、渗透测试和开发工具**。本目录旨在为技术从业者、安全研究人员和AI开发者提供一个全面、最新的技术资源参考。
+这是一个专注**网络安全**与**AI安全**、**智能体**等领域的开源资源导航。我们总结在以往的岁月中好用、受欢迎、优秀的安全工具、资源。同样也收集在AI时代好用、有趣、值得学习和研究的开源项目，帮你在浩如烟海的GitHub中快速找到真正值得花时间的工具。
 
 ### ✨ 主要特性
 
