@@ -3,7 +3,7 @@
 **安全研究员与AI开发者的资源雷达**
 
 ---
-[![Stars](https://img.shields.io/github/stars/Z4nzu/hackingtool?style=flat-square&color=yellow)](https://github.com/Z4nzu/hackingtool/stargazers)&nbsp;
+[![Stars](https://img.shields.io/github/stars/clearly3/CyberForge?style=flat-square&color=yellow)](https://github.com/clearly3/CyberForge/stargazers)&nbsp;
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)&nbsp;
 [![Security](https://img.shields.io/badge/Security-FF4D4D?style=flat-square)](#)&nbsp;
 [![AI-Agent](https://img.shields.io/badge/AI--Agent-00FF88?style=flat-square)](#)&nbsp;
@@ -318,15 +318,12 @@
 ### 项目结构
 
 ```
-MultiTech-Resource-Catalog/
-├── README.md                    # 主目录文件
-├── reademe_en.md                # 英文版本
-├── update_resources.py          # 自动化更新脚本
-├── requirements.txt             # Python依赖
-├── .github/workflows/
-│   └── auto_update.yml          # 自动更新工作流
-├── CONTRIBUTING.md              # 贡献指南（可选）
-└── LICENSE                      # 许可证文件
+CyberForge/
+├── README.md
+├── update_resources.py
+├── requirements.txt
+└── .github/workflows/
+    └── auto_update.yml
 ```
 ---
 
