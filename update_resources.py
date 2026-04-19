@@ -242,8 +242,9 @@ def parse_and_update_tables(readme_path: str):
         elif in_table:
             table_lines.append(line)
 
-            # 检测表格结束（空行或新章节）
+            # 检测表格结束（空行、新章节、或---分隔线）
             if (not stripped or stripped.startswith('#') or
+                stripped == '---' or
                 (i+1 < len(lines) and lines[i+1].strip().startswith('#'))):
                 # 处理这个表格
                 processed_table = process_table_section(table_lines)
