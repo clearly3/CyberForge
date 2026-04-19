@@ -4,11 +4,7 @@
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  🏆 12.8k  │  📜 MIT  │  🕐 2026-04-17  │  ⚡ AUTO-SYNC  ║
-╚══════════════════════════════════════════════════════════╝
-```
+| ![Stars](https://img.shields.io/github/stars/Z4nzu/hackingtool?style=flat-square&color=yellow) 12.8k | ![License](https://img.shields.io/github/license/Z4nzu/hackingtool?color=blue) MIT | ![Last Commit](https://img.shields.io/github/last-commit/Z4nzu/hackingtool?color=00FF88) 2026-04-17 | ![Auto Sync](https://img.shields.io/badge/AUTO--SYNC-WEEKLY-7B61FF?style=flat-square) |
 
 ---
 
