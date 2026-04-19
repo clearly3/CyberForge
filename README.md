@@ -3,14 +3,14 @@
 **多技术领域资源大全** · 安全 · AI · 渗透测试
 
 ---
-[![Stars](https://img.shields.io/github/stars/Z4nzu/hackingtool?style=for-the-badge&color=yellow)](https://github.com/Z4nzu/hackingtool/stargazers)&nbsp;
-[![License](https://img.shields.io/github/license/Z4nzu/hackingtool?style=for-the-badge&color=blue)](LICENSE)&nbsp;
-[![Last Commit](https://img.shields.io/github/last-commit/Z4nzu/hackingtool?style=for-the-badge&color=00FF88)](https://github.com/Z4nzu/hackingtool/commits/master)&nbsp;
-[![Auto Sync](https://img.shields.io/badge/AUTO--SYNC-WEEKLY-7B61FF?style=for-the-badge)](#)&nbsp;
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)&nbsp;
-[![Security](https://img.shields.io/badge/Security-FF4D4D?style=for-the-badge)](#)&nbsp;
-[![AI-Agent](https://img.shields.io/badge/AI--Agent-00FF88?style=for-the-badge)](#)&nbsp;
-[![Pentest](https://img.shields.io/badge/Pentest-FFA116?style=for-the-badge&logo=linux&logoColor=white)](#)&nbsp;
+[![Stars](https://img.shields.io/github/stars/Z4nzu/hackingtool?style=flat-square&color=yellow)](https://github.com/Z4nzu/hackingtool/stargazers)&nbsp;
+[![License](https://img.shields.io/github/license/Z4nzu/hackingtool?style=flat-square&color=7B61FF)](LICENSE)&nbsp;
+[![Last Commit](https://img.shields.io/github/last-commit/Z4nzu/hackingtool?style=flat-square&color=00FF88)](https://github.com/Z4nzu/hackingtool/commits/master)&nbsp;
+[![Auto Sync](https://img.shields.io/badge/AUTO--SYNC-WEEKLY-7B61FF?style=flat-square)](#)&nbsp;
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)&nbsp;
+[![Security](https://img.shields.io/badge/Security-FF4D4D?style=flat-square)](#)&nbsp;
+[![AI-Agent](https://img.shields.io/badge/AI--Agent-00FF88?style=flat-square)](#)&nbsp;
+[![Pentest](https://img.shields.io/badge/Pentest-FFA116?style=flat-square&logo=linux&logoColor=white)](#)&nbsp;
 
 ---
 
