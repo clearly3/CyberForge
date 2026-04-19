@@ -313,7 +313,10 @@ def process_table_section(table_lines: List[str]) -> List[str]:
 
     for line in table_lines[2:]:
         stripped = line.strip()
-        if not stripped or not '|' in stripped:
+        if not stripped:
+            # 跳过空行，不添加到结果
+            continue
+        if not '|' in stripped:
             # 非表格行，可能是表格结束
             result_lines.append(line)
             continue
@@ -324,6 +327,10 @@ def process_table_section(table_lines: List[str]) -> List[str]:
             parts.pop(0)
         if parts and parts[-1] == '':
             parts.pop(-1)
+
+        # 跳过全空或只有空格的行（会导致空行）
+        if not parts or all(p == '' for p in parts):
+            continue
 
         # 提取GitHub URL
         github_url = None
