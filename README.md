@@ -124,8 +124,7 @@
 | [XSStrike](https://github.com/s0md3v/XSStrike)                 | 号称最好用的xss扫描器             | 14899   | 2025-04-26 |
 | [liffy](https://github.com/mzfr/liffy)                         | 本地文件包含漏洞扫描工具             | 947     | 2025-10-01 |
 | [SSRFmap](https://github.com/swisskyrepo/SSRFmap)              | 自动SSRF模糊测试与利用工具          | 3531    | 2025-09-04 |
-| [SSTImap](https://github.com/vladko312/SSTImap)                | 模版注入利用                   | 1468    | 2026-03-22 |
-| [liffy](https://github.com/mzfr/liffy)                         | 本地文件包含漏洞扫描工具             | 947     | 2025-10-01 |
+| [SSTImap](https://github.com/vladko312/SSTImap)                | 发现模版注入时自动化利用                   | 1468    | 2026-03-22 |
 #### payload-list
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -147,6 +146,7 @@
 | [GitHack](https://github.com/lijiejie/GitHack)           | .git文件夹泄露漏洞利用        | 3536    | 2023-02-01 |
 | [gitleaks](https://github.com/gitleaks/gitleaks)         | 一个秘钥泄露扫描工具           | 26056   | 2026-03-25 |
 | [idea_exploit](https://github.com/lijiejie/idea_exploit) | 扫描idea配置文件中可能存在的敏感信息 | 371     | 2022-08-05 |
+| [heapdump_tool](https://github.com/wyzxxz/heapdump_tool) | heapdump泄露利用工具 | 371     | 2022-08-05 |
 #### 字典
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
