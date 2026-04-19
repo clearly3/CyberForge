@@ -233,14 +233,14 @@
 |--------|------|-------|----------|
 | [Claude Code](https://github.com/anthropics/claude-code) | 最好用、最受欢迎的AI编码助手               | 115881  | 2026-04-18 |
 | [Codex](https://github.com/openai/codex)                 | OpenAI推出的编程助手，支持代码生成、解释和调试    | 76326   | 2026-04-19 |
-| [Cursor](https://cursor.com/)                            | 基于VSCode深度定制的AI原生IDE          |         |            |
-| [OpenCode](https://opencode.ai/)                         | 完全开源免费的AI编码工具                 |         |            |
-| [Trae](https://www.trae.cn/)                             | 字节跳动推出的AI原生集成开发环境             |         |            |
-| [Kiro](https://kiro.dev/)                                | 亚马逊推出的AI IDE                  |         |            |
-| [Qoder](https://qoder.com/)                              | 阿里巴巴开发的编程智能体，特色是专家团开发         |         |            |
+| [Cursor](https://cursor.com/)                            | 基于VSCode深度定制的AI原生IDE          |     -    |      -       |
+| [OpenCode](https://opencode.ai/)                         | 完全开源免费的AI编码工具                 |    -     |      -       |
+| [Trae](https://www.trae.cn/)                             | 字节跳动推出的AI原生集成开发环境             |    -     |     -       |
+| [Kiro](https://kiro.dev/)                                | 亚马逊推出的AI IDE                  |     -    |     -       |
+| [Qoder](https://qoder.com/)                              | 阿里巴巴开发的编程智能体，特色是专家团开发         |    -     |       -     |
 | [qwen-code](https://github.com/QwenLM/qwen-code)         | 阿里巴巴推出的基于Qwen3-Coder的命令行编程智能体 | 23557   | 2026-04-19 |
 | [kimi-cli](https://github.com/MoonshotAI/kimi-cli)       | kimi推出的命令行通用智能体工具             | 7913    | 2026-04-17 |
-| [Lingma](https://lingma.aliyun.com/)                     | 阿里云推出的免费的图形化编程智能体             |         |            |
+| [Lingma](https://lingma.aliyun.com/)                     | 阿里云推出的免费的图形化编程智能体             |     -    |       -     |
 ### about-claude-code
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
