@@ -276,7 +276,6 @@
 ### 好用的AI工具
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
----
 | [claudecodeui](https://github.com/siteboon/claudecodeui)                          | 提供一个web-ui，更好的管理AI编程工具会话和使用它们         | 9997    | 2026-04-18 |
 | [cc-switch](https://github.com/farion1231/cc-switch)                              | 更方便配置claude-code和其他AI编码助手的客户端程序       | 47202   | 2026-04-19 |
 | [rtk](https://github.com/rtk-ai/rtk)                                              | 让你的AI节省60%-90%的token                  | 29984   | 2026-04-19 |
