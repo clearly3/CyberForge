@@ -7,6 +7,10 @@
 [![License](https://img.shields.io/github/license/Z4nzu/hackingtool?style=flat-square&color=blue)](LICENSE)&nbsp;
 [![Last Commit](https://img.shields.io/github/last-commit/Z4nzu/hackingtool?style=flat-square&color=00FF88)](https://github.com/Z4nzu/hackingtool/commits/master)&nbsp;
 [![Auto Sync](https://img.shields.io/badge/AUTO--SYNC-WEEKLY-7B61FF?style=for-the-badge)](#)&nbsp;
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)&nbsp;
+[![Cybersecurity](https://img.shields.io/badge/网络安全-FF4D4D?style=for-the-badge)](#)&nbsp;
+[![AI-Agent](https://img.shields.io/badge/AI--Agent-00FF88?style=for-the-badge)](#)&nbsp;
+[![Pentest](https://img.shields.io/badge/渗透测试-FFA116?style=for-the-badge&logo=linux&logoColor=white)](#)&nbsp;
 
 ---
 
