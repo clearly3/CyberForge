@@ -1,9 +1,14 @@
-# 🚀 TechStack Radar - 多技术领域资源大全
+# 🚀 TechStack Radar
 
-[![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/MultiTech-Resource-Catalog?style=for-the-badge)](https://github.com/YOUR_USERNAME/MultiTech-Resource-Catalog/stargazers)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/MultiTech-Resource-Catalog?style=for-the-badge)](https://github.com/YOUR_USERNAME/MultiTech-Resource-Catalog/commits/main)
-[![License](https://img.shields.io/github/license/YOUR_USERNAME/MultiTech-Resource-Catalog?style=for-the-badge)](https://github.com/YOUR_USERNAME/MultiTech-Resource-Catalog/blob/main/LICENSE)
-[![Auto Update](https://img.shields.io/badge/🔄-每周自动更新-blue?style=for-the-badge)](https://github.com/YOUR_USERNAME/MultiTech-Resource-Catalog/actions/workflows/auto_update.yml)
+**多技术领域资源大全** · 安全 · AI · 渗透测试
+
+---
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  🏆 12.8k  │  📜 MIT  │  🕐 2026-04-17  │  ⚡ AUTO-SYNC  ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 ---
 
@@ -140,6 +145,8 @@
 | [XSStrike](https://github.com/s0md3v/XSStrike) | 号称最好用的xss扫描器 |  |  |
 | [liffy](https://github.com/mzfr/liffy) | 本地文件包含漏洞扫描工具 |  |  |
 | [SSRFmap](https://github.com/swisskyrepo/SSRFmap) | 自动SSRF模糊测试与利用工具 |  |  |
+| [xray](https://github.com/mzfr/liffy) | 本地文件包含漏洞扫描工具 |  |  |
+| [liffy](https://github.com/mzfr/liffy) | 本地文件包含漏洞扫描工具 |  |  |
 
 #### payload-list
 | 仓库名 | 描述 | Stars | 最近更新 |
@@ -305,7 +312,7 @@
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [strix](https://github.com/usestrix/strix) | 开源AI黑客将发现并修复您应用的漏洞 |  |  |
-| [airecon](https://github.com/pikpikcu/airecon) | 一个借助本地大模型进行类似人工的渗透测试活动的开源智能体 |  |  |
+| [airecon](https://github.com/pikpikcu/airecon) | 一个借助本地大模型进行类似人工的渗透测试活动的开源工具 |  |  |
 | [pentagi](https://github.com/vxcontrol/pentagi) | 利用前沿AI技术进行自动化渗透测试，适用于安全专家、研究人员和爱好者 |  |  |
 | [superclaw](https://github.com/SuperagenticAI/superclaw) | 一个基于AI的，场景驱动、行为优先的安全测试工具 |  |  |
 
