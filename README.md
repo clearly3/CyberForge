@@ -26,7 +26,7 @@
 
 ## 📚 目录索引
 
-- [🛡️时至今日仍旧好用的安全项目](#🛡️时至今日仍旧好用的安全项目)
+- [🛡️时至今日仍旧好用的安全项目](#时至今日仍旧好用的安全项目)
   - [信息收集](#信息收集)
     - [企业信息收集](#企业信息收集)
     - [子域名收集](#子域名收集)
@@ -55,21 +55,22 @@
     - [权限提升](#权限提升)
   - [基础设施](#基础设施)
     - [代理池](#内网信息收集)
-    - [环境搭建](#C2)
+    - [环境搭建](#环境搭建)
   - [代码审计](#代码审计)
   - [蓝队工具资源](#蓝队工具资源)
-- [🤖AI时代足够好用的资源项目](#🤖AI时代足够好用的资源项目)
-  - [AI编码助手](#AI编码助手)
-  - [about claude-code](#about-claude-code)
+- [🤖AI时代足够好用的资源项目](#AI时代足够好用的资源项目)
+  - [AI编码助手](#AI编码助手)about claude code
+  - [about-claude-code](#about-claude-code)
   - [MCP](#MCP)
   - [skills](#skills)
   - [渗透智能体](#渗透智能体)
+  - [好用的AI工具](#好用的AI工具)
 
 
 
 ---
 
-## 🛡️时至今日仍旧好用的安全项目
+## 🛡️ 时至今日仍旧好用的安全项目
 
 ### 信息收集
 #### 企业信息收集
@@ -130,7 +131,7 @@
 | [Yakit](https://github.com/yaklang/yakit) | 单兵作战武器库 |  |  |
 | [Caido](https://github.com/caido/caido) | rust语言编写的轻量的web应用测试框架，正在撼动burp的地位 |  |  |
 
-#### OWASP Web Top10
+#### OWASP-Web-Top10
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [sqlmap](https://github.com/sqlmapproject/sqlmap) | 发现sql注入后，快速利用它 |  |  |
@@ -142,7 +143,7 @@
 | [xray](https://github.com/mzfr/liffy) | 本地文件包含漏洞扫描工具 |  |  |
 | [liffy](https://github.com/mzfr/liffy) | 本地文件包含漏洞扫描工具 |  |  |
 
-#### payload list
+#### payload-list
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 几乎包含所有常见web漏洞payload的仓库 |  |  |
@@ -194,7 +195,7 @@
 |--------|------|-------|----------|
 | [cve](https://github.com/trickest/cve) | 这是一个cve漏洞仓库，作者声称所有poc均公开可用 |  |  |
 | [PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) | 一个持续更新的cve漏洞仓库 |  |  |
-| [Vulnerability-Wiki-PoC](https://github.com/SourByte05/Vulnerability-Wiki-PoC) | 2024-至今 1Day 漏洞 PoC 深度研究与复现归档 |  |  |
+| [Vulnerability-Wiki-PoC](https://github.com/SourByte05/Vulnerability-Wiki-PoC) | 2024-至今1Day漏洞PoC深度研究与复现归档 |  |  |
 | [Awesome-POC](https://github.com/Threekiii/Awesome-POC) | 一个漏洞 PoC 知识库 |  |  |
 | [POC](https://github.com/eeeeeeeeee-code/POC) | wy876的POC镜像仓库 |  |  |
 | [nuclei_poc](https://github.com/adysec/nuclei_poc) | 一个nuclei的模版仓库 |  |  |
@@ -203,6 +204,7 @@
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [BypassPro](https://github.com/0x727/BypassPro) | 自动化绕过40x和waf的burp插件 |  |  |
+| [burp-ai-agent](https://github.com/six2dez/burp-ai-agent) | 让AI与BurpSuite无缝衔接 |  |  |
 
 
 ### 浏览器插件
@@ -230,6 +232,7 @@
 | [XiebroC2](https://github.com/INotGreen/XiebroC2) | 神似Cobalt Strike的C2客户端、功能多样且强大 |  |  |
 | [Wyrm](https://github.com/0xflux/Wyrm) | 红队后渗透框架 |  |  |
 | [Spark](https://github.com/0xflux/Spark) | 一个免费、安全、开源、基于网页、跨平台且功能丰富的远程管理工具 |  |  |
+| [conquest](https://github.com/jakobfriedl/conquest) | 基于Nim语言开发的高度可定制的C2框架 |  |  |
 
 #### 权限提升
 | 仓库名 | 描述 | Stars | 最近更新 |
@@ -241,18 +244,21 @@
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [ProxyPool](https://github.com/XiaomingX/proxy-pool) | 帮助用户自动维护高质量的代理池 |  |  |
+| [Deadpool](https://github.com/thinkoaa/Deadpool) | Go编写的代理池轮询工具 |  |  |
+| [mubeng](https://github.com/mubeng/mubeng) | 一款速度极快、使用便捷的代理服务器检测和IP轮换工具 |  |  |
 | [fir-proxy](https://github.com/11firefly11/fir-proxy) | 一个轮换代理的图形化代理池程序 |  |  |
 
 #### 环境搭建
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [f8x](https://github.com/ffffffff0x/f8x) | 红蓝队环境自动化部署工具 |  |  |
-| [penetration-suite-toolkit](https://github.com/makoto56/penetration-suite-toolkit) | 一个包含常见渗透测试工具环境的windows虚拟机 |  |  |
+| [redc](https://github.com/wgpsec/redc) | 集成了AI的红队基础设施部署GUI工具 |  |  |
+| [penetration-suite-toolkit](https://github.com/makoto56/penetration-suite-toolkit) | 包含常见渗透测试工具环境的windows虚拟机 |  |  |
 | [copy-cert](https://github.com/virusdefender/copy-cert) | 通过生成ssl证书伪造c2流量 |  |  |
 
 ---
 
-## 🤖AI时代足够好用的资源项目
+## 🤖 AI时代足够好用的资源项目
 
 ### AI编码助手
 
@@ -269,26 +275,50 @@
 | [kimi-cli](https://github.com/MoonshotAI/kimi-cli) | kimi推出的命令行通用智能体工具 |  |  |
 | [Lingma](https://lingma.aliyun.com/) | 阿里云推出的免费的图形化编程智能体 |  |  |
 
-### about claude code
+### about-claude-code
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [web-search-fast](https://github.com/uk0/web-search-fast) | 一个简单的本地 web search mcp |  |  |
+| [cc-haha](https://github.com/NanmiCoder/cc-haha) | 基于cc泄露源码打造的本地可运行的claude-claude客户端 |  |  |
+| [claude-code-ccb](https://github.com/claude-code-best/claude-code) | 高度可自定义的claude-code开源构建版 |  |  |
+| [clawgod](https://github.com/0Chencc/clawgod) | 一个claude code补丁，解锁了禁止网络安全相关测试的限制 |  |  |
+| [claude-code-book](https://github.com/lintsinghua/claude-code-book) | 当所有人都在教你怎么用AI Agent——这本书带你拆开它 |  |  |
+| [claude-hud](https://github.com/jarrodwatts/claude-hud) | 实时查看cc的上下文、工具调用、待办事项等状态的插件 |  |  |
+| [claude-plugin-wechat](https://github.com/lc2panda/claude-plugin-wechat) | 微信、飞书无缝对接Claude-Code |  |  |
 
 ### MCP
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [web-search-fast](https://github.com/uk0/web-search-fast) | 一个简单的本地 web search mcp |  |  |
+| [cve-mcp-server](https://github.com/mukul975/cve-mcp-server) |  AI驱动的安全情报聚合与风险判断工具 |  |  |
+| [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 让AI调试浏览器 |  |  |
 
 ### skills
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [web-search-fast](https://github.com/uk0/web-search-fast) | 一个简单的本地 web search mcp |  |  |
-
+| [pua](https://github.com/tanweai/pua) | 一个赋予AI agent高能动性的skills |  |  |
+| [wooyun-legacy](https://github.com/tanweai/wooyun-legacy) | 给AI安全报告加上真实案例背书和数据支撑 |  |  |
+| [xianzhi-research](https://github.com/tanweai/xianzhi-research) | 声称能让AI能够像顶尖安全研究员一样思考 |  |  |
+| [web3-bug-bounty-hunting-ai-skills](https://github.com/shuvonsec/web3-bug-bounty-hunting-ai-skills) | 一个应用于AI的智能合约安全知识库 |  |  |
+| [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 内置754个安全技能，将人类安全专家的实践经验转化为AI可执行的结构化知识 |  |  |
+| [superpowers](https://github.com/obra/superpowers) | 提升agent的自主性和规范性，头脑风暴skills |  |  |
+| [awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security) | 为claude-code提供安全性测试和CTF解题的能力 |  |  |
 
 ### 渗透智能体
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [web-search-fast](https://github.com/uk0/web-search-fast) | 一个简单的本地 web search mcp |  |  |
+| [strix](https://github.com/usestrix/strix) | 开源AI黑客将发现并修复您应用的漏洞 |  |  |
+| [airecon](https://github.com/pikpikcu/airecon) | 一个借助本地大模型进行类似人工的渗透测试活动的开源智能体 |  |  |
+| [pentagi](https://github.com/vxcontrol/pentagi) | 利用前沿AI技术进行自动化渗透测试，适用于安全专家、研究人员和爱好者 |  |  |
+| [superclaw](https://github.com/SuperagenticAI/superclaw) | 一个基于AI的，场景驱动、行为优先的安全测试工具 |  |  |
+
+### 好用的AI工具
+| 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
+| [claudecodeui](https://github.com/siteboon/claudecodeui) | 提供一个web-ui，更好的管理AI编程工具会话和使用它们 |  |  |
+| [cc-switch](https://github.com/farion1231/cc-switch) | 更方便配置claude-code和其他AI编码助手的客户端程序 |  |  |
+| [rtk](https://github.com/rtk-ai/rtk) |  让你的AI节省60%-90%的token |  |  |
+| [openai-captcha-detection](https://github.com/XiaomingX/openai-captcha-detection) | 借助AI来进行高准确率的验证码识别 |  |  |
+| [vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 卡片式的任务编排，让你的claude-code、codex工作效率大大提高 |  |  |
 
 
 ---
