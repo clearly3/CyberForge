@@ -1,6 +1,6 @@
-# 🚀 TechStack Radar
+# 🚀 CyberForge
 
-**多技术领域资源大全** · 安全 · AI · 渗透测试
+**安全研究员与AI开发者的资源雷达**
 
 ---
 [![Stars](https://img.shields.io/github/stars/Z4nzu/hackingtool?style=flat-square&color=yellow)](https://github.com/Z4nzu/hackingtool/stargazers)&nbsp;
@@ -14,18 +14,7 @@
 
 ## 📖 简介
 
-这是一个专注**网络安全**与**AI安全**、**智能体**等领域的开源资源导航。我们总结在以往的岁月中好用、受欢迎、优秀的安全工具、资源。同样也收集在AI时代好用、有趣、值得学习和研究的开源项目，帮你在浩如烟海的GitHub中快速找到真正值得花时间的工具。
-
-### ✨ 主要特性
-
-- **🔄 自动更新**: 每周自动从GitHub API获取项目最新信息（Stars数、更新时间）
-- **📊 多维度数据**: 包含项目地址，Stars、最近更新等信息
-- **🏷️ 智能分类**: 按技术领域和用途分类，便于快速查找
-
-### 📈 数据统计
-
-> 📊 **最后更新**: 2026-04-17 | **总项目数**: 0 | **分类数**: 5
-> ⚡ **更新频率**: 每周一自动更新 | 🛠️ **自动化脚本**: Python + GitHub Actions
+这是一个专注**网络安全**、**渗透测试**与**AI安全领域**的开源资源导航。我们整理在以往的岁月中好用、优秀的工具、资源，同样也收集在AI时代好用、有趣、值得学习和研究的开源项目，帮助网络安全从业人员和爱好者在浩如烟海的GitHub中快速找到真正值得花时间的资源。
 
 ---
 
@@ -70,8 +59,6 @@
   - [skills](#skills)
   - [渗透智能体](#渗透智能体)
   - [好用的AI工具](#好用的AI工具)
-
-
 
 ---
 
@@ -328,45 +315,6 @@
 
 ---
 
-## 🔧 使用与贡献
-
-### 如何使用
-
-1. 浏览对应分类查找相关工具
-2. 点击仓库名访问GitHub项目页面
-3. 查看Stars数和最近更新了解项目活跃度
-4. 根据图标类型选择适合的工具
-
-### 如何贡献
-
-我们欢迎社区贡献！如需添加新项目，请：
-
-1. Fork本仓库
-2. 在对应分类的表格中添加新行
-3. 确保"仓库名"列为有效的GitHub URL
-4. 提交Pull Request
-
-**格式要求**:
-- "仓库名"列: 必须包含完整的GitHub URL
-- "描述"列: 简洁明了的中文或英文描述
-- "🏷️"列: 根据项目类型添加对应图标（如🛡️安全、🌐浏览器插件、🤖AI工具等）
-
-### 自动更新说明
-
-- 本目录使用自动化脚本每周更新Stars数和最近更新时间
-- 添加新项目时只需提供GitHub URL，脚本会自动获取其他信息
-- 如需手动触发更新，请前往GitHub Actions页面运行工作流
-
----
-
-## ⚙️ 技术架构
-
-### 自动化系统
-
-- **更新脚本**: `update_resources.py` - Python脚本，解析README并调用GitHub API
-- **工作流**: `.github/workflows/auto_update.yml` - GitHub Actions每周自动运行
-- **数据获取**: 通过GitHub REST API获取 `stargazers_count` 和 `pushed_at`
-
 ### 项目结构
 
 ```
@@ -380,22 +328,6 @@ MultiTech-Resource-Catalog/
 ├── CONTRIBUTING.md              # 贡献指南（可选）
 └── LICENSE                      # 许可证文件
 ```
-
 ---
 
-## 📄 许可证
-
-本项目采用 [MIT License](LICENSE) 开源协议。
-
----
-
-## 🙏 致谢
-
-感谢所有开源项目的贡献者，以及参考项目的启发：
-
-- [All-Defense-Tool](https://github.com/L0una/All-Defense-Tool) - 安全工具目录设计参考
-- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - 资源聚合思路参考
-
-**保持更新，持续学习！** 🚀
-
-> 📧 如有建议或问题，请通过GitHub Issues提交反馈。
+**保持更新，持续学习！**
