@@ -204,7 +204,7 @@
 | [Viper](https://github.com/FunnyWolf/Viper)         | 基于人工智能的对抗模拟和红队演练平台              | 5027    | 2026-03-31 |
 | [XiebroC2](https://github.com/INotGreen/XiebroC2)   | 神似Cobalt Strike的C2客户端、功能多样且强大   | 1393    | 2025-02-28 |
 | [Wyrm](https://github.com/0xflux/Wyrm)              | 红队后渗透框架                         | 482     | 2026-03-15 |
-| [Spark](https://github.com/0xflux/Spark)            | 一个免费、安全、开源、基于网页、跨平台且功能丰富的远程管理工具 |         |            |
+| [Spark](https://github.com/0xflux/Spark)            | 一个免费、安全、开源、基于网页、跨平台且功能丰富的远程管理工具 |   -      |       -     |
 | [conquest](https://github.com/jakobfriedl/conquest) | 基于Nim语言开发的高度可定制的C2框架            | 350     | 2026-04-18 |
 #### 权限提升
 | 仓库名 | 描述 | Stars | 最近更新 |
