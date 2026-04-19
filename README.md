@@ -239,7 +239,7 @@
 | [Kiro](https://kiro.dev/)                                | 亚马逊推出的AI IDE                  |         |            |
 | [Qoder](https://qoder.com/)                              | 阿里巴巴开发的编程智能体，特色是专家团开发         |         |            |
 | [qwen-code](https://github.com/QwenLM/qwen-code)         | 阿里巴巴推出的基于Qwen3-Coder的命令行编程智能体 | 23557   | 2026-04-19 |
-| [kimi-cli](https://github.com/MoonshotAI/kimi-cli)       | kimi推出的命令行通用智能体工具             | 7912    | 2026-04-17 |
+| [kimi-cli](https://github.com/MoonshotAI/kimi-cli)       | kimi推出的命令行通用智能体工具             | 7913    | 2026-04-17 |
 | [Lingma](https://lingma.aliyun.com/)                     | 阿里云推出的免费的图形化编程智能体             |         |            |
 ### about-claude-code
 | 仓库名 | 描述 | Stars | 最近更新 |
@@ -263,7 +263,7 @@
 | [wooyun-legacy](https://github.com/tanweai/wooyun-legacy)                                           | 给AI安全报告加上真实案例背书和数据支撑                  | 1568    | 2026-03-08 |
 | [xianzhi-research](https://github.com/tanweai/xianzhi-research)                                     | 声称能让AI能够像顶尖安全研究员一样思考                  | 160     | 2026-01-29 |
 | [web3-bug-bounty-hunting-ai-skills](https://github.com/shuvonsec/web3-bug-bounty-hunting-ai-skills) | 一个应用于AI的智能合约安全知识库                     | 54      | 2026-03-15 |
-| [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)        | 内置754个安全技能，将人类安全专家的实践经验转化为AI可执行的结构化知识 | 4738    | 2026-04-18 |
+| [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)        | 内置754个安全技能，将人类安全专家的实践经验转化为AI可执行的结构化知识 | 4739    | 2026-04-18 |
 | [superpowers](https://github.com/obra/superpowers)                                                  | 提升agent的自主性和规范性，头脑风暴skills            | 159885  | 2026-04-16 |
 | [awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security)      | 为claude-code提供安全性测试和CTF解题的能力          | 180     | 2026-03-21 |
 ### 渗透智能体
@@ -276,13 +276,12 @@
 ### 好用的AI工具
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
+---
 | [claudecodeui](https://github.com/siteboon/claudecodeui)                          | 提供一个web-ui，更好的管理AI编程工具会话和使用它们         | 9997    | 2026-04-18 |
 | [cc-switch](https://github.com/farion1231/cc-switch)                              | 更方便配置claude-code和其他AI编码助手的客户端程序       | 47202   | 2026-04-19 |
-| [rtk](https://github.com/rtk-ai/rtk)                                              | 让你的AI节省60%-90%的token                  | 29983   | 2026-04-19 |
+| [rtk](https://github.com/rtk-ai/rtk)                                              | 让你的AI节省60%-90%的token                  | 29984   | 2026-04-19 |
 | [openai-captcha-detection](https://github.com/XiaomingX/openai-captcha-detection) | 借助AI来进行高准确率的验证码识别                     | 204     | 2025-08-31 |
 | [vibe-kanban](https://github.com/BloopAI/vibe-kanban)                             | 卡片式的任务编排，让你的claude-code、codex工作效率大大提高 | 25275   | 2026-04-18 |
----
-
 ### 项目结构
 
 ```
