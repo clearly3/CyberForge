@@ -303,16 +303,12 @@ def process_table_section(table_lines: List[str]) -> List[str]:
     if col_indices['name'] == -1:
         return table_lines
 
-    # 从分隔行解析列宽度
+    # 从分隔行解析列宽度（取分隔符长度与内容最大值的较大值）
     separator = table_lines[1].strip()
     sep_parts = [p.strip() for p in separator.split('|') if p.strip()]
-    col_widths = []
-    for sep in sep_parts:
-        # 计算分隔符显示的宽度（-的个数，:和空格不计）
-        width = len(sep.replace(':', '').replace('-', ''))
-        col_widths.append(max(width, 3))
+    col_widths = [len(sep) for sep in sep_parts]
 
-    # 处理数据行
+    # 处理数据行，收集每列最大宽度
     result_lines = [table_lines[0]]  # 表头
     result_lines.append(table_lines[1])  # 分隔线
 
@@ -338,6 +334,13 @@ def process_table_section(table_lines: List[str]) -> List[str]:
         # 跳过全空或只有空格的行（会导致空行）
         if not parts or all(p == '' for p in parts):
             continue
+
+        # 更新每列最大宽度
+        for i, part in enumerate(parts):
+            if i < len(col_widths):
+                col_widths[i] = max(col_widths[i], len(part))
+            else:
+                col_widths.append(max(len(part), 3))
 
         # 提取GitHub URL
         github_url = None
@@ -368,6 +371,13 @@ def process_table_section(table_lines: List[str]) -> List[str]:
         max_cols = max(col_indices.values()) + 1
         while len(parts) < max_cols:
             parts.append('')
+
+        # 更新每列最大宽度（用更新后的数据）
+        for i, part in enumerate(parts):
+            if i < len(col_widths):
+                col_widths[i] = max(col_widths[i], len(part))
+            else:
+                col_widths.append(max(len(part), 3))
 
         data_rows.append(parts)
 
