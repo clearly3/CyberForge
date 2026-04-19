@@ -140,8 +140,6 @@
 | [XSStrike](https://github.com/s0md3v/XSStrike) | 号称最好用的xss扫描器 |  |  |
 | [liffy](https://github.com/mzfr/liffy) | 本地文件包含漏洞扫描工具 |  |  |
 | [SSRFmap](https://github.com/swisskyrepo/SSRFmap) | 自动SSRF模糊测试与利用工具 |  |  |
-| [xray](https://github.com/mzfr/liffy) | 本地文件包含漏洞扫描工具 |  |  |
-| [liffy](https://github.com/mzfr/liffy) | 本地文件包含漏洞扫描工具 |  |  |
 
 #### payload-list
 | 仓库名 | 描述 | Stars | 最近更新 |
