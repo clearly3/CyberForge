@@ -221,7 +221,6 @@
 #### 环境搭建
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
----
 | [f8x](https://github.com/ffffffff0x/f8x)                                           | 红蓝队环境自动化部署工具            | 2117    | 2026-04-15 |
 | [redc](https://github.com/wgpsec/redc)                                             | 集成了AI的红队基础设施部署GUI工具     | 149     | 2026-04-18 |
 | [penetration-suite-toolkit](https://github.com/makoto56/penetration-suite-toolkit) | 包含常见渗透测试工具环境的windows虚拟机 | 2938    | 2025-06-11 |
