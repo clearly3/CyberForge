@@ -231,8 +231,8 @@
 
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [Claude Code](https://github.com/anthropics/claude-code) | 最好用、最受欢迎的AI编码助手               | 115880  | 2026-04-18 |
-| [Codex](https://github.com/openai/codex)                 | OpenAI推出的编程助手，支持代码生成、解释和调试    | 76325   | 2026-04-19 |
+| [Claude Code](https://github.com/anthropics/claude-code) | 最好用、最受欢迎的AI编码助手               | 115881  | 2026-04-18 |
+| [Codex](https://github.com/openai/codex)                 | OpenAI推出的编程助手，支持代码生成、解释和调试    | 76326   | 2026-04-19 |
 | [Cursor](https://cursor.com/)                            | 基于VSCode深度定制的AI原生IDE          |         |            |
 | [OpenCode](https://opencode.ai/)                         | 完全开源免费的AI编码工具                 |         |            |
 | [Trae](https://www.trae.cn/)                             | 字节跳动推出的AI原生集成开发环境             |         |            |
@@ -263,8 +263,8 @@
 | [wooyun-legacy](https://github.com/tanweai/wooyun-legacy)                                           | 给AI安全报告加上真实案例背书和数据支撑                  | 1568    | 2026-03-08 |
 | [xianzhi-research](https://github.com/tanweai/xianzhi-research)                                     | 声称能让AI能够像顶尖安全研究员一样思考                  | 160     | 2026-01-29 |
 | [web3-bug-bounty-hunting-ai-skills](https://github.com/shuvonsec/web3-bug-bounty-hunting-ai-skills) | 一个应用于AI的智能合约安全知识库                     | 54      | 2026-03-15 |
-| [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)        | 内置754个安全技能，将人类安全专家的实践经验转化为AI可执行的结构化知识 | 4739    | 2026-04-18 |
-| [superpowers](https://github.com/obra/superpowers)                                                  | 提升agent的自主性和规范性，头脑风暴skills            | 159885  | 2026-04-16 |
+| [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)        | 内置754个安全技能，将人类安全专家的实践经验转化为AI可执行的结构化知识 | 4741    | 2026-04-18 |
+| [superpowers](https://github.com/obra/superpowers)                                                  | 提升agent的自主性和规范性，头脑风暴skills            | 159886  | 2026-04-16 |
 | [awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security)      | 为claude-code提供安全性测试和CTF解题的能力          | 180     | 2026-03-21 |
 ### 渗透智能体
 | 仓库名 | 描述 | Stars | 最近更新 |
