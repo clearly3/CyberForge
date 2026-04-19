@@ -68,7 +68,7 @@
 #### 企业信息收集
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [ENScan_GO](https://github.com/wgpsec/ENScan_GO)             | 只需输入名称即可收集该企业及其分支的互联网暴露信息                     | 4336 | 2026-03-30 |
+| [ENScan_GO](https://github.com/wgpsec/ENScan_GO) | 只需输入名称即可收集该企业及其分支的互联网暴露信息 | 4336    | 2026-03-30 |
 #### 子域名收集
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -77,7 +77,7 @@
 #### 端口扫描
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [nmap](https://github.com/nmap/nmap)                        | 是的，它仍然是最好用的端口扫描器之一 | 5887    | 2026-04-13 |
+| [nmap](https://github.com/nmap/nmap)                                      | 是的，它仍然是最好用的端口扫描器之一          | 12729   | 2026-04-16 |
 | [naabu](https://github.com/projectdiscovery/naabu)                        | 一款用Go语言编写的快速端口扫描器，注重可靠性和简洁性 | 5887    | 2026-04-13 |
 | [Smap](https://github.com/s0md3v/Smap)                                    | 无缝替代nmap的端口扫描工具             | 3211    | 2026-04-13 |
 | [masnmapscan-V1.0](https://github.com/hellogoldsnakeman/masnmapscan-V1.0) | 结合了masscan和nmap的端口扫描器       | 831     | 2026-02-06 |
@@ -89,7 +89,7 @@
 #### URL收集
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [katana](https://github.com/projectdiscovery/katana)       | 强大的爬虫框架，支持多种参数传入，全面收集目标URL | 16548   | 2026-04-16 |
+| [katana](https://github.com/projectdiscovery/katana)       | 强大的爬虫框架，支持多种参数传入，全面收集目标URL | 16549   | 2026-04-16 |
 | [urlhunter](https://github.com/utkusen/urlhunter)          | 被动收集目标在互联网暴露的URL信息         | 1678    | 2025-01-23 |
 | [urlfinder](https://github.com/projectdiscovery/urlfinder) | 无需主动扫描、快速被动收集目标URL的工具      | 860     | 2026-01-05 |
 #### 指纹识别
@@ -124,7 +124,7 @@
 | [XSStrike](https://github.com/s0md3v/XSStrike)                 | 号称最好用的xss扫描器             | 14899   | 2025-04-26 |
 | [liffy](https://github.com/mzfr/liffy)                         | 本地文件包含漏洞扫描工具             | 947     | 2025-10-01 |
 | [SSRFmap](https://github.com/swisskyrepo/SSRFmap)              | 自动SSRF模糊测试与利用工具          | 3531    | 2025-09-04 |
-| [SSTImap](https://github.com/vladko312/SSTImap)                          | 模版注入利用             | 947     | 2025-10-01 |
+| [SSTImap](https://github.com/vladko312/SSTImap)                | 模版注入利用                   | 1468    | 2026-03-22 |
 | [liffy](https://github.com/mzfr/liffy)                         | 本地文件包含漏洞扫描工具             | 947     | 2025-10-01 |
 #### payload-list
 | 仓库名 | 描述 | Stars | 最近更新 |
@@ -150,11 +150,11 @@
 #### 字典
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [nemo_go](https://github.com/TheKingOfDuck/fuzzDicts) | Web Pentesting Fuzz 字典,一个就够了                   | 2039    | 2026-02-09 |
-| [Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box)      | Web 模糊测试字典与一些Payloads | 7179    | 2026-04-17 |
-| [AppSec-Payloads](https://github.com/sh377c0d3/AppSec-Payloads) | 包含漏洞payloads和web应用测试中各类场景的fuzz字典集合     | 7179    | 2026-04-17 |
-| [Blasting_dictionary](https://github.com/rootphantomer/Blasting_dictionary) | 高效字典     | 7179    | 2026-04-17 |
-| [lutfumertceylan/top25-parameter](https://github.com/lutfumertceylan/top25-parameter) | 统计常见web漏洞常出没的25个参数   | 7179    | 2026-04-17 |
+| [nemo_go](https://github.com/TheKingOfDuck/fuzzDicts)                                 | Web Pentesting Fuzz 字典,一个就够了       | 8278    | 2023-11-13 |
+| [Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box)                        | Web 模糊测试字典与一些Payloads              | 2705    | 2026-03-23 |
+| [AppSec-Payloads](https://github.com/sh377c0d3/AppSec-Payloads)                       | 包含漏洞payloads和web应用测试中各类场景的fuzz字典集合 | 925     | 2026-04-01 |
+| [Blasting_dictionary](https://github.com/rootphantomer/Blasting_dictionary)           | 高效字典                               | 5276    | 2022-03-21 |
+| [lutfumertceylan/top25-parameter](https://github.com/lutfumertceylan/top25-parameter) | 统计常见web漏洞常出没的25个参数                 | 1833    | 2024-06-09 |
 ### 漏洞扫描
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -209,7 +209,7 @@
 #### 权限提升
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [RedSun](https://github.com/Nightmare-Eclipse/RedSun) | 利用windows defender进行提权 | 1567    | 2026-04-15 |
+| [RedSun](https://github.com/Nightmare-Eclipse/RedSun) | 利用windows defender进行提权 | 1568    | 2026-04-15 |
 ### 基础设施
 #### 代理池
 | 仓库名 | 描述 | Stars | 最近更新 |
@@ -232,31 +232,31 @@
 
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [Claude Code](https://github.com/anthropics/claude-code) | 最好用、最受欢迎的AI编码助手               | 115876  | 2026-04-18 |
+| [Claude Code](https://github.com/anthropics/claude-code) | 最好用、最受欢迎的AI编码助手               | 115880  | 2026-04-18 |
 | [Codex](https://github.com/openai/codex)                 | OpenAI推出的编程助手，支持代码生成、解释和调试    | 76325   | 2026-04-19 |
 | [Cursor](https://cursor.com/)                            | 基于VSCode深度定制的AI原生IDE          |         |            |
 | [OpenCode](https://opencode.ai/)                         | 完全开源免费的AI编码工具                 |         |            |
 | [Trae](https://www.trae.cn/)                             | 字节跳动推出的AI原生集成开发环境             |         |            |
 | [Kiro](https://kiro.dev/)                                | 亚马逊推出的AI IDE                  |         |            |
 | [Qoder](https://qoder.com/)                              | 阿里巴巴开发的编程智能体，特色是专家团开发         |         |            |
-| [qwen-code](https://github.com/QwenLM/qwen-code)         | 阿里巴巴推出的基于Qwen3-Coder的命令行编程智能体 | 23554   | 2026-04-19 |
+| [qwen-code](https://github.com/QwenLM/qwen-code)         | 阿里巴巴推出的基于Qwen3-Coder的命令行编程智能体 | 23557   | 2026-04-19 |
 | [kimi-cli](https://github.com/MoonshotAI/kimi-cli)       | kimi推出的命令行通用智能体工具             | 7912    | 2026-04-17 |
 | [Lingma](https://lingma.aliyun.com/)                     | 阿里云推出的免费的图形化编程智能体             |         |            |
 ### about-claude-code
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [cc-haha](https://github.com/NanmiCoder/cc-haha)                         | 基于cc泄露源码打造的本地可运行的claude-claude客户端 | 6955    | 2026-04-19 |
+| [cc-haha](https://github.com/NanmiCoder/cc-haha)                         | 基于cc泄露源码打造的本地可运行的claude-claude客户端 | 6956    | 2026-04-19 |
 | [claude-code-ccb](https://github.com/claude-code-best/claude-code)       | 高度可自定义的claude-code开源构建版           | 16353   | 2026-04-19 |
 | [clawgod](https://github.com/0Chencc/clawgod)                            | 一个claude code补丁，解锁了禁止网络安全相关测试的限制  | 794     | 2026-04-16 |
 | [claude-code-book](https://github.com/lintsinghua/claude-code-book)      | 当所有人都在教你怎么用AI Agent——这本书带你拆开它     | 2825    | 2026-04-06 |
-| [claude-hud](https://github.com/jarrodwatts/claude-hud)                  | 实时查看cc的上下文、工具调用、待办事项等状态的插件        | 19981   | 2026-04-18 |
+| [claude-hud](https://github.com/jarrodwatts/claude-hud)                  | 实时查看cc的上下文、工具调用、待办事项等状态的插件        | 19984   | 2026-04-18 |
 | [claude-plugin-wechat](https://github.com/lc2panda/claude-plugin-wechat) | 微信、飞书无缝对接Claude-Code              | 54      | 2026-04-13 |
 ### MCP
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [web-search-fast](https://github.com/uk0/web-search-fast)                    | 一个简单的本地 web search mcp | 40      | 2026-03-23 |
 | [cve-mcp-server](https://github.com/mukul975/cve-mcp-server)                 | AI驱动的安全情报聚合与风险判断工具     | 247     | 2026-04-14 |
-| [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 让AI调试浏览器               | 36200   | 2026-04-19 |
+| [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 让AI调试浏览器               | 36203   | 2026-04-19 |
 ### skills
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -264,8 +264,8 @@
 | [wooyun-legacy](https://github.com/tanweai/wooyun-legacy)                                           | 给AI安全报告加上真实案例背书和数据支撑                  | 1568    | 2026-03-08 |
 | [xianzhi-research](https://github.com/tanweai/xianzhi-research)                                     | 声称能让AI能够像顶尖安全研究员一样思考                  | 160     | 2026-01-29 |
 | [web3-bug-bounty-hunting-ai-skills](https://github.com/shuvonsec/web3-bug-bounty-hunting-ai-skills) | 一个应用于AI的智能合约安全知识库                     | 54      | 2026-03-15 |
-| [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)        | 内置754个安全技能，将人类安全专家的实践经验转化为AI可执行的结构化知识 | 4733    | 2026-04-18 |
-| [superpowers](https://github.com/obra/superpowers)                                                  | 提升agent的自主性和规范性，头脑风暴skills            | 159871  | 2026-04-16 |
+| [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)        | 内置754个安全技能，将人类安全专家的实践经验转化为AI可执行的结构化知识 | 4738    | 2026-04-18 |
+| [superpowers](https://github.com/obra/superpowers)                                                  | 提升agent的自主性和规范性，头脑风暴skills            | 159885  | 2026-04-16 |
 | [awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security)      | 为claude-code提供安全性测试和CTF解题的能力          | 180     | 2026-03-21 |
 ### 渗透智能体
 | 仓库名 | 描述 | Stars | 最近更新 |
@@ -278,11 +278,10 @@
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [claudecodeui](https://github.com/siteboon/claudecodeui)                          | 提供一个web-ui，更好的管理AI编程工具会话和使用它们         | 9997    | 2026-04-18 |
-| [cc-switch](https://github.com/farion1231/cc-switch)                              | 更方便配置claude-code和其他AI编码助手的客户端程序       | 47201   | 2026-04-19 |
-| [rtk](https://github.com/rtk-ai/rtk)                                              | 让你的AI节省60%-90%的token                  | 29977   | 2026-04-19 |
+| [cc-switch](https://github.com/farion1231/cc-switch)                              | 更方便配置claude-code和其他AI编码助手的客户端程序       | 47202   | 2026-04-19 |
+| [rtk](https://github.com/rtk-ai/rtk)                                              | 让你的AI节省60%-90%的token                  | 29983   | 2026-04-19 |
 | [openai-captcha-detection](https://github.com/XiaomingX/openai-captcha-detection) | 借助AI来进行高准确率的验证码识别                     | 204     | 2025-08-31 |
-| [vibe-kanban](https://github.com/BloopAI/vibe-kanban)                             | 卡片式的任务编排，让你的claude-code、codex工作效率大大提高 | 25274   | 2026-04-18 |
-
+| [vibe-kanban](https://github.com/BloopAI/vibe-kanban)                             | 卡片式的任务编排，让你的claude-code、codex工作效率大大提高 | 25275   | 2026-04-18 |
 ---
 
 ### 项目结构
