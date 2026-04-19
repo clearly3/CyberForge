@@ -53,8 +53,8 @@
   - [代码审计](#代码审计)
   - [蓝队工具资源](#蓝队工具资源)
 - [🤖AI时代足够好用的资源项目](#AI时代足够好用的资源项目)
-  - [AI编码助手](#AI编码助手)about claude code
-  - [about-claude-code](#about-claude-code)
+  - [AI编码助手](#AI编码助手)
+  - [about claude-code](#about-claude-code)
   - [MCP](#MCP)
   - [skills](#skills)
   - [渗透智能体](#渗透智能体)
@@ -67,7 +67,7 @@
 ### 信息收集
 #### 企业信息收集
 | 仓库名 | 描述 | Stars | 最近更新 |
-| ------------------------------------------------------------ | --------------------------------------------- | --- | --- |
+|--------|------|-------|----------|
 | [ENScan_GO](https://github.com/wgpsec/ENScan_GO)             | 只需输入名称即可收集该企业及其分支的互联网暴露信息                     | 4336 | 2026-03-30 |
 #### 子域名收集
 | 仓库名 | 描述 | Stars | 最近更新 |
@@ -77,6 +77,7 @@
 #### 端口扫描
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
+| [nmap](https://github.com/nmap/nmap)                        | 是的，它仍然是最好用的端口扫描器之一 | 5887    | 2026-04-13 |
 | [naabu](https://github.com/projectdiscovery/naabu)                        | 一款用Go语言编写的快速端口扫描器，注重可靠性和简洁性 | 5887    | 2026-04-13 |
 | [Smap](https://github.com/s0md3v/Smap)                                    | 无缝替代nmap的端口扫描工具             | 3211    | 2026-04-13 |
 | [masnmapscan-V1.0](https://github.com/hellogoldsnakeman/masnmapscan-V1.0) | 结合了masscan和nmap的端口扫描器       | 831     | 2026-02-06 |
@@ -123,7 +124,7 @@
 | [XSStrike](https://github.com/s0md3v/XSStrike)                 | 号称最好用的xss扫描器             | 14899   | 2025-04-26 |
 | [liffy](https://github.com/mzfr/liffy)                         | 本地文件包含漏洞扫描工具             | 947     | 2025-10-01 |
 | [SSRFmap](https://github.com/swisskyrepo/SSRFmap)              | 自动SSRF模糊测试与利用工具          | 3531    | 2025-09-04 |
-| [xray](https://github.com/mzfr/liffy)                          | 本地文件包含漏洞扫描工具             | 947     | 2025-10-01 |
+| [SSTImap](https://github.com/vladko312/SSTImap)                          | 模版注入利用             | 947     | 2025-10-01 |
 | [liffy](https://github.com/mzfr/liffy)                         | 本地文件包含漏洞扫描工具             | 947     | 2025-10-01 |
 #### payload-list
 | 仓库名 | 描述 | Stars | 最近更新 |
@@ -149,9 +150,11 @@
 #### 字典
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [nemo_go](https://github.com/hanc00l/nemo_go) | 自动化信息收集                   | 2039    | 2026-02-09 |
-| [Fine](https://github.com/yaklang/yakit)      | 针对企业信息收集、目标资产探测、小程序反编译的工具 | 7179    | 2026-04-17 |
-| [BurpSuite](https://github.com/yaklang/yakit) | 无需主动扫描、快速被动收集目标URL的工具     | 7179    | 2026-04-17 |
+| [nemo_go](https://github.com/TheKingOfDuck/fuzzDicts) | Web Pentesting Fuzz 字典,一个就够了                   | 2039    | 2026-02-09 |
+| [Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box)      | Web 模糊测试字典与一些Payloads | 7179    | 2026-04-17 |
+| [AppSec-Payloads](https://github.com/sh377c0d3/AppSec-Payloads) | 包含漏洞payloads和web应用测试中各类场景的fuzz字典集合     | 7179    | 2026-04-17 |
+| [Blasting_dictionary](https://github.com/rootphantomer/Blasting_dictionary) | 高效字典     | 7179    | 2026-04-17 |
+| [lutfumertceylan/top25-parameter](https://github.com/lutfumertceylan/top25-parameter) | 统计常见web漏洞常出没的25个参数   | 7179    | 2026-04-17 |
 ### 漏洞扫描
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -279,6 +282,7 @@
 | [rtk](https://github.com/rtk-ai/rtk)                                              | 让你的AI节省60%-90%的token                  | 29977   | 2026-04-19 |
 | [openai-captcha-detection](https://github.com/XiaomingX/openai-captcha-detection) | 借助AI来进行高准确率的验证码识别                     | 204     | 2025-08-31 |
 | [vibe-kanban](https://github.com/BloopAI/vibe-kanban)                             | 卡片式的任务编排，让你的claude-code、codex工作效率大大提高 | 25274   | 2026-04-18 |
+
 ---
 
 ### 项目结构
