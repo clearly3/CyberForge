@@ -150,7 +150,7 @@
 #### 字典
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [nemo_go](https://github.com/TheKingOfDuck/fuzzDicts)                                 | Web Pentesting Fuzz 字典,一个就够了       | 8278    | 2023-11-13 |
+| [fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts)                                 | Web Pentesting Fuzz 字典,一个就够了       | 8278    | 2023-11-13 |
 | [Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box)                        | Web 模糊测试字典与一些Payloads              | 2705    | 2026-03-23 |
 | [AppSec-Payloads](https://github.com/sh377c0d3/AppSec-Payloads)                       | 包含漏洞payloads和web应用测试中各类场景的fuzz字典集合 | 925     | 2026-04-01 |
 | [Blasting_dictionary](https://github.com/rootphantomer/Blasting_dictionary)           | 高效字典                               | 5276    | 2022-03-21 |
