@@ -1,4 +1,4 @@
-# ⚔️ CyberForge
+# CyberForge
 
 **网络安全人员的资源雷达**
 
