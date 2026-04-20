@@ -50,6 +50,7 @@
   - [基础设施](#基础设施)
     - [代理池](#内网信息收集)
     - [环境搭建](#环境搭建)
+    - [机场](#机场（不常驻）)
   - [代码审计](#代码审计)
   - [蓝队工具资源](#蓝队工具资源)
 - [🤖AI时代足够好用的资源项目](#AI时代足够好用的资源项目)
@@ -181,16 +182,25 @@
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [BypassPro](https://github.com/0x727/BypassPro)           | 自动化绕过40x和waf的burp插件 | 1129    | 2026-02-28 |
+| [APIKit](https://github.com/API-Security/APIKit) | 被动挖掘各种API泄露   | 988     | 2026-04-09 |
+| [HaE](https://github.com/gh0stkey/HaE) | 检查经过burp的流量，挖掘敏感信息，并高亮显示   | 988     | 2026-04-09 |
+| [TsojanScan](https://github.com/Tsojan/TsojanScan) |  一个集成常见漏洞探测的BurpSuite插件  | 988     | 2026-04-09 |
 | [burp-ai-agent](https://github.com/six2dez/burp-ai-agent) | 让AI与BurpSuite无缝衔接   | 988     | 2026-04-09 |
+| [Wsdler](https://github.com/NetSPI/Wsdler) |  解析wsdler请求，并自动化测试其中的接口  | 988     | 2026-04-09 |
+| [burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) |  将burp流量伪造成多种浏览器  | 988     | 2026-04-09 |
 ### 浏览器插件
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
+| [wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=zh-CN&utm_source=ext_sidebar) | 快速识别目标网站技术栈的浏览器插件   | - | - |
 | [HackTools](https://github.com/LasCC/HackTools)             | 面向红队和渗透测试人员的一体化浏览器插件        | 6683    | 2025-01-05 |
 | [SnowEyes](https://github.com/SickleSec/SnowEyes)           | 网站解析、网页敏感信息检测、指纹识别的chrome插件 | 800     | 2026-01-13 |
 | [keyFinder](https://github.com/momenbasel/keyFinder)        | 被动发现各种API密钥和敏感信息的浏览器插件      | 644     | 2026-04-14 |
 | [VueCrack](https://github.com/Ad1euDa1e/VueCrack)           | 红队浏览器插件-检测VUE站点未授权漏洞        | 752     | 2025-09-09 |
 | [CloudVueRoute](https://github.com/cloud-jie/CloudVueRoute) | 快速提取Vue应用中路由信息的浏览器脚本        | 129     | 2026-04-15 |
-| [Vue-Router](https://github.com/dear-cell/Vue-Router)       | 自动测试Vue路由接口的chorme插件        | 9       | 2025-02-25 |
+| [Heimdallr](https://github.com/Ghr07h/Heimdallr) | 识别目标是否是蜜罐   | 129     | 2026-04-15 |
+| [random-user-agent](https://github.com/tarampampam/random-user-agent) | 自动伪造浏览器的UA头为任意值       | 129     | 2026-04-15 |
+| [DotGit](https://github.com/davtur19/DotGit) | 被动监测目标网站是否有.git/.svn/.hg等文件泄露      | 129     | 2026-04-15 |
+| [onetab](https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) | 管理你的浏览器标签页  | -  | - |
 ### 内网渗透
 #### 内网信息收集
 | 仓库名 | 描述 | Stars | 最近更新 |
@@ -226,8 +236,13 @@
 | [redc](https://github.com/wgpsec/redc)                                             | 集成了AI的红队基础设施部署GUI工具     | 149     | 2026-04-18 |
 | [penetration-suite-toolkit](https://github.com/makoto56/penetration-suite-toolkit) | 包含常见渗透测试工具环境的windows虚拟机 | 2938    | 2025-06-11 |
 | [copy-cert](https://github.com/virusdefender/copy-cert)                            | 通过生成ssl证书伪造c2流量         | 349     | 2024-10-03 |
+#### 机场（不常驻）
+| 链接 | 
+|--------|
+| [ТОСГОНЫ](https://www.mouu.one/#/login)  | 
+| [一元机场](https://xn--4gq62f52gdss.com/#/login)  | 
+| [赔钱机场](https://pqjc.site/order)  | 
 ## 🤖 AI时代足够好用的资源项目
-
 ### AI编码助手
 
 | 仓库名 | 描述 | Stars | 最近更新 |
