@@ -202,6 +202,7 @@
 |--------|------|-------|----------|
 | [sliver](https://github.com/BishopFox/sliver)       | 可跨平台运行，支持linux后门生成的C2           | 11029   | 2026-04-19 |
 | [Viper](https://github.com/FunnyWolf/Viper)         | 基于人工智能的对抗模拟和红队演练平台              | 5027    | 2026-03-31 |
+| [Supershell](https://github.com/tdragon6/Supershell)     | Supershell是一个通过WEB服务访问的C2远控平台    | 5027    | 2026-03-31 |
 | [XiebroC2](https://github.com/INotGreen/XiebroC2)   | 神似Cobalt Strike的C2客户端、功能多样且强大   | 1393    | 2025-02-28 |
 | [Wyrm](https://github.com/0xflux/Wyrm)              | 红队后渗透框架                         | 482     | 2026-03-15 |
 | [Spark](https://github.com/0xflux/Spark)            | 一个免费、安全、开源、基于网页、跨平台且功能丰富的远程管理工具 | -       | -          |
