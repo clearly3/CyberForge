@@ -260,6 +260,7 @@
 ### skills
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
+| [anthropic-skills](https://github.com/anthropics/skills)      | anthropic官方的skill仓库       | 182     | 2026-03-21 |
 | [pua](https://github.com/tanweai/pua)                                                               | 一个赋予AI agent高能动性的skills               | 16416   | 2026-04-19 |
 | [wooyun-legacy](https://github.com/tanweai/wooyun-legacy)                                           | 给AI安全报告加上真实案例背书和数据支撑                  | 1568    | 2026-03-08 |
 | [xianzhi-research](https://github.com/tanweai/xianzhi-research)                                     | 声称能让AI能够像顶尖安全研究员一样思考                  | 160     | 2026-01-29 |
