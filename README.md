@@ -60,6 +60,7 @@
   - [skills](#skills)
   - [渗透智能体](#渗透智能体)
   - [好用的AI工具](#好用的AI工具)
+- [信息获取](#信息获取)
 
 ---
 
@@ -298,6 +299,12 @@
 | [rtk](https://github.com/rtk-ai/rtk)                                              | 让你的AI节省60%-90%的token                  | 30750   | 2026-04-20 |
 | [openai-captcha-detection](https://github.com/XiaomingX/openai-captcha-detection) | 借助AI来进行高准确率的验证码识别                     | 204     | 2025-08-31 |
 | [vibe-kanban](https://github.com/BloopAI/vibe-kanban)                             | 卡片式的任务编排，让你的claude-code、codex工作效率大大提高 | 25326   | 2026-04-18 |
+## 信息获取
+| 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
+| [公众号](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) | 网络安全类公众号推荐 | 4340    | 2026-03-30 |
+| [来福电台](https://laifufm.com/) | 在每天的早咖啡时间根据你的喜好定制推送内容 | -    | - |
+
 ### 项目结构
 
 ```
