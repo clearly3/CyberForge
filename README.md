@@ -53,6 +53,7 @@
     - [机场](#机场(不常驻))
   - [代码审计](#代码审计)
   - [蓝队工具资源](#蓝队工具资源)
+  - [面试题](#面试题)
 - [🤖AI时代足够好用的资源项目](#AI时代足够好用的资源项目)
   - [AI编码助手](#AI编码助手)
   - [about claude-code](#about-claude-code)
@@ -222,6 +223,7 @@
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [RedSun](https://github.com/Nightmare-Eclipse/RedSun) | 利用windows defender进行提权 | 1634    | 2026-04-15 |
+| [Exploit-Street](https://github.com/MzHmO/Exploit-Street)       | 一个2023-2025的windows提权漏洞合集 | 16555   | 2026-04-20 |
 ### 基础设施
 #### 代理池
 | 仓库名 | 描述 | Stars | 最近更新 |
@@ -243,6 +245,10 @@
 | [ТОСГОНЫ](https://www.mouu.one/#/login)  | 
 | [一元机场](https://xn--4gq62f52gdss.com/#/login)  | 
 | [赔钱机场](https://pqjc.site/order)  | 
+### 面试题
+| 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
+| [Sec-Interview](https://github.com/duckpigdog/Sec-Interview/) | 涵盖护网、红队、逆向、密码学、二进制、AI、区块链    | 7182    | 2026-04-20 |
 ## 🤖 AI时代足够好用的资源项目
 ### AI编码助手
 
