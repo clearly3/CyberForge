@@ -303,7 +303,6 @@
 | [claudecodeui](https://github.com/siteboon/claudecodeui)                          | 提供一个web-ui，更好的管理AI编程工具会话和使用它们         | 10030   | 2026-04-20 |
 | [cc-switch](https://github.com/farion1231/cc-switch)                              | 更方便配置claude-code和其他AI编码助手的客户端程序       | 47807   | 2026-04-20 |
 | [rtk](https://github.com/rtk-ai/rtk)                                              | 让你的AI节省60%-90%的token                  | 30750   | 2026-04-20 |
-| [openai-captcha-detection](https://github.com/XiaomingX/openai-captcha-detection) | 借助AI来进行高准确率的验证码识别                     | 204     | 2025-08-31 |
 | [vibe-kanban](https://github.com/BloopAI/vibe-kanban)                             | 卡片式的任务编排，让你的claude-code、codex工作效率大大提高 | 25326   | 2026-04-18 |
 ## 信息获取
 | 仓库名 | 描述 | Stars | 最近更新 |
