@@ -51,10 +51,9 @@
     - [代理池](#内网信息收集)
     - [环境搭建](#环境搭建)
     - [机场](#机场(不常驻))
-  - [代码审计](#代码审计)
-  - [蓝队工具资源](#蓝队工具资源)
   - [面试题](#面试题)
 - [🤖AI时代足够好用的资源项目](#AI时代足够好用的资源项目)
+  - [学习资料](#学习资料)
   - [AI编码助手](#AI编码助手)
   - [about claude-code](#about-claude-code)
   - [MCP](#MCP)
@@ -115,9 +114,10 @@
 #### web渗透框架
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [BurpSuite](https://github.com/yaklang/yakit) | 最受欢迎的web应用测试框架，功能强大，插件丰富          | 7191    | 2026-04-22 |
+| [BurpSuite](https://portswigger.net/burp/communitydownload) | 最受欢迎的web应用测试框架，功能强大，插件丰富          | -  | - |
 | [Yakit](https://github.com/yaklang/yakit)     | 单兵作战武器库                           | 7191    | 2026-04-22 |
 | [Caido](https://github.com/caido/caido)       | rust语言编写的轻量的web应用测试框架，正在撼动burp的地位 | 2299    | 2026-04-10 |
+| [zap](https://github.com/zaproxy/zaproxy)       | Web应用扫描器，它免费且开源 | 2299    | 2026-04-10 |
 #### OWASP-Web-Top10
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -158,6 +158,9 @@
 | [AppSec-Payloads](https://github.com/sh377c0d3/AppSec-Payloads)                       | 包含漏洞payloads和web应用测试中各类场景的fuzz字典集合 | 924     | 2026-04-01 |
 | [Blasting_dictionary](https://github.com/rootphantomer/Blasting_dictionary)           | 高效字典                               | 5276    | 2022-03-21 |
 | [lutfumertceylan/top25-parameter](https://github.com/lutfumertceylan/top25-parameter) | 统计常见web漏洞常出没的25个参数                 | 1832    | 2024-06-09 |
+| [PentesterSpecialDict](https://github.com/evilc0deooo/PentesterSpecialDict) | 统计常见web漏洞常出没的25个参数                 | 1832    | 2024-06-09 |
+| [SecDictionary](https://github.com/SexyBeast233/SecDictionary) | 实战沉淀字典              | 1832    | 2024-06-09 |
+| [Dictionary-Of-Pentesting](https://github.com/insightglacier/Dictionary-Of-Pentesting) | 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目                | 1832    | 2024-06-09 |
 ### 漏洞扫描
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -250,6 +253,17 @@
 |--------|------|-------|----------|
 | [Sec-Interview](https://github.com/duckpigdog/Sec-Interview/) | 涵盖护网、红队、逆向、密码学、二进制、AI、区块链 | 675     | 2026-03-11 |
 ## 🤖 AI时代足够好用的资源项目
+### 学习资料
+| 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
+| [dive-into-llms](https://github.com/Lordog/dive-into-llms) | 上海交大《动手学大模型Dive into LLMs》系列编程实践教程        | 116880  | 2026-04-22 |
+| [self-llm](https://github.com/datawhalechina/self-llm) | 教会你如何正确使用开源大模型        | 116880  | 2026-04-22 |
+| [happy-llm](https://github.com/datawhalechina/happy-llm) | 从核心原理搞懂大模型并构建一个大模型        | 116880  | 2026-04-22 |
+| [llm-universe](https://github.com/datawhalechina/llm-universe) | 大模型应用开发项目，教会你基于大模型开发上层应用        | 116880  | 2026-04-22 |
+| [hello-agents](https://github.com/datawhalechina/hello-agents) | 从零开始的智能体原理与实践教程        | 116880  | 2026-04-22 |
+| [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)      | 通过claude code的源码学习AI工具的开发     | 2894    | 2026-04-06 |
+| [claude-code-book](https://github.com/lintsinghua/claude-code-book)      | 当所有人都在教你怎么用AI Agent——这本书带你拆开它     | 2894    | 2026-04-06 |
+| [agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns)      | 谷歌出品智能体开发教程     | 2894    | 2026-04-06 |
 ### AI编码助手
 
 | 仓库名 | 描述 | Stars | 最近更新 |
@@ -270,12 +284,12 @@
 | [cc-haha](https://github.com/NanmiCoder/cc-haha)                         | 基于cc泄露源码打造的本地可运行的claude-claude客户端 | 8044    | 2026-04-22 |
 | [claude-code-ccb](https://github.com/claude-code-best/claude-code)       | 高度可自定义的claude-code开源构建版           | 16668   | 2026-04-22 |
 | [clawgod](https://github.com/0Chencc/clawgod)                            | 一个claude code补丁，解锁了禁止网络安全相关测试的限制  | 829     | 2026-04-16 |
-| [claude-code-book](https://github.com/lintsinghua/claude-code-book)      | 当所有人都在教你怎么用AI Agent——这本书带你拆开它     | 2894    | 2026-04-06 |
 | [claude-hud](https://github.com/jarrodwatts/claude-hud)                  | 实时查看cc的上下文、工具调用、待办事项等状态的插件        | 20331   | 2026-04-22 |
 | [claude-plugin-wechat](https://github.com/lc2panda/claude-plugin-wechat) | 微信、飞书无缝对接Claude-Code              | 54      | 2026-04-13 |
 ### MCP
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
+| [百度搜索开放平台-MCP广场](https://www.mcpworld.com/)                    | 一个mcp广场 | -      | -|
 | [web-search-fast](https://github.com/uk0/web-search-fast)                    | 一个简单的本地 web search mcp | 39      | 2026-03-23 |
 | [cve-mcp-server](https://github.com/mukul975/cve-mcp-server)                 | AI驱动的安全情报聚合与风险判断工具     | 260     | 2026-04-14 |
 | [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 让AI调试浏览器               | 36688   | 2026-04-22 |
