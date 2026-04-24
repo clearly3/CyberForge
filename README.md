@@ -158,7 +158,7 @@
 | [AppSec-Payloads](https://github.com/sh377c0d3/AppSec-Payloads)                        | 包含漏洞payloads和web应用测试中各类场景的fuzz字典集合 | 925     | 2026-04-01 |
 | [Blasting_dictionary](https://github.com/rootphantomer/Blasting_dictionary)            | 高效字典                               | 5276    | 2022-03-21 |
 | [lutfumertceylan/top25-parameter](https://github.com/lutfumertceylan/top25-parameter)  | 统计常见web漏洞常出没的25个参数                 | 1832    | 2024-06-09 |
-| [PentesterSpecialDict](https://github.com/evilc0deooo/PentesterSpecialDict)            | 统计常见web漏洞常出没的25个参数                 | 1892    | 2025-06-17 |
+| [PentesterSpecialDict](https://github.com/evilc0deooo/PentesterSpecialDict)            | 构建优化高效的渗透 fuzz 字典合集                 | 1892    | 2025-06-17 |
 | [SecDictionary](https://github.com/SexyBeast233/SecDictionary)                         | 实战沉淀字典                             | 1545    | 2026-03-17 |
 | [Dictionary-Of-Pentesting](https://github.com/insightglacier/Dictionary-Of-Pentesting) | 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目     | 2044    | 2023-07-21 |
 ### 漏洞扫描
