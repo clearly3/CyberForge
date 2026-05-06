@@ -26,12 +26,12 @@
     - [子域名收集](#子域名收集)
     - [端口扫描](#端口扫描)
     - [目录扫描](#目录扫描)
-    - [URL收集](#URL收集)
+    - [JS&URL收集](#JS&URL收集)
     - [指纹识别](#指纹识别)
     - [综合工具](#综合工具)
     - [资产收集与测绘平台](#资产收集与测绘平台)
   - [web安全](#web安全)
-    - [web渗透框架](#web渗透框架)
+    - [web渗透测试框架](#web渗透测试框架)
     - [OWASP Web Top10](#OWASP-Web-Top10)
     - [payload list](#payload-list)
     - [web漏洞](#web漏洞)
@@ -88,12 +88,13 @@
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [dirsearch](https://github.com/maurosoria/dirsearch) | 一个好用的目录扫描工具 | 14235   | 2026-04-29 |
-#### URL收集
+#### JS&URL收集
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [katana](https://github.com/projectdiscovery/katana)       | 强大的爬虫框架，支持多种参数传入，全面收集目标URL | 16639   | 2026-04-29 |
 | [urlhunter](https://github.com/utkusen/urlhunter)          | 被动收集目标在互联网暴露的URL信息         | 1677    | 2025-01-23 |
 | [urlfinder](https://github.com/projectdiscovery/urlfinder) | 无需主动扫描、快速被动收集目标URL的工具      | 865     | 2026-01-05 |
+| [xnLinkFinder](https://github.com/xnl-h4ck3r/xnLinkFinder) | 发现潜在的url参数、端点      | 865     | 2026-01-05 |
 #### 指纹识别
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -110,14 +111,17 @@
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [nemo_go](https://github.com/hanc00l/nemo_go) | 自动化信息收集 | 2040    | 2026-02-09 |
+| [ScopeSentry](https://github.com/Autumn-27/ScopeSentry) | 一站式信息收集 | 2040    | 2026-02-09 |
+| [xingrin](https://github.com/yyhuni/xingrin) | 开源攻击面管理平台 | 2040    | 2026-02-09 |
 ### web安全
-#### web渗透框架
+#### web渗透测试框架
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [BurpSuite](https://portswigger.net/burp/communitydownload) | 最受欢迎的web应用测试框架，功能强大，插件丰富          | -       | -          |
 | [Yakit](https://github.com/yaklang/yakit)                   | 单兵作战武器库                           | 7231    | 2026-04-30 |
 | [Caido](https://github.com/caido/caido)                     | rust语言编写的轻量的web应用测试框架，正在撼动burp的地位 | 2319    | 2026-04-10 |
 | [zap](https://github.com/zaproxy/zaproxy)                   | Web应用扫描器，它免费且开源                   | 15073   | 2026-05-02 |
+| [ChYing](https://github.com/yhy0/ChYing)                   | 开源的类BurpSuite应用                 | 15073   | 2026-05-02 |
 #### OWASP-Web-Top10
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -251,7 +255,7 @@
 ### 面试题
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [Sec-Interview](https://github.com/duckpigdog/Sec-Interview/) | 涵盖护网、红队、逆向、密码学、二进制、AI、区块链 | 701     | 2026-03-11 |
+| [Sec-Interview](https://github.com/duckpigdog/Sec-Interview/) | 涵盖护网、红队、逆向、密码学、二进制、AI、区块链的面试题 | 701     | 2026-03-11 |
 ## 🤖 AI时代足够好用的资源项目
 ### 学习资料
 | 仓库名 | 描述 | Stars | 最近更新 |
@@ -278,6 +282,7 @@
 | [qwen-code](https://github.com/QwenLM/qwen-code)         | 阿里巴巴推出的基于Qwen3-Coder的命令行编程智能体 | 24129   | 2026-05-04 |
 | [kimi-cli](https://github.com/MoonshotAI/kimi-cli)       | kimi推出的命令行通用智能体工具             | 8396    | 2026-04-30 |
 | [Lingma](https://lingma.aliyun.com/)                     | 阿里云推出的免费的图形化编程智能体             | -       | -          |
+| [DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)   | 专为deepseek打造的AI编码助手             |        |           |
 ### about-claude-code
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
