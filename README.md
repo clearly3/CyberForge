@@ -299,16 +299,21 @@
 | [cve-mcp-server](https://github.com/mukul975/cve-mcp-server)                 | AI驱动的安全情报聚合与风险判断工具     | 536     | 2026-05-02 |
 | [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 让AI调试浏览器               | 38183   | 2026-05-05 |
 ### skills
+#### 安全相关
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [anthropic-skills](https://github.com/anthropics/skills)                                            | anthropic官方的skill仓库                   | 128551  | 2026-05-03 |
-| [pua](https://github.com/tanweai/pua)                                                               | 一个赋予AI agent高能动性的skills               | 17060   | 2026-04-27 |
 | [wooyun-legacy](https://github.com/tanweai/wooyun-legacy)                                           | 给AI安全报告加上真实案例背书和数据支撑                  | 1579    | 2026-03-08 |
 | [xianzhi-research](https://github.com/tanweai/xianzhi-research)                                     | 声称能让AI能够像顶尖安全研究员一样思考                  | 164     | 2026-01-29 |
 | [web3-bug-bounty-hunting-ai-skills](https://github.com/shuvonsec/web3-bug-bounty-hunting-ai-skills) | 一个应用于AI的智能合约安全知识库                     | 69      | 2026-03-15 |
 | [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)        | 内置754个安全技能，将人类安全专家的实践经验转化为AI可执行的结构化知识 | 6012    | 2026-04-26 |
-| [superpowers](https://github.com/obra/superpowers)                                                  | 提升agent的自主性和规范性，头脑风暴skills            | 179447  | 2026-05-05 |
 | [awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security)      | 为claude-code提供安全性测试和CTF解题的能力          | 225     | 2026-03-21 |
+| [AboutSecurity](https://github.com/wgpsec/AboutSecurity)      | 为AI制定的渗透测试方法论          | 225     | 2026-03-21 |
+#### 其他skills
+| 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
+| [anthropic-skills](https://github.com/anthropics/skills)                                            | anthropic官方的skill仓库                   | 128551  | 2026-05-03 |
+| [superpowers](https://github.com/obra/superpowers)                                                  | 提升agent的自主性和规范性，头脑风暴skills            | 179447  | 2026-05-05 |
+| [pua](https://github.com/tanweai/pua)                                                               | 一个赋予AI agent高能动性的skills               | 17060   | 2026-04-27 |
 ### 渗透智能体
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
