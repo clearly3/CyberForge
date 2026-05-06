@@ -242,6 +242,7 @@
 #### 环境搭建
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
+| [camoufox](https://github.com/daijro/camoufox)                            | 反检测浏览器        | 351     | 2024-10-03 |
 | [f8x](https://github.com/ffffffff0x/f8x)                                           | 红蓝队环境自动化部署工具            | 2121    | 2026-05-05 |
 | [redc](https://github.com/wgpsec/redc)                                             | 集成了AI的红队基础设施部署GUI工具     | 154     | 2026-05-05 |
 | [penetration-suite-toolkit](https://github.com/makoto56/penetration-suite-toolkit) | 包含常见渗透测试工具环境的windows虚拟机 | 2939    | 2025-06-11 |
@@ -307,7 +308,9 @@
 | [web3-bug-bounty-hunting-ai-skills](https://github.com/shuvonsec/web3-bug-bounty-hunting-ai-skills) | 一个应用于AI的智能合约安全知识库                     | 69      | 2026-03-15 |
 | [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)        | 内置754个安全技能，将人类安全专家的实践经验转化为AI可执行的结构化知识 | 6012    | 2026-04-26 |
 | [awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security)      | 为claude-code提供安全性测试和CTF解题的能力          | 225     | 2026-03-21 |
+| [ctf-skills](https://github.com/ljagiello/ctf-skills)      | 一个适用于ctf的skills，包含漏洞利用、逆向、取证分析、情报获取等技能          | 225     | 2026-03-21 |
 | [AboutSecurity](https://github.com/wgpsec/AboutSecurity)      | 为AI制定的渗透测试方法论          | 225     | 2026-03-21 |
+| [califio-skills](https://github.com/califio/skills)      | 适用于代码审计的skills          | 225     | 2026-03-21 |
 #### 其他skills
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
