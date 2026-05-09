@@ -23,6 +23,7 @@
 - [🛡️时至今日仍旧好用的安全项目](#时至今日仍旧好用的安全项目)
   - [信息收集](#信息收集)
     - [企业信息收集](#企业信息收集)
+    - [网络空间测绘](#网络空间测绘)
     - [子域名收集](#子域名收集)
     - [端口扫描](#端口扫描)
     - [目录扫描](#目录扫描)
@@ -71,11 +72,20 @@
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [ENScan_GO](https://github.com/wgpsec/ENScan_GO) | 只需输入名称即可收集该企业及其分支的互联网暴露信息 | 4375    | 2026-03-30 |
+| [ICP_Query](https://github.com/HG-ha/ICP_Query) | 查询域名、APP、小程序、快应用以及企业的ICP备案信息，提供完全本地化的API | 4375    | 2026-03-30 |
+#### 网络空间测绘
+| 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
+| [uncover](https://github.com/projectdiscovery/uncover) | 利用多个搜索引擎快速发现互联网上暴露的主机。 | 4375    | 2026-03-30 |
+| [FofaMap](https://github.com/asaotomo/FofaMap) | 集成AI的智能测绘工具 | 4375    | 2026-03-30 |
+| [ThunderSearch](https://github.com/xzajyjs/ThunderSearch) | 轻量、小巧的测绘工具 | 4375    | 2026-03-30 |
 #### 子域名收集
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [Oneforall](https://github.com/shmilylty/OneForAll)        | 强大的子域名收集工具，支持暴力枚举和多种API源收集 | 9754    | 2025-09-12 |
 | [subfinder](https://github.com/projectdiscovery/subfinder) | 从30余种数据源快速被动收集子域名          | 13563   | 2026-04-29 |
+| [csprecon](https://github.com/edoardottt/csprecon) | 通过csp策略发现子域名          | 13563   | 2026-04-29 |
+| [shuffledns](https://github.com/projectdiscovery/shuffledns) | 子域名爆破工具          | 13563   | 2026-04-29 |
 #### 端口扫描
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -84,6 +94,7 @@
 | [Smap](https://github.com/s0md3v/Smap)                                    | 无缝替代nmap的端口扫描工具             | 3219    | 2026-04-13 |
 | [masnmapscan-V1.0](https://github.com/hellogoldsnakeman/masnmapscan-V1.0) | 结合了masscan和nmap的端口扫描器       | 831     | 2026-02-06 |
 | [webfinder-next](https://github.com/Liqunkit/webfinder-next)              | Java语言开发的快速端口扫描器            | 88      | 2022-04-24 |
+| [TXPortMap](https://github.com/4dogs-cn/TXPortMap) | 轻量端口扫描器，内置指纹       | 88      | 2022-04-24 |
 #### 目录扫描
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -101,6 +112,8 @@
 | [dismap](https://github.com/zhzyker/dismap)       | 辅助红队快速定位目标资产信息                 | 2145    | 2024-01-29 |
 | [hfinger](https://github.com/HackAllSec/hfinger)  | 一个用于web框架、CDN和CMS指纹识别的高性能命令行工具 | 303     | 2026-04-09 |
 | [P1finger](https://github.com/P001water/P1finger) | 面向红队的指纹识别工具                    | 446     | 2025-08-05 |
+| [Ehole](https://github.com/EdgeSecurityTeam/EHole) | 红队重点攻击系统指纹探测工具                  | 446     | 2025-08-05 |
+| [Finger](https://github.com/EASY233/Finger) | 一款红队在大量的资产中存活探测与重点攻击系统指纹探测工具| 446     | 2025-08-05 |
 #### 综合工具
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -231,6 +244,8 @@
 |--------|------|-------|----------|
 | [RedSun](https://github.com/Nightmare-Eclipse/RedSun)     | 利用windows defender进行提权    | 1868    | 2026-04-15 |
 | [Exploit-Street](https://github.com/MzHmO/Exploit-Street) | 一个2023-2025的windows提权漏洞合集 | 936     | 2026-05-06 |
+| [dirtyfrag](https://github.com/V4bel/dirtyfrag) | 2026年5月出现的linux提权0day | 936     | 2026-05-06 |
+
 ### 基础设施
 #### 代理池
 | 仓库名 | 描述 | Stars | 最近更新 |
