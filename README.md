@@ -191,6 +191,7 @@
 |--------|------|-------|----------|
 | [ShiroAttack2](https://github.com/SummerSec/ShiroAttack2)     | shiro反序列化漏洞综合利用工具 | 2487    | 2026-05-06 |
 | [I-Wanna-Get-All](https://github.com/R4gd0ll/I-Wanna-Get-All) | 综合漏洞后渗透利用工具       | 1727    | 2025-12-11 |
+| [ThinkphpGUI](https://github.com/Lotus6/ThinkphpGUI) | thinkphp全版本漏洞检测工具       | 1727    | 2025-12-11 |
 ### POC资源
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
