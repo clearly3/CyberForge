@@ -1,18 +1,10 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-自动更新脚本
-
 功能：
 1. 解析README.md中的GitHub仓库链接
-2. 调用GitHub API获取仓库信息（stars, 更新时间, 主要语言）
+2. 调用GitHub API获取仓库信息(stars, 更新时间）
 3. 更新README.md中的表格数据
 4. 支持按stars数或更新时间排序
-
-使用说明：
-1. 设置GITHUB_TOKEN环境变量可提高API速率限制
-2. 直接运行: python update_resources.py
-3. GitHub Actions会自动每周运行此脚本
+5. github每周自动运行
 """
 
 import re
