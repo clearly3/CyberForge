@@ -55,10 +55,11 @@
   - [面试题](#面试题)
 - [🤖AI时代足够好用的资源项目](#AI时代足够好用的资源项目)
   - [学习资料](#学习资料)
-  - [AI编码助手](#AI编码助手)
-  - [about claude-code](#about-claude-code)
+  - [AI编码助手](#编码助手&智能体)
   - [MCP](#MCP)
   - [skills](#skills)
+    - [安全相关](#安全相关)
+    - [其他skills](#其他skills)
   - [渗透智能体](#渗透智能体)
   - [好用的AI工具](#好用的AI工具)
 - [信息获取](#信息获取)
@@ -224,6 +225,7 @@
 | [random-user-agent](https://github.com/tarampampam/random-user-agent)                                                                             | 自动伪造浏览器的UA头为任意值               | 749     | 2026-06-25 |
 | [DotGit](https://github.com/davtur19/DotGit)                                                                                                      | 被动监测目标网站是否有.git/.svn/.hg等文件泄露 | 474     | 2026-04-26 |
 | [onetab](https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)                                                        | 管理你的浏览器标签页                    | -       | -          |
+| [Webpack_extract](https://github.com/xz-zone/Webpack_extract)             | 一键收集、分析js                    |       |        |
 ### 内网渗透
 #### 内网信息收集
 | 仓库名 | 描述 | Stars | 最近更新 |
@@ -284,8 +286,7 @@
 | [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)        | 通过claude code的源码学习AI工具的开发          | 68823   | 2026-06-26 |
 | [claude-code-book](https://github.com/lintsinghua/claude-code-book)          | 当所有人都在教你怎么用AI Agent——这本书带你拆开它      | 3795    | 2026-06-19 |
 | [agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns) | 谷歌出品智能体开发教程                        | 6443    | 2026-06-04 |
-### AI编码助手
-
+### 编码助手&智能体
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [Claude Code](https://github.com/anthropics/claude-code) | 最好用、最受欢迎的AI编码助手               | 134831  | 2026-06-26 |
@@ -296,36 +297,32 @@
 | [Kiro](https://kiro.dev/)                                | 亚马逊推出的AI IDE                  | -       | -          |
 | [Qoder](https://qoder.com/)                              | 阿里巴巴开发的编程智能体，特色是专家团开发         | -       | -          |
 | [qwen-code](https://github.com/QwenLM/qwen-code)         | 阿里巴巴推出的基于Qwen3-Coder的命令行编程智能体 | 25622   | 2026-06-29 |
-| [kimi-cli](https://github.com/MoonshotAI/kimi-cli)       | kimi推出的命令行通用智能体工具             | 9101    | 2026-06-22 |
+| [codebuddy](https://www.codebuddy.cn/ide/)   | 腾讯旗下的AI-IDE           | -   | - |
+| [kimi-code](https://github.com/MoonshotAI/kimi-cli)      | kimi推出的命令行通用智能体工具             | 9101    | 2026-06-22 |
+| [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)   | 国内开发者开发的ds编程工具           | 39130   | 2026-06-29 |
+| [CodeWhale(deepseek-tui)](https://github.com/Hmbown/CodeWhale)   | 专为deepseek打造的AI编码助手           | 39130   | 2026-06-29 |
 | [Lingma](https://lingma.aliyun.com/)                     | 阿里云推出的免费的图形化编程智能体             | -       | -          |
-| [DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)   | 专为deepseek打造的AI编码助手           | 39130   | 2026-06-29 |
-### about-claude-code
-| 仓库名 | 描述 | Stars | 最近更新 |
-|--------|------|-------|----------|
 | [cc-haha](https://github.com/NanmiCoder/cc-haha)                         | 基于cc泄露源码打造的本地可运行的claude-claude客户端 | 12964   | 2026-06-23 |
 | [claude-code-ccb](https://github.com/claude-code-best/claude-code)       | 高度可自定义的claude-code开源构建版           | 20502   | 2026-06-29 |
-| [clawgod](https://github.com/0Chencc/clawgod)                            | 一个claude code补丁，解锁了禁止网络安全相关测试的限制  | 1478    | 2026-06-28 |
-| [claude-hud](https://github.com/jarrodwatts/claude-hud)                  | 实时查看cc的上下文、工具调用、待办事项等状态的插件        | 25879   | 2026-06-20 |
-| [claude-plugin-wechat](https://github.com/lc2panda/claude-plugin-wechat) | 微信、飞书无缝对接Claude-Code              | 59      | 2026-06-24 |
+| [openclaw](https://github.com/openclaw/openclaw)   | 你的个人AI助手           | 39130   | 2026-06-29 |
+| [workbuddy](https://copilot.tencent.com/work/)           | 腾讯出品，AI工作台           | -   | - |
 ### MCP
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [百度搜索开放平台-MCP广场](https://www.mcpworld.com/)                                  | 一个mcp广场                | -       | -          |
-| [web-search-fast](https://github.com/uk0/web-search-fast)                    | 一个简单的本地 web search mcp | 61      | 2026-06-22 |
 | [cve-mcp-server](https://github.com/mukul975/cve-mcp-server)                 | AI驱动的安全情报聚合与风险判断工具     | 1060    | 2026-06-22 |
 | [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 让AI调试浏览器               | 44633   | 2026-06-28 |
+| [burp-mcp](https://github.com/PortSwigger/mcp-server)                 | 使用MCP协议将Burp Suite与AI客户端集成     | 1060    | 2026-06-22 |
+| [claude-plugin-wechat](https://github.com/lc2panda/claude-plugin-wechat) | 微信、飞书无缝对接Claude-Code              | 59      | 2026-06-24 |
 ### skills
 #### 安全相关
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [wooyun-legacy](https://github.com/tanweai/wooyun-legacy)                                           | 给AI安全报告加上真实案例背书和数据支撑                   | 1722    | 2026-05-11 |
-| [xianzhi-research](https://github.com/tanweai/xianzhi-research)                                     | 声称能让AI能够像顶尖安全研究员一样思考                   | 176     | 2026-01-29 |
-| [web3-bug-bounty-hunting-ai-skills](https://github.com/shuvonsec/web3-bug-bounty-hunting-ai-skills) | 一个应用于AI的智能合约安全知识库                      | 100     | 2026-03-15 |
 | [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)        | 内置754个安全技能，将人类安全专家的实践经验转化为AI可执行的结构化知识  | 22682   | 2026-06-26 |
-| [awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security)      | 为claude-code提供安全性测试和CTF解题的能力           | 325     | 2026-06-08 |
 | [ctf-skills](https://github.com/ljagiello/ctf-skills)                                               | 一个适用于ctf的skills，包含漏洞利用、逆向、取证分析、情报获取等技能 | 2560    | 2026-06-19 |
 | [AboutSecurity](https://github.com/wgpsec/AboutSecurity)                                            | 为AI制定的渗透测试方法论                          | 1509    | 2026-06-28 |
-| [califio-skills](https://github.com/califio/skills)                                                 | 适用于代码审计的skills                         | 56      | 2026-04-30 |
+| [hack-skills](https://github.com/yaklang/hack-skills)                 | yakit官方出品，让AI拥有多项渗透测试技能     | 1060    | 2026-06-22 |
 #### 其他skills
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -335,17 +332,19 @@
 ### 渗透智能体
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
+| [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 一款AI原生安全测试平台集成100+安全工具           | 331     | 2026-02-02 |
 | [strix](https://github.com/usestrix/strix)               | 开源AI黑客将发现并修复您应用的漏洞                 | 26770   | 2026-06-26 |
-| [airecon](https://github.com/pikpikcu/airecon)           | 一个借助本地大模型进行类似人工的渗透测试活动的开源工具        | 773     | 2026-06-20 |
+| [pentest-ai](https://github.com/0xSteph/pentest-ai)      | 可以作为mcp接入claude-code，也可以作为独立的agent工具使用           | 331     | 2026-02-02 |
+| [airecon](https://github.com/pikpikcu/airecon)           | 一个借助本地大模型进行类似人工的渗透测试活动的开源智能体| 773     | 2026-06-20 |
 | [pentagi](https://github.com/vxcontrol/pentagi)          | 利用前沿AI技术进行自动化渗透测试，适用于安全专家、研究人员和爱好者 | 18008   | 2026-06-25 |
-| [superclaw](https://github.com/SuperagenticAI/superclaw) | 一个基于AI的，场景驱动、行为优先的安全测试工具           | 331     | 2026-02-02 |
 ### 好用的AI工具
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [claudecodeui](https://github.com/siteboon/claudecodeui) | 提供一个web-ui，更好的管理AI编程工具会话和使用它们         | 12219   | 2026-06-28 |
-| [cc-switch](https://github.com/farion1231/cc-switch)     | 更方便配置claude-code和其他AI编码助手的客户端程序       | 110007  | 2026-06-28 |
+| [cc-switch](https://github.com/farion1231/cc-switch)     | 配置claude-code、会话、mcp管理       | 110007  | 2026-06-28 |
 | [rtk](https://github.com/rtk-ai/rtk)                     | 让你的AI节省60%-90%的token                  | 66778   | 2026-06-28 |
-| [vibe-kanban](https://github.com/BloopAI/vibe-kanban)    | 卡片式的任务编排，让你的claude-code、codex工作效率大大提高 | 27200   | 2026-04-24 |
+| [claude-hud](https://github.com/jarrodwatts/claude-hud)  | 实时查看cc的上下文、工具调用、待办事项等状态的插件        | 25879   | 2026-06-20 |
+| [clawgod](https://github.com/0Chencc/clawgod)            | 一个claude code补丁，解锁了禁止网络安全相关测试的限制  | 1478    | 2026-06-28 |
 ## 信息获取
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
