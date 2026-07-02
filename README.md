@@ -338,6 +338,7 @@
 | [pentest-ai](https://github.com/0xSteph/pentest-ai)      | 可以作为mcp接入claude-code，也可以作为独立的agent工具使用           | 331     | 2026-02-02 |
 | [airecon](https://github.com/pikpikcu/airecon)           | 一个借助本地大模型进行类似人工的渗透测试活动的开源智能体| 773     | 2026-06-20 |
 | [pentagi](https://github.com/vxcontrol/pentagi)          | 利用前沿AI技术进行自动化渗透测试，适用于安全专家、研究人员和爱好者 | 18008   | 2026-06-25 |
+| [aster](https://github.com/Q16G/aster)           | 在终端中完成代码审计、渗透测试、主机防护| 773     | 2026-06-20 |
 ### 好用的AI工具
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
