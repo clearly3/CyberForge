@@ -323,6 +323,7 @@
 | [ctf-skills](https://github.com/ljagiello/ctf-skills)                                               | 一个适用于ctf的skills，包含漏洞利用、逆向、取证分析、情报获取等技能 | 2560    | 2026-06-19 |
 | [AboutSecurity](https://github.com/wgpsec/AboutSecurity)                                            | 为AI制定的渗透测试方法论                          | 1509    | 2026-06-28 |
 | [hack-skills](https://github.com/yaklang/hack-skills)                 | yakit官方出品，让AI拥有多项渗透测试技能     | 1060    | 2026-06-22 |
+| [reverse-skill](https://github.com/zhaoxuya520/reverse-skill)                 | 逆向/渗透/安全技能路由包     | 1060    | 2026-06-22 |
 #### 其他skills
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
