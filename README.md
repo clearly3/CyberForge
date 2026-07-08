@@ -155,7 +155,6 @@
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [nomore403](https://github.com/devploit/nomore403) | 执行低误报的40x绕过方案      | 1803    | 2026-06-21 |
-| [plecost](https://github.com/Plecost/plecost)      | 针对WordPress的漏洞扫描工具 | 378     | 2026-05-25 |
 #### webshell管理工具
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -168,6 +167,7 @@
 | [gitleaks](https://github.com/gitleaks/gitleaks)         | 一个秘钥泄露扫描工具           | 28014   | 2026-07-01 |
 | [idea_exploit](https://github.com/lijiejie/idea_exploit) | 扫描idea配置文件中可能存在的敏感信息 | 369     | 2022-08-05 |
 | [heapdump_tool](https://github.com/wyzxxz/heapdump_tool) | heapdump泄露利用工具       | 1454    | 2024-05-21 |
+| [API-Explorer](https://github.com/mrknow001/API-Explorer) | 在你拿到一个泄漏的飞书、企微、钉钉或者地图api的时候、快速利用它      | 1454    | 2024-05-21 |
 #### 字典
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -187,12 +187,15 @@
 | [xray](https://github.com/chaitin/xray)              | 强大的支持被动式的web漏洞扫描器             | 11641   | 2024-10-29 |
 | [dddd](https://github.com/SleepingBag945/dddd)       | 只需一个参数即可完成信息收集到漏洞检测的全自动扫描     | 1903    | 2024-08-02 |
 | [VscanPlus](https://github.com/youki992/VscanPlus)   | vscan二次开发的版本，批量快速检测网站安全隐患     | 345     | 2026-03-10 |
+| [plecost](https://github.com/Plecost/plecost)      | 针对WordPress的漏洞扫描工具 | 378     | 2026-05-25 |
 ### 漏洞利用
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [ShiroAttack2](https://github.com/SummerSec/ShiroAttack2)     | shiro反序列化漏洞综合利用工具 | 2592    | 2026-06-04 |
 | [I-Wanna-Get-All](https://github.com/R4gd0ll/I-Wanna-Get-All) | 综合漏洞后渗透利用工具       | 1762    | 2025-12-11 |
+| [ShiroAttack2](https://github.com/SummerSec/ShiroAttack2)     | shiro反序列化漏洞综合利用工具 | 2592    | 2026-06-04 |
 | [ThinkphpGUI](https://github.com/Lotus6/ThinkphpGUI)          | thinkphp全版本漏洞检测工具 | 1589    | 2022-06-01 |
+| [WeaverExploit_All](https://github.com/zhaoyumi/WeaverExploit_All)          | 泛微漏洞批量检测工具 | 1589    | 2022-06-01 |
+| [NacosExploit](https://github.com/h0ny/NacosExploit)          | Nacos 综合漏洞利用工具 | 1589    | 2022-06-01 |
 ### POC资源
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -208,11 +211,12 @@
 | [BypassPro](https://github.com/0x727/BypassPro)                 | 自动化绕过40x和waf的burp插件      | 1292    | 2026-05-10 |
 | [APIKit](https://github.com/API-Security/APIKit)                | 被动挖掘各种API泄露              | 2276    | 2024-04-02 |
 | [Wsdler](https://github.com/NetSPI/Wsdler)                      | 解析wsdler请求，并自动化测试其中的接口   | 281     | 2018-06-25 |
+| [burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) | 将burp流量伪造成多种浏览器          | 1846    | 2026-06-26 |
 | [HaE](https://github.com/gh0stkey/HaE)                          | 检查经过burp的流量，挖掘敏感信息，并高亮显示 | 4267    | 2026-07-03 |
 | [TsojanScan](https://github.com/Tsojan/TsojanScan)              | 一个集成常见漏洞探测的BurpSuite插件   | 1526    | 2026-01-29 |
 | [burp-ai-agent](https://github.com/six2dez/burp-ai-agent)       | 让AI与BurpSuite无缝衔接        | 1326    | 2026-07-01 |
 | [burp-mcp](https://github.com/PortSwigger/mcp-server)                        | 使用MCP协议将Burp Suite与AI客户端集成 | 956     | 2026-06-26 |
-| [burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) | 将burp流量伪造成多种浏览器          | 1846    | 2026-06-26 |
+| [BurpMCP-Ultra](https://github.com/Cy-S3c/BurpMCP-Ultra)                        | 将burp的api结构化为100多种工具，并集成多种漏洞检测功能，理论上强于官方的burpmcp工具 | 956     | 2026-06-26 |
 ### 浏览器插件
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -227,6 +231,7 @@
 | [DotGit](https://github.com/davtur19/DotGit)                                                                                                      | 被动监测目标网站是否有.git/.svn/.hg等文件泄露 | 474     | 2026-04-26 |
 | [onetab](https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)                                                        | 管理你的浏览器标签页                    | -       | -          |
 | [Webpack_extract](https://github.com/xz-zone/Webpack_extract)                                                                                     | 一键收集、分析js                     | 294     | 2026-06-11 |
+| [AntiDebug_Breaker](https://github.com/0xsdeo/AntiDebug_Breaker)                                                                                     |js逆向插件                  | 294     | 2026-06-11 |
 ### 内网渗透
 #### 内网信息收集
 | 仓库名 | 描述 | Stars | 最近更新 |
@@ -271,6 +276,11 @@
 | [ТОСГОНЫ](https://www.mouu.one/#/login)  | 
 | [一元机场](https://xn--4gq62f52gdss.com/#/login)  | 
 | [赔钱机场](https://pqjc.site/order)  | 
+### 靶场
+| 仓库名 | 描述 | Stars | 最近更新 |
+|--------|------|-------|----------|
+| [vulntarget](https://github.com/crow821/vulntarget) | 贴切实战攻防、应急的靶场 | 761     | 2026-03-11 |
+| [FastJsonParty](https://github.com/lemono0/FastJsonParty) | fastjson全版本漏洞环境 | 761     | 2026-03-11 |
 ### 面试题
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
