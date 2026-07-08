@@ -207,10 +207,11 @@
 |--------|------|-------|----------|
 | [BypassPro](https://github.com/0x727/BypassPro)                 | 自动化绕过40x和waf的burp插件      | 1292    | 2026-05-10 |
 | [APIKit](https://github.com/API-Security/APIKit)                | 被动挖掘各种API泄露              | 2276    | 2024-04-02 |
+| [Wsdler](https://github.com/NetSPI/Wsdler)                      | 解析wsdler请求，并自动化测试其中的接口   | 281     | 2018-06-25 |
 | [HaE](https://github.com/gh0stkey/HaE)                          | 检查经过burp的流量，挖掘敏感信息，并高亮显示 | 4267    | 2026-07-03 |
 | [TsojanScan](https://github.com/Tsojan/TsojanScan)              | 一个集成常见漏洞探测的BurpSuite插件   | 1526    | 2026-01-29 |
 | [burp-ai-agent](https://github.com/six2dez/burp-ai-agent)       | 让AI与BurpSuite无缝衔接        | 1326    | 2026-07-01 |
-| [Wsdler](https://github.com/NetSPI/Wsdler)                      | 解析wsdler请求，并自动化测试其中的接口   | 281     | 2018-06-25 |
+| [burp-mcp](https://github.com/PortSwigger/mcp-server)                        | 使用MCP协议将Burp Suite与AI客户端集成 | 956     | 2026-06-26 |
 | [burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) | 将burp流量伪造成多种浏览器          | 1846    | 2026-06-26 |
 ### 浏览器插件
 | 仓库名 | 描述 | Stars | 最近更新 |
@@ -312,7 +313,6 @@
 | [百度搜索开放平台-MCP广场](https://www.mcpworld.com/)                                  | 一个mcp广场                    | -       | -          |
 | [cve-mcp-server](https://github.com/mukul975/cve-mcp-server)                 | AI驱动的安全情报聚合与风险判断工具         | 1071    | 2026-06-22 |
 | [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 让AI调试浏览器                   | 45954   | 2026-07-05 |
-| [burp-mcp](https://github.com/PortSwigger/mcp-server)                        | 使用MCP协议将Burp Suite与AI客户端集成 | 956     | 2026-06-26 |
 | [claude-plugin-wechat](https://github.com/lc2panda/claude-plugin-wechat)     | 微信、飞书无缝对接Claude-Code       | 60      | 2026-06-24 |
 ### skills
 #### 安全相关
