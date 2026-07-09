@@ -33,9 +33,8 @@
     - [资产收集与测绘平台](#资产收集与测绘平台)
   - [web安全](#web安全)
     - [web渗透测试框架&抓包工具](#web渗透测试框架&抓包工具)
-    - [OWASP Web Top10](#OWASP-Web-Top10)
-    - [payload list](#payload-list)
     - [web漏洞](#web漏洞)
+    - [payload list](#payload-list)
     - [webshell管理工具](#webshell管理工具)
     - [信息泄露](#信息泄露)
     - [字典](#字典)
@@ -130,7 +129,7 @@
 #### 资产收集与测绘平台
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [ARL](https://github.com/adysec/ARL)           | ARL 资产侦察灯塔系统   | 2068    | 2026-02-09 |
+| [ARL](https://github.com/adysec/ARL)           | ARL资产侦察灯塔系统   | 2068    | 2026-02-09 |
 | [nemo_go](https://github.com/hanc00l/nemo_go)           | 自动化信息收集   | 2068    | 2026-02-09 |
 | [ScopeSentry](https://github.com/Autumn-27/ScopeSentry) | 一站式信息收集   | 1524    | 2026-06-26 |
 | [xingrin](https://github.com/yyhuni/xingrin)            | 开源攻击面管理平台 | 588     | 2026-06-12 |
@@ -144,7 +143,7 @@
 | [zap](https://github.com/zaproxy/zaproxy)                   | Web应用扫描器，它免费且开源                   | 15355   | 2026-07-02 |
 | [ChYing](https://github.com/yhy0/ChYing)                    | 开源的类BurpSuite应用                   | 710     | 2026-05-25 |
 | [anything-analyzer](https://github.com/Mouseww/anything-analyzer)                    | 全协议抓包，把流量交给AI自动逆向分析，并支持流量继续转发    | 710     | 2026-05-25 |
-#### OWASP-Web-Top10
+#### web漏洞
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [sqlmap](https://github.com/sqlmapproject/sqlmap)              | 发现sql注入后，快速利用它           | 37817   | 2026-07-04 |
@@ -154,15 +153,12 @@
 | [liffy](https://github.com/mzfr/liffy)                         | 本地文件包含漏洞扫描工具             | 971     | 2026-05-19 |
 | [SSRFmap](https://github.com/swisskyrepo/SSRFmap)              | 自动SSRF模糊测试与利用工具          | 3583    | 2025-09-04 |
 | [SSTImap](https://github.com/vladko312/SSTImap)                | 发现模版注入时自动化利用             | 1563    | 2026-04-25 |
+| [nomore403](https://github.com/devploit/nomore403)             | 执行低误报的40x绕过方案      | 1803    | 2026-06-21 |
 #### payload-list
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 几乎包含所有常见web漏洞payload的仓库 | 78950   | 2026-06-19 |
 | [Payloader](https://github.com/3516634930/Payloader/)                       | 渗透测试payload速查           | 437     | 2026-03-11 |
-#### web漏洞
-| 仓库名 | 描述 | Stars | 最近更新 |
-|--------|------|-------|----------|
-| [nomore403](https://github.com/devploit/nomore403) | 执行低误报的40x绕过方案      | 1803    | 2026-06-21 |
 #### webshell管理工具
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
