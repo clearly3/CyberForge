@@ -26,13 +26,13 @@
     - [网络空间测绘](#网络空间测绘)
     - [子域名收集](#子域名收集)
     - [端口扫描](#端口扫描)
-    - [目录扫描](#目录扫描)
+    - [目录扫描&fuzz](#目录扫描&fuzz)
     - [JS&URL收集](#JS&URL收集)
     - [指纹识别](#指纹识别)
     - [综合工具](#综合工具)
     - [资产收集与测绘平台](#资产收集与测绘平台)
   - [web安全](#web安全)
-    - [web渗透测试框架](#web渗透测试框架)
+    - [web渗透测试框架&抓包工具](#web渗透测试框架&抓包工具)
     - [OWASP Web Top10](#OWASP-Web-Top10)
     - [payload list](#payload-list)
     - [web漏洞](#web漏洞)
@@ -52,6 +52,7 @@
     - [代理池](#内网信息收集)
     - [环境搭建](#环境搭建)
     - [机场](#机场(不常驻))
+    - [靶场](#靶场)
   - [面试题](#面试题)
 - [🤖AI时代足够好用的资源项目](#AI时代足够好用的资源项目)
   - [学习资料](#学习资料)
@@ -96,14 +97,18 @@
 | [masnmapscan-V1.0](https://github.com/hellogoldsnakeman/masnmapscan-V1.0) | 结合了masscan和nmap的端口扫描器       | 832     | 2026-02-06 |
 | [webfinder-next](https://github.com/Liqunkit/webfinder-next)              | Java语言开发的快速端口扫描器            | 87      | 2022-04-24 |
 | [TXPortMap](https://github.com/4dogs-cn/TXPortMap)                        | 轻量端口扫描器，内置指纹                | 676     | 2023-10-27 |
-#### 目录扫描
+#### 目录扫描&fuzz
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [dirsearch](https://github.com/maurosoria/dirsearch) | 一个好用的目录扫描工具 | 14454   | 2026-07-01 |
+| [feroxbuster](https://github.com/epi052/feroxbuster) | web敏感路径快速探测 | 14454   | 2026-07-01 |
+| [fuff](https://github.com/ffuf/ffuf) | web-fuzz神器 | 14454   | 2026-07-01 |
+| [arjun](https://github.com/s0md3v/Arjun) | http参数fuzz小工具 | 14454   | 2026-07-01 |
 #### JS&URL收集
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [katana](https://github.com/projectdiscovery/katana)       | 强大的爬虫框架，支持多种参数传入，全面收集目标URL | 17129   | 2026-07-01 |
+| [urlfinder](https://github.com/pingc0y/URLFinder) | 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。      | 887     | 2026-06-23 |
 | [urlhunter](https://github.com/utkusen/urlhunter)          | 被动收集目标在互联网暴露的URL信息         | 1683    | 2025-01-23 |
 | [urlfinder](https://github.com/projectdiscovery/urlfinder) | 无需主动扫描、快速被动收集目标URL的工具      | 887     | 2026-06-23 |
 | [xnLinkFinder](https://github.com/xnl-h4ck3r/xnLinkFinder) | 发现潜在的url参数、端点              | 1574    | 2026-03-08 |
@@ -111,6 +116,7 @@
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [dismap](https://github.com/zhzyker/dismap)        | 辅助红队快速定位目标资产信息                 | 2150    | 2024-01-29 |
+| [TideFinger](https://github.com/TideSec/TideFinger)        | 指纹识别小工具，汲取整合了多个web指纹库   | 1726    | 2023-12-22 |
 | [hfinger](https://github.com/HackAllSec/hfinger)   | 一个用于web框架、CDN和CMS指纹识别的高性能命令行工具 | 319     | 2026-04-09 |
 | [P1finger](https://github.com/P001water/P1finger)  | 面向红队的指纹识别工具                    | 452     | 2025-08-05 |
 | [Ehole](https://github.com/EdgeSecurityTeam/EHole) | 红队重点攻击系统指纹探测工具                 | 3492    | 2024-04-02 |
@@ -124,11 +130,12 @@
 #### 资产收集与测绘平台
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
+| [ARL](https://github.com/adysec/ARL)           | ARL 资产侦察灯塔系统   | 2068    | 2026-02-09 |
 | [nemo_go](https://github.com/hanc00l/nemo_go)           | 自动化信息收集   | 2068    | 2026-02-09 |
 | [ScopeSentry](https://github.com/Autumn-27/ScopeSentry) | 一站式信息收集   | 1524    | 2026-06-26 |
 | [xingrin](https://github.com/yyhuni/xingrin)            | 开源攻击面管理平台 | 588     | 2026-06-12 |
 ### web安全
-#### web渗透测试框架
+#### web渗透测试框架&抓包工具
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [BurpSuite](https://portswigger.net/burp/communitydownload) | 最受欢迎的web应用测试框架，功能强大，插件丰富          | -       | -          |
@@ -136,6 +143,7 @@
 | [Caido](https://github.com/caido/caido)                     | rust语言编写的轻量的web应用测试框架，正在撼动burp的地位 | 2448    | 2026-06-05 |
 | [zap](https://github.com/zaproxy/zaproxy)                   | Web应用扫描器，它免费且开源                   | 15355   | 2026-07-02 |
 | [ChYing](https://github.com/yhy0/ChYing)                    | 开源的类BurpSuite应用                   | 710     | 2026-05-25 |
+| [anything-analyzer](https://github.com/Mouseww/anything-analyzer)                    | 全协议抓包，把流量交给AI自动逆向分析，并支持流量继续转发    | 710     | 2026-05-25 |
 #### OWASP-Web-Top10
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -159,6 +167,7 @@
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [Godzilla](https://github.com/BeichenDream/Godzilla) | 好用的webshell管理工具           | 4412    | 2024-07-17 |
+| [Behinder](https://github.com/rebeyond/Behinder/) | “冰蝎”动态二进制加密网站管理客户端           | 4412    | 2024-07-17 |
 | [EtherGhost](https://github.com/Marven11/EtherGhost) | 游魂-支持PHP/JSP的webshell管理工具 | 685     | 2026-06-02 |
 #### 信息泄露
 | 仓库名 | 描述 | Stars | 最近更新 |
@@ -184,10 +193,11 @@
 |--------|------|-------|----------|
 | [nuclei](https://github.com/projectdiscovery/nuclei) | 基于yaml语法定制漏洞模版的快速、低误报率的漏洞扫描工具 | 29506   | 2026-07-05 |
 | [afrog](https://github.com/zan8in/afrog)             | 轻量快速的扫描器，有着适合国内环境的poc         | 4330    | 2026-07-06 |
+| [plecost](https://github.com/Plecost/plecost)      | 针对WordPress的漏洞扫描工具 | 378     | 2026-05-25 |
+| [VscanPlus](https://github.com/youki992/VscanPlus)   | vscan二次开发的版本，批量快速检测网站安全隐患     | 345     | 2026-03-10 |
 | [xray](https://github.com/chaitin/xray)              | 强大的支持被动式的web漏洞扫描器             | 11641   | 2024-10-29 |
 | [dddd](https://github.com/SleepingBag945/dddd)       | 只需一个参数即可完成信息收集到漏洞检测的全自动扫描     | 1903    | 2024-08-02 |
-| [VscanPlus](https://github.com/youki992/VscanPlus)   | vscan二次开发的版本，批量快速检测网站安全隐患     | 345     | 2026-03-10 |
-| [plecost](https://github.com/Plecost/plecost)      | 针对WordPress的漏洞扫描工具 | 378     | 2026-05-25 |
+
 ### 漏洞利用
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -215,8 +225,8 @@
 | [HaE](https://github.com/gh0stkey/HaE)                          | 检查经过burp的流量，挖掘敏感信息，并高亮显示 | 4267    | 2026-07-03 |
 | [TsojanScan](https://github.com/Tsojan/TsojanScan)              | 一个集成常见漏洞探测的BurpSuite插件   | 1526    | 2026-01-29 |
 | [burp-ai-agent](https://github.com/six2dez/burp-ai-agent)       | 让AI与BurpSuite无缝衔接        | 1326    | 2026-07-01 |
-| [burp-mcp](https://github.com/PortSwigger/mcp-server)                        | 使用MCP协议将Burp Suite与AI客户端集成 | 956     | 2026-06-26 |
-| [BurpMCP-Ultra](https://github.com/Cy-S3c/BurpMCP-Ultra)                        | 将burp的api结构化为100多种工具，并集成多种漏洞检测功能，理论上强于官方的burpmcp工具 | 956     | 2026-06-26 |
+| [burp-mcp](https://github.com/PortSwigger/mcp-server)           | 使用MCP协议将Burp Suite与AI客户端集成 | 956     | 2026-06-26 |
+| [BurpMCP-Ultra](https://github.com/Cy-S3c/BurpMCP-Ultra)        | 将burp的api结构化为100多种工具，并集成多种漏洞检测功能，理论上强于官方的burpmcp工具 | 956     | 2026-06-26 |
 ### 浏览器插件
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -258,10 +268,11 @@
 #### 代理池
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [ProxyPool](https://github.com/XiaomingX/proxy-pool)  | 帮助用户自动维护高质量的代理池            | 133     | 2026-03-08 |
+| [proxy_pool](https://github.com/jhao104/proxy_pool)  | ProxyPool 爬虫代理IP池           | 133     | 2026-03-08 |
 | [Deadpool](https://github.com/thinkoaa/Deadpool)      | Go编写的代理池轮询工具               | 703     | 2026-05-06 |
 | [mubeng](https://github.com/mubeng/mubeng)            | 一款速度极快、使用便捷的代理服务器检测和IP轮换工具 | 2118    | 2025-10-08 |
 | [fir-proxy](https://github.com/11firefly11/fir-proxy) | 一个轮换代理的图形化代理池程序            | 603     | 2025-12-04 |
+| [ProxyPool](https://github.com/XiaomingX/proxy-pool)  | 帮助用户自动维护高质量的代理池            | 133     | 2026-03-08 |
 #### 环境搭建
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -280,6 +291,7 @@
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [vulntarget](https://github.com/crow821/vulntarget) | 贴切实战攻防、应急的靶场 | 761     | 2026-03-11 |
+| [vulhub](https://github.com/vulhub/vulhub) | 各类nday复现环境 | 761     | 2026-03-11 |
 | [FastJsonParty](https://github.com/lemono0/FastJsonParty) | fastjson全版本漏洞环境 | 761     | 2026-03-11 |
 ### 面试题
 | 仓库名 | 描述 | Stars | 最近更新 |
