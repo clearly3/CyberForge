@@ -201,7 +201,9 @@
 | [ShiroAttack2](https://github.com/SummerSec/ShiroAttack2)     | shiro反序列化漏洞综合利用工具 | 2592    | 2026-06-04 |
 | [ThinkphpGUI](https://github.com/Lotus6/ThinkphpGUI)          | thinkphp全版本漏洞检测工具 | 1589    | 2022-06-01 |
 | [WeaverExploit_All](https://github.com/zhaoyumi/WeaverExploit_All)          | 泛微漏洞批量检测工具 | 1589    | 2022-06-01 |
-| [NacosExploit](https://github.com/h0ny/NacosExploit)          | Nacos 综合漏洞利用工具 | 1589    | 2022-06-01 |
+| [NacosExploit](https://github.com/h0ny/NacosExploit)          | Nacos综合漏洞利用工具 | 1589    | 2022-06-01 |
+| [Frchannel](https://github.com/7wkajk/Frchannel)          | 帆软反序列化漏洞利用工具 | 1589    | 2022-06-01 |
+
 ### POC资源
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -217,6 +219,7 @@
 | [BypassPro](https://github.com/0x727/BypassPro)                 | 自动化绕过40x和waf的burp插件      | 1292    | 2026-05-10 |
 | [APIKit](https://github.com/API-Security/APIKit)                | 被动挖掘各种API泄露              | 2276    | 2024-04-02 |
 | [Wsdler](https://github.com/NetSPI/Wsdler)                      | 解析wsdler请求，并自动化测试其中的接口   | 281     | 2018-06-25 |
+| [nowafpls](https://github.com/assetnote/nowafpls)               | 在burp数据包中插入垃圾数据绕过waf   | 281     | 2018-06-25 |
 | [burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) | 将burp流量伪造成多种浏览器          | 1846    | 2026-06-26 |
 | [HaE](https://github.com/gh0stkey/HaE)                          | 检查经过burp的流量，挖掘敏感信息，并高亮显示 | 4267    | 2026-07-03 |
 | [TsojanScan](https://github.com/Tsojan/TsojanScan)              | 一个集成常见漏洞探测的BurpSuite插件   | 1526    | 2026-01-29 |
@@ -242,6 +245,7 @@
 #### 内网信息收集
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
+| [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) | 提取和解密浏览器数据，支持多种数据类型，可在各种操作系统（macOS、Windows、Linux）上运行。 | 596     | 2026-03-01 |
 | [e0e1-config](https://github.com/eeeeeeeeee-code/e0e1-config) | 收集浏览器、数据库连接工具等敏感信息的后渗透工具 | 596     | 2026-03-01 |
 | [MX1014](https://github.com/L-codes/MX1014)                   | 大小仅2M左右，适合红队在内网进行快速端口扫描  | 172     | 2026-06-26 |
 #### C2
