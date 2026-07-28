@@ -181,6 +181,7 @@
 | [AppSec-Payloads](https://github.com/sh377c0d3/AppSec-Payloads)                        | 包含漏洞payloads和web应用测试中各类场景的fuzz字典集合 | 942     | 2026-04-01 |
 | [Blasting_dictionary](https://github.com/rootphantomer/Blasting_dictionary)            | 高效字典                               | 5279    | 2022-03-21 |
 | [lutfumertceylan/top25-parameter](https://github.com/lutfumertceylan/top25-parameter)  | 统计常见web漏洞常出没的25个参数                 | 1846    | 2024-06-09 |
+| [Darkmoon](https://github.com/ASCIT31/Dark-Moon) | Open source (GPL-3.0) autonomous AI pentest platform for web, API, Active Directory and Kubernetes, running as an MCP host with a local privacy gateway. | - | - |
 | [PentesterSpecialDict](https://github.com/evilc0deooo/PentesterSpecialDict)            | 构建优化高效的渗透 fuzz 字典合集                | 1906    | 2025-06-17 |
 | [SecDictionary](https://github.com/SexyBeast233/SecDictionary)                         | 实战沉淀字典                             | 1570    | 2026-03-17 |
 | [Dictionary-Of-Pentesting](https://github.com/insightglacier/Dictionary-Of-Pentesting) | 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目     | 2065    | 2023-07-21 |
