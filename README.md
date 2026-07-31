@@ -34,10 +34,9 @@
   - [web安全](#web安全)
     - [web渗透测试框架&抓包工具](#web渗透测试框架&抓包工具)
     - [web漏洞](#web漏洞)
-    - [payload list](#payload-list)
     - [webshell管理工具](#webshell管理工具)
     - [信息泄露](#信息泄露)
-    - [字典](#字典)
+    - [字典&payload](#字典&payload)
   - [漏洞扫描](#漏洞扫描)
   - [漏洞利用](#渗透测试工具)
   - [POC资源](#POC资源)
@@ -48,18 +47,13 @@
     - [C2](#C2)
     - [权限提升](#权限提升)
   - [基础设施](#基础设施)
-    - [代理池](#代理池)
-    - [环境搭建](#环境搭建)
-    - [机场](#机场(不常驻))
-    - [靶场](#靶场)
+  - [靶场](#靶场)
   - [面试题](#面试题)
 - [🤖AI时代足够好用的资源项目](#AI时代足够好用的资源项目)
   - [学习资料](#学习资料)
   - [AI编码助手](#编码助手&智能体)
   - [MCP](#MCP)
   - [skills](#skills)
-    - [安全相关](#安全相关)
-    - [其他skills](#其他skills)
   - [渗透智能体](#渗透智能体)
   - [好用的AI工具](#好用的AI工具)
 - [信息获取](#信息获取)
@@ -154,11 +148,7 @@
 | [SSRFmap](https://github.com/swisskyrepo/SSRFmap)              | 自动SSRF模糊测试与利用工具          | 3594    | 2025-09-04 |
 | [SSTImap](https://github.com/vladko312/SSTImap)                | 发现模版注入时自动化利用             | 1587    | 2026-04-25 |
 | [nomore403](https://github.com/devploit/nomore403)             | 执行低误报的40x绕过方案            | 1820    | 2026-06-21 |
-#### payload-list
-| 仓库名 | 描述 | Stars | 最近更新 |
-|--------|------|-------|----------|
-| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 几乎包含所有常见web漏洞payload的仓库 | 79464   | 2026-07-23 |
-| [Payloader](https://github.com/3516634930/Payloader/)                       | 渗透测试payload速查           | 481     | 2026-07-16 |
+
 #### webshell管理工具
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -173,7 +163,7 @@
 | [idea_exploit](https://github.com/lijiejie/idea_exploit)  | 扫描idea配置文件中可能存在的敏感信息              | 369     | 2022-08-05 |
 | [heapdump_tool](https://github.com/wyzxxz/heapdump_tool)  | heapdump泄露利用工具                    | 1451    | 2024-05-21 |
 | [API-Explorer](https://github.com/mrknow001/API-Explorer) | 在你拿到一个泄漏的飞书、企微、钉钉或者地图api的时候、快速利用它 | 790     | 2024-10-15 |
-#### 字典
+#### 字典&payload
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts)                                | Web Pentesting Fuzz 字典,一个就够了       | 8397    | 2023-11-13 |
@@ -184,6 +174,8 @@
 | [PentesterSpecialDict](https://github.com/evilc0deooo/PentesterSpecialDict)            | 构建优化高效的渗透 fuzz 字典合集                | 1906    | 2025-06-17 |
 | [SecDictionary](https://github.com/SexyBeast233/SecDictionary)                         | 实战沉淀字典                             | 1570    | 2026-03-17 |
 | [Dictionary-Of-Pentesting](https://github.com/insightglacier/Dictionary-Of-Pentesting) | 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目     | 2065    | 2023-07-21 |
+| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 几乎包含所有常见web漏洞payload的仓库 | 79464   | 2026-07-23 |
+| [Payloader](https://github.com/3516634930/Payloader/)                       | 渗透测试payload速查           | 481     | 2026-07-16 |
 ### 漏洞扫描
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -268,22 +260,16 @@
 | [proxy_pool](https://github.com/jhao104/proxy_pool)   | ProxyPool 爬虫代理IP池          | 23533   | 2026-06-15 |
 | [Deadpool](https://github.com/thinkoaa/Deadpool)      | Go编写的代理池轮询工具               | 709     | 2026-05-06 |
 | [mubeng](https://github.com/mubeng/mubeng)            | 一款速度极快、使用便捷的代理服务器检测和IP轮换工具 | 2127    | 2025-10-08 |
-| [fir-proxy](https://github.com/11firefly11/fir-proxy) | 一个轮换代理的图形化代理池程序            | 607     | 2025-12-04 |
 | [ProxyPool](https://github.com/XiaomingX/proxy-pool)  | 帮助用户自动维护高质量的代理池            | 134     | 2026-03-08 |
-#### 环境搭建
-| 仓库名 | 描述 | Stars | 最近更新 |
-|--------|------|-------|----------|
 | [camoufox](https://github.com/daijro/camoufox)                                     | 反检测浏览器                  | 10506   | 2026-07-19 |
 | [f8x](https://github.com/ffffffff0x/f8x)                                           | 红蓝队环境自动化部署工具            | 2147    | 2026-07-25 |
 | [redc](https://github.com/wgpsec/redc)                                             | 集成了AI的红队基础设施部署GUI工具     | 182     | 2026-07-25 |
 | [penetration-suite-toolkit](https://github.com/makoto56/penetration-suite-toolkit) | 包含常见渗透测试工具环境的windows虚拟机 | 2961    | 2025-06-11 |
 | [copy-cert](https://github.com/virusdefender/copy-cert)                            | 通过生成ssl证书伪造c2流量         | 351     | 2024-10-03 |
-#### 机场(不常驻)
-| 链接 | 
-|--------|
-| [ТОСГОНЫ](https://www.mouu.one/#/login)  | 
+| [ТОСГОНЫ机场](https://www.mouu.one/#/login)  | 
 | [一元机场](https://xn--4gq62f52gdss.com/#/login)  | 
 | [赔钱机场](https://pqjc.site/order)  | 
+
 ### 靶场
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
@@ -343,12 +329,10 @@
 | [AboutSecurity](https://github.com/wgpsec/AboutSecurity)                                     | 为AI制定的渗透测试方法论                          | 1610    | 2026-07-19 |
 | [hack-skills](https://github.com/yaklang/hack-skills)                                        | yakit官方出品，让AI拥有多项渗透测试技能                | 1462    | 2026-06-16 |
 | [reverse-skill](https://github.com/zhaoxuya520/reverse-skill)                                | 逆向/渗透/安全技能路由包                          | 9002    | 2026-07-25 |
-#### 其他skills
-| 仓库名 | 描述 | Stars | 最近更新 |
-|--------|------|-------|----------|
 | [anthropic-skills](https://github.com/anthropics/skills) | anthropic官方的skill仓库        | 164346  | 2026-07-24 |
 | [superpowers](https://github.com/obra/superpowers)       | 提升agent的自主性和规范性，头脑风暴skills | 261602  | 2026-07-24 |
 | [pua](https://github.com/tanweai/pua)                    | 一个赋予AI agent高能动性的skills    | 19044   | 2026-07-16 |
+
 ### 渗透智能体
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
