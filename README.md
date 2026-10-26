@@ -67,334 +67,307 @@
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [ENScan_GO](https://github.com/wgpsec/ENScan_GO) | 只需输入名称即可收集该企业及其分支的互联网暴露信息                | 4614    | 2026-03-30 |
-| [ICP_Query](https://github.com/HG-ha/ICP_Query)  | 查询域名、APP、小程序、快应用以及企业的ICP备案信息，提供完全本地化的API | 1087    | 2026-08-29 |
+| [ICP_Query](https://github.com/HG-ha/ICP_Query)  | 查询域名、APP、小程序、快应用以及企业的ICP备案信息，提供完全本地化的API | 1089    | 2026-08-29 |
 #### 网络空间测绘
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [uncover](https://github.com/projectdiscovery/uncover)    | 利用多个搜索引擎快速发现互联网上暴露的主机。 | 3086    | 2026-10-13 |
-| [FofaMap](https://github.com/asaotomo/FofaMap)            | 集成AI的智能测绘工具            | 748     | 2026-08-16 |
+| [uncover](https://github.com/projectdiscovery/uncover)    | 利用多个搜索引擎快速发现互联网上暴露的主机。 | 3093    | 2026-10-25 |
+| [FofaMap](https://github.com/asaotomo/FofaMap)            | 集成AI的智能测绘工具            | 750     | 2026-08-16 |
 | [ThunderSearch](https://github.com/xzajyjs/ThunderSearch) | 轻量、小巧的测绘工具             | 667     | 2024-12-06 |
 #### 子域名收集
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [Oneforall](https://github.com/shmilylty/OneForAll)          | 强大的子域名收集工具，支持暴力枚举和多种API源收集 | 10112   | 2026-05-11 |
-| [subfinder](https://github.com/projectdiscovery/subfinder)   | 从30余种数据源快速被动收集子域名          | 14615   | 2026-10-14 |
-| [csprecon](https://github.com/edoardottt/csprecon)           | 通过csp策略发现子域名               | 531     | 2026-10-14 |
-| [shuffledns](https://github.com/projectdiscovery/shuffledns) | 子域名爆破工具                    | 1673    | 2026-10-14 |
+| [Oneforall](https://github.com/shmilylty/OneForAll)          | 强大的子域名收集工具，支持暴力枚举和多种API源收集 | 10121   | 2026-05-11 |
+| [subfinder](https://github.com/projectdiscovery/subfinder)   | 从30余种数据源快速被动收集子域名          | 14661   | 2026-10-24 |
+| [csprecon](https://github.com/edoardottt/csprecon)           | 通过csp策略发现子域名               | 531     | 2026-10-22 |
+| [shuffledns](https://github.com/projectdiscovery/shuffledns) | 子域名爆破工具                    | 1673    | 2026-10-23 |
 #### 端口扫描
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [nmap](https://github.com/nmap/nmap)                                      | 是的，它仍然是最好用的端口扫描器之一          | 13815   | 2026-10-15 |
-| [naabu](https://github.com/projectdiscovery/naabu)                        | 一款用Go语言编写的快速端口扫描器，注重可靠性和简洁性 | 6313    | 2026-10-13 |
-| [Smap](https://github.com/s0md3v/Smap)                                    | 无缝替代nmap的端口扫描工具             | 3309    | 2026-08-15 |
+| [nmap](https://github.com/nmap/nmap)                                      | 是的，它仍然是最好用的端口扫描器之一          | 13875   | 2026-10-24 |
+| [naabu](https://github.com/projectdiscovery/naabu)                        | 一款用Go语言编写的快速端口扫描器，注重可靠性和简洁性 | 6325    | 2026-10-25 |
+| [Smap](https://github.com/s0md3v/Smap)                                    | 无缝替代nmap的端口扫描工具             | 3312    | 2026-08-15 |
 | [masnmapscan-V1.0](https://github.com/hellogoldsnakeman/masnmapscan-V1.0) | 结合了masscan和nmap的端口扫描器       | 840     | 2026-02-06 |
 | [webfinder-next](https://github.com/Liqunkit/webfinder-next)              | Java语言开发的快速端口扫描器            | 90      | 2022-04-24 |
-| [TXPortMap](https://github.com/4dogs-cn/TXPortMap)                        | 轻量端口扫描器，内置指纹                | 671     | 2023-10-27 |
+| [TXPortMap](https://github.com/4dogs-cn/TXPortMap)                        | 轻量端口扫描器，内置指纹                | 672     | 2023-10-27 |
 #### 目录扫描&fuzz
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [dirsearch](https://github.com/maurosoria/dirsearch) | 一个好用的目录扫描工具   | 14976   | 2026-10-18 |
-| [fuff](https://github.com/ffuf/ffuf)                 | web-fuzz神器    | 16896   | 2026-09-26 |
-| [feroxbuster](https://github.com/epi052/feroxbuster) | web敏感路径快速探测   | 8124    | 2026-10-15 |
-| [arjun](https://github.com/s0md3v/Arjun)             | http参数fuzz小工具 | 6425    | 2025-02-20 |
+| [dirsearch](https://github.com/maurosoria/dirsearch) | 一个好用的目录扫描工具   | 15008   | 2026-10-20 |
+| [fuff](https://github.com/ffuf/ffuf)                 | web-fuzz神器    | 16942   | 2026-09-26 |
+| [feroxbuster](https://github.com/epi052/feroxbuster) | web敏感路径快速探测   | 8134    | 2026-10-15 |
+| [arjun](https://github.com/s0md3v/Arjun)             | http参数fuzz小工具 | 6432    | 2025-02-20 |
 #### JS&URL收集
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [katana](https://github.com/projectdiscovery/katana)       | 强大的爬虫框架，支持多种参数传入，全面收集目标URL                   | 17685   | 2026-10-13 |
-| [urlfinder](https://github.com/pingc0y/URLFinder)          | 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。 | 3193    | 2026-06-17 |
-| [urlhunter](https://github.com/utkusen/urlhunter)          | 被动收集目标在互联网暴露的URL信息                           | 1700    | 2025-01-23 |
-| [urlfinder](https://github.com/projectdiscovery/urlfinder) | 无需主动扫描、快速被动收集目标URL的工具                        | 919     | 2026-09-14 |
-| [xnLinkFinder](https://github.com/xnl-h4ck3r/xnLinkFinder) | 发现潜在的url参数、端点                                | 1595    | 2026-03-08 |
+| [katana](https://github.com/projectdiscovery/katana)       | 强大的爬虫框架，支持多种参数传入，全面收集目标URL                   | 17730   | 2026-10-25 |
+| [urlfinder](https://github.com/pingc0y/URLFinder)          | 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。 | 3192    | 2026-06-17 |
+| [urlhunter](https://github.com/utkusen/urlhunter)          | 被动收集目标在互联网暴露的URL信息                           | 1702    | 2025-01-23 |
+| [urlfinder](https://github.com/projectdiscovery/urlfinder) | 无需主动扫描、快速被动收集目标URL的工具                        | 919     | 2026-10-24 |
+| [xnLinkFinder](https://github.com/xnl-h4ck3r/xnLinkFinder) | 发现潜在的url参数、端点                                | 1599    | 2026-03-08 |
 #### 指纹识别
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [dismap](https://github.com/zhzyker/dismap)         | 辅助红队快速定位目标资产信息                 | 2164    | 2024-01-29 |
-| [TideFinger](https://github.com/TideSec/TideFinger) | 指纹识别小工具，汲取整合了多个web指纹库          | 2088    | 2023-05-23 |
-| [hfinger](https://github.com/HackAllSec/hfinger)    | 一个用于web框架、CDN和CMS指纹识别的高性能命令行工具 | 331     | 2026-07-16 |
-| [P1finger](https://github.com/P001water/P1finger)   | 面向红队的指纹识别工具                    | 458     | 2026-09-27 |
+| [dismap](https://github.com/zhzyker/dismap)         | 辅助红队快速定位目标资产信息                 | 2163    | 2024-01-29 |
+| [TideFinger](https://github.com/TideSec/TideFinger) | 指纹识别小工具，汲取整合了多个web指纹库          | 2089    | 2023-05-23 |
+| [hfinger](https://github.com/HackAllSec/hfinger)    | 一个用于web框架、CDN和CMS指纹识别的高性能命令行工具 | 332     | 2026-07-16 |
+| [P1finger](https://github.com/P001water/P1finger)   | 面向红队的指纹识别工具                    | 465     | 2026-09-27 |
 | [Ehole](https://github.com/EdgeSecurityTeam/EHole)  | 红队重点攻击系统指纹探测工具                 | 3514    | 2024-04-02 |
-| [Finger](https://github.com/EASY233/Finger)         | 一款红队在大量的资产中存活探测与重点攻击系统指纹探测工具   | 1725    | 2023-12-22 |
+| [Finger](https://github.com/EASY233/Finger)         | 一款红队在大量的资产中存活探测与重点攻击系统指纹探测工具   | 1726    | 2023-12-22 |
 #### 综合工具
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [TscanPlus](https://github.com/TideSec/TscanPlus) | 支持信息收集、资产测绘、漏洞扫描的强大工具     | 4442    | 2026-10-18 |
-| [Fine](https://github.com/fasnow/fine)            | 针对企业信息收集、目标资产探测、小程序反编译的工具 | 1385    | 2026-05-19 |
-| [mitan](https://github.com/kkbo8005/mitan)        | Java编写的信息收集、资产测绘于一体的综合工具  | 2111    | 2026-10-11 |
+| [TscanPlus](https://github.com/TideSec/TscanPlus) | 支持信息收集、资产测绘、漏洞扫描的强大工具     | 4456    | 2026-10-24 |
+| [Fine](https://github.com/fasnow/fine)            | 针对企业信息收集、目标资产探测、小程序反编译的工具 | 1386    | 2026-05-19 |
+| [mitan](https://github.com/kkbo8005/mitan)        | Java编写的信息收集、资产测绘于一体的综合工具  | 2139    | 2026-10-11 |
 #### 资产收集与测绘平台
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [nemo_go](https://github.com/hanc00l/nemo_go)           | 自动化信息收集     | 2105    | 2026-08-15 |
-| [ScopeSentry](https://github.com/Autumn-27/ScopeSentry) | 一站式信息收集     | 1948    | 2026-10-11 |
-| [xingrin](https://github.com/yyhuni/xingrin)            | 开源攻击面管理平台   | 669     | 2026-09-21 |
-
+| [nemo_go](https://github.com/hanc00l/nemo_go)           | 自动化信息收集   | 2105    | 2026-08-15 |
+| [ScopeSentry](https://github.com/Autumn-27/ScopeSentry) | 一站式信息收集   | 2131    | 2026-10-11 |
+| [xingrin](https://github.com/yyhuni/xingrin)            | 开源攻击面管理平台 | 671     | 2026-09-21 |
 ### web安全
 
 #### web渗透测试框架&抓包工具
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [BurpSuite](https://portswigger.net/burp/communitydownload)       | 最受欢迎的web应用测试框架，功能强大，插件丰富          | -       | -          |
-| [Yakit](https://github.com/yaklang/yakit)                         | 单兵作战武器库                           | 7817    | 2026-10-16 |
-| [Caido](https://github.com/caido/caido)                           | rust语言编写的轻量的web应用测试框架，正在撼动burp的地位 | 2699    | 2026-09-04 |
-| [zap](https://github.com/zaproxy/zaproxy)                         | Web应用扫描器，它免费且开源                   | 15961   | 2026-10-15 |
-| [ChYing](https://github.com/yhy0/ChYing)                          | 开源的类BurpSuite应用                   | 776     | 2026-09-01 |
-| [anything-analyzer](https://github.com/Mouseww/anything-analyzer) | 全协议抓包，把流量交给AI自动逆向分析，并支持流量继续转发     | 3781    | 2026-10-06 |
-
+| [Yakit](https://github.com/yaklang/yakit)                         | 单兵作战武器库                           | 7832    | 2026-10-25 |
+| [Caido](https://github.com/caido/caido)                           | rust语言编写的轻量的web应用测试框架，正在撼动burp的地位 | 2709    | 2026-09-04 |
+| [zap](https://github.com/zaproxy/zaproxy)                         | Web应用扫描器，它免费且开源                   | 16028   | 2026-10-23 |
+| [ChYing](https://github.com/yhy0/ChYing)                          | 开源的类BurpSuite应用                   | 782     | 2026-09-01 |
+| [anything-analyzer](https://github.com/Mouseww/anything-analyzer) | 全协议抓包，把流量交给AI自动逆向分析，并支持流量继续转发     | 3794    | 2026-10-06 |
 #### web漏洞
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [sqlmap](https://github.com/sqlmapproject/sqlmap)              | 发现sql注入后，快速利用它           | 38732   | 2026-10-18 |
-| [ByPassTamperPlus](https://github.com/Tas9er/ByPassTamperPlus) | 提升sqlmap绕过waf能力的Tamper合集 | 122     | 2026-02-12 |
-| [ghauri](https://github.com/r0oth3x49/ghauri)                  | 与sqlmap神似的注入漏洞扫描工具       | 4080    | 2025-10-04 |
-| [XSStrike](https://github.com/s0md3v/XSStrike)                 | 号称最好用的xss扫描器             | 15218   | 2025-04-26 |
-| [liffy](https://github.com/mzfr/liffy)                         | 本地文件包含漏洞扫描工具             | 1004    | 2026-05-19 |
-| [SSRFmap](https://github.com/swisskyrepo/SSRFmap)              | 自动SSRF模糊测试与利用工具          | 3637    | 2026-08-10 |
-| [SSTImap](https://github.com/vladko312/SSTImap)                | 发现模版注入时自动化利用             | 1704    | 2026-08-25 |
-| [nomore403](https://github.com/devploit/nomore403)             | 执行低误报的40x绕过方案            | 1898    | 2026-06-21 |
-
+| [sqlmap](https://github.com/sqlmapproject/sqlmap)              | 发现sql注入后，快速利用它           | 38786   | 2026-10-25 |
+| [ByPassTamperPlus](https://github.com/Tas9er/ByPassTamperPlus) | 提升sqlmap绕过waf能力的Tamper合集 | 123     | 2026-02-12 |
+| [ghauri](https://github.com/r0oth3x49/ghauri)                  | 与sqlmap神似的注入漏洞扫描工具       | 4078    | 2025-10-04 |
+| [XSStrike](https://github.com/s0md3v/XSStrike)                 | 号称最好用的xss扫描器             | 15225   | 2025-04-26 |
+| [liffy](https://github.com/mzfr/liffy)                         | 本地文件包含漏洞扫描工具             | 1005    | 2026-05-19 |
+| [SSRFmap](https://github.com/swisskyrepo/SSRFmap)              | 自动SSRF模糊测试与利用工具          | 3642    | 2026-08-10 |
+| [SSTImap](https://github.com/vladko312/SSTImap)                | 发现模版注入时自动化利用             | 1716    | 2026-08-25 |
+| [nomore403](https://github.com/devploit/nomore403)             | 执行低误报的40x绕过方案            | 1909    | 2026-06-21 |
 #### webshell管理工具
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [Godzilla](https://github.com/BeichenDream/Godzilla) | 好用的webshell管理工具           | 4476    | 2024-07-17 |
-| [Behinder](https://github.com/rebeyond/Behinder/)    | “冰蝎”动态二进制加密网站管理客户端        | 6208    | 2023-08-24 |
-| [EtherGhost](https://github.com/Marven11/EtherGhost) | 游魂-支持PHP/JSP的webshell管理工具 | 691     | 2026-08-07 |
-
+| [Godzilla](https://github.com/BeichenDream/Godzilla) | 好用的webshell管理工具           | 4478    | 2024-07-17 |
+| [Behinder](https://github.com/rebeyond/Behinder/)    | “冰蝎”动态二进制加密网站管理客户端        | 6213    | 2023-08-24 |
+| [EtherGhost](https://github.com/Marven11/EtherGhost) | 游魂-支持PHP/JSP的webshell管理工具 | 692     | 2026-08-07 |
 #### 信息泄露
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [GitHack](https://github.com/lijiejie/GitHack)            | .git文件夹泄露漏洞利用                     | 3581    | 2023-02-01 |
-| [gitleaks](https://github.com/gitleaks/gitleaks)          | 一个秘钥泄露扫描工具                        | 30099   | 2026-09-30 |
+| [gitleaks](https://github.com/gitleaks/gitleaks)          | 一个秘钥泄露扫描工具                        | 30328   | 2026-10-23 |
 | [idea_exploit](https://github.com/lijiejie/idea_exploit)  | 扫描idea配置文件中可能存在的敏感信息              | 368     | 2022-08-05 |
 | [heapdump_tool](https://github.com/wyzxxz/heapdump_tool)  | heapdump泄露利用工具                    | 1458    | 2024-05-21 |
-| [API-Explorer](https://github.com/mrknow001/API-Explorer) | 在你拿到一个泄漏的飞书、企微、钉钉或者地图api的时候、快速利用它 | 802     | 2024-10-15 |
-
+| [API-Explorer](https://github.com/mrknow001/API-Explorer) | 在你拿到一个泄漏的飞书、企微、钉钉或者地图api的时候、快速利用它 | 800     | 2024-10-15 |
 #### 字典&payload
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts)                                | Web Pentesting Fuzz 字典,一个就够了       | 8449    | 2023-11-13 |
+| [fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts)                                | Web Pentesting Fuzz 字典,一个就够了       | 8447    | 2023-11-13 |
 | [AppSec-Payloads](https://github.com/sh377c0d3/AppSec-Payloads)                        | 包含漏洞payloads和web应用测试中各类场景的fuzz字典集合 | 949     | 2026-04-01 |
-| [Blasting_dictionary](https://github.com/rootphantomer/Blasting_dictionary)            | 高效字典                               | 5303    | 2022-03-21 |
-| [lutfumertceylan/top25-parameter](https://github.com/lutfumertceylan/top25-parameter)  | 统计常见web漏洞常出没的25个参数                 | 1848    | 2024-06-09 |
-| [PentesterSpecialDict](https://github.com/evilc0deooo/PentesterSpecialDict)            | 构建优化高效的渗透 fuzz 字典合集                | 1918    | 2025-06-17 |
-| [SecDictionary](https://github.com/SexyBeast233/SecDictionary)                         | 实战沉淀字典                             | 1597    | 2026-09-28 |
+| [Blasting_dictionary](https://github.com/rootphantomer/Blasting_dictionary)            | 高效字典                               | 5301    | 2022-03-21 |
+| [lutfumertceylan/top25-parameter](https://github.com/lutfumertceylan/top25-parameter)  | 统计常见web漏洞常出没的25个参数                 | 1849    | 2024-06-09 |
+| [PentesterSpecialDict](https://github.com/evilc0deooo/PentesterSpecialDict)            | 构建优化高效的渗透 fuzz 字典合集                | 1920    | 2025-06-17 |
+| [SecDictionary](https://github.com/SexyBeast233/SecDictionary)                         | 实战沉淀字典                             | 1595    | 2026-09-28 |
 | [Dictionary-Of-Pentesting](https://github.com/insightglacier/Dictionary-Of-Pentesting) | 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目     | 2081    | 2023-07-21 |
-| [Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box)                         | Web 模糊测试字典与一些Payloads              | 2799    | 2026-03-23 |
-| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)            | 几乎包含所有常见web漏洞payload的仓库            | 81834   | 2026-08-27 |
+| [Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box)                         | Web 模糊测试字典与一些Payloads              | 2800    | 2026-03-23 |
+| [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)            | 几乎包含所有常见web漏洞payload的仓库            | 82065   | 2026-08-27 |
 | [Payloader](https://github.com/3516634930/Payloader/)                                  | 渗透测试payload速查                      | 514     | 2026-10-19 |
-
 ### POC资源
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [cve](https://github.com/trickest/cve)                                         | 这是一个cve漏洞仓库，作者声称所有poc均公开可用 | 8148    | 2026-10-16 |
-| [PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub)                     | 一个持续更新的cve漏洞仓库             | 8132    | 2026-10-19 |
-| [Vulnerability-Wiki-PoC](https://github.com/SourByte05/Vulnerability-Wiki-PoC) | 2024-至今1Day漏洞PoC深度研究与复现归档  | 1193    | 2026-10-14 |
-| [Awesome-POC](https://github.com/Threekiii/Awesome-POC)                        | 一个漏洞 PoC 知识库               | 5223    | 2026-05-11 |
-| [POC](https://github.com/eeeeeeeeee-code/POC)                                  | wy876的POC镜像仓库              | 2240    | 2026-07-13 |
-
+| [cve](https://github.com/trickest/cve)                                         | 这是一个cve漏洞仓库，作者声称所有poc均公开可用 | 8162    | 2026-10-16 |
+| [PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub)                     | 一个持续更新的cve漏洞仓库             | 8156    | 2026-10-26 |
+| [Vulnerability-Wiki-PoC](https://github.com/SourByte05/Vulnerability-Wiki-PoC) | 2024-至今1Day漏洞PoC深度研究与复现归档  | 1196    | 2026-10-20 |
+| [Awesome-POC](https://github.com/Threekiii/Awesome-POC)                        | 一个漏洞 PoC 知识库               | 5227    | 2026-05-11 |
+| [POC](https://github.com/eeeeeeeeee-code/POC)                                  | wy876的POC镜像仓库              | 2249    | 2026-10-20 |
 ### 漏洞扫描
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [nuclei](https://github.com/projectdiscovery/nuclei) | 基于yaml语法定制漏洞模版的快速、低误报率的漏洞扫描工具 | 32109   | 2026-10-18 |
-| [xray](https://github.com/chaitin/xray)              | 强大的支持被动式的web漏洞扫描器             | 11765   | 2024-10-29 |
-| [afrog](https://github.com/zan8in/afrog)             | 轻量快速的扫描器，有着适合国内环境的poclist         | 4432    | 2026-10-16 |
-| [dddd](https://github.com/SleepingBag945/dddd)       | 自动完成信息收集到漏洞检测的全流程     | 1946    | 2024-08-02 |
+| [nuclei](https://github.com/projectdiscovery/nuclei) | 基于yaml语法定制漏洞模版的快速、低误报率的漏洞扫描工具 | 32309   | 2026-10-25 |
+| [xray](https://github.com/chaitin/xray)              | 强大的支持被动式的web漏洞扫描器             | 11770   | 2024-10-29 |
+| [afrog](https://github.com/zan8in/afrog)             | 轻量快速的扫描器，有着适合国内环境的poclist     | 4437    | 2026-10-26 |
+| [dddd](https://github.com/SleepingBag945/dddd)       | 自动完成信息收集到漏洞检测的全流程             | 1945    | 2024-08-02 |
 | [plecost](https://github.com/Plecost/plecost)        | 针对WordPress的漏洞扫描工具            | 388     | 2026-08-05 |
-
 ### 漏洞利用
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [I-Wanna-Get-All](https://github.com/R4gd0ll/I-Wanna-Get-All)      | 综合漏洞后渗透利用工具       | 1785    | 2025-12-11 |
-| [ShiroAttack2](https://github.com/SummerSec/ShiroAttack2)          | shiro反序列化漏洞综合利用工具 | 2638    | 2026-06-04 |
-| [ThinkphpGUI](https://github.com/Lotus6/ThinkphpGUI)               | thinkphp全版本漏洞检测工具 | 1598    | 2022-06-01 |
+| [I-Wanna-Get-All](https://github.com/R4gd0ll/I-Wanna-Get-All)      | 综合漏洞后渗透利用工具       | 1790    | 2025-12-11 |
+| [ShiroAttack2](https://github.com/SummerSec/ShiroAttack2)          | shiro反序列化漏洞综合利用工具 | 2634    | 2026-06-04 |
+| [ThinkphpGUI](https://github.com/Lotus6/ThinkphpGUI)               | thinkphp全版本漏洞检测工具 | 1595    | 2022-06-01 |
 | [WeaverExploit_All](https://github.com/zhaoyumi/WeaverExploit_All) | 泛微漏洞批量检测工具        | 477     | 2023-12-14 |
 | [NacosExploit](https://github.com/h0ny/NacosExploit)               | Nacos综合漏洞利用工具     | 694     | 2026-09-08 |
-| [Frchannel](https://github.com/7wkajk/Frchannel)                   | 帆软反序列化漏洞利用工具      | 427     | 2025-01-25 |
-
+| [Frchannel](https://github.com/7wkajk/Frchannel)                   | 帆软反序列化漏洞利用工具      | 426     | 2025-01-25 |
 ### BurpSuite插件
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [BypassPro](https://github.com/0x727/BypassPro)                 | 自动化绕过40x和waf的burp插件                                | 1323    | 2026-05-10 |
+| [BypassPro](https://github.com/0x727/BypassPro)                 | 自动化绕过40x和waf的burp插件                                | 1322    | 2026-05-10 |
 | [APIKit](https://github.com/API-Security/APIKit)                | 被动挖掘各种API泄露                                        | 2291    | 2024-04-02 |
 | [Wsdler](https://github.com/NetSPI/Wsdler)                      | 解析wsdler请求，并自动化测试其中的接口                             | 284     | 2018-06-25 |
-| [nowafpls](https://github.com/assetnote/nowafpls)               | 在burp数据包中插入垃圾数据绕过waf                               | 1520    | 2025-07-14 |
-| [burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) | 将burp流量伪造成多种浏览器                                    | 1907    | 2026-10-13 |
-| [HaE](https://github.com/gh0stkey/HaE)                          | 检查经过burp的流量，挖掘敏感信息，并高亮显示                           | 4405    | 2026-10-10 |
-| [TsojanScan](https://github.com/Tsojan/TsojanScan)              | 一个集成常见漏洞探测的BurpSuite插件                             | 1571    | 2026-07-20 |
-| [burp-ai-agent](https://github.com/six2dez/burp-ai-agent)       | 让AI与BurpSuite无缝衔接                                  | 1546    | 2026-10-18 |
-| [burp-mcp](https://github.com/PortSwigger/mcp-server)           | 使用MCP协议将Burp Suite与AI客户端集成                         | 1241    | 2026-10-16 |
-| [BurpMCP-Ultra](https://github.com/Cy-S3c/BurpMCP-Ultra)        | 将burp的api结构化为100多种工具，并集成多种漏洞检测功能，理论上强于官方的burpmcp工具 | 278     | 2026-09-28 |
-
+| [nowafpls](https://github.com/assetnote/nowafpls)               | 在burp数据包中插入垃圾数据绕过waf                               | 1521    | 2025-07-14 |
+| [burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) | 将burp流量伪造成多种浏览器                                    | 1908    | 2026-10-24 |
+| [HaE](https://github.com/gh0stkey/HaE)                          | 检查经过burp的流量，挖掘敏感信息，并高亮显示                           | 4399    | 2026-10-10 |
+| [TsojanScan](https://github.com/Tsojan/TsojanScan)              | 一个集成常见漏洞探测的BurpSuite插件                             | 1567    | 2026-07-20 |
+| [burp-ai-agent](https://github.com/six2dez/burp-ai-agent)       | 让AI与BurpSuite无缝衔接                                  | 1556    | 2026-10-21 |
+| [burp-mcp](https://github.com/PortSwigger/mcp-server)           | 使用MCP协议将Burp Suite与AI客户端集成                         | 1253    | 2026-10-16 |
+| [BurpMCP-Ultra](https://github.com/Cy-S3c/BurpMCP-Ultra)        | 将burp的api结构化为100多种工具，并集成多种漏洞检测功能，理论上强于官方的burpmcp工具 | 286     | 2026-09-28 |
 ### 浏览器插件
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=zh-CN&utm_source=ext_sidebar) | 快速识别目标网站技术栈的浏览器插件             | -       | -          |
-| [HackTools](https://github.com/LasCC/HackTools)                                                                                                   | 面向红队和渗透测试人员的一体化浏览器插件          | 7086    | 2025-01-05 |
+| [HackTools](https://github.com/LasCC/HackTools)                                                                                                   | 面向红队和渗透测试人员的一体化浏览器插件          | 7094    | 2025-01-05 |
 | [SnowEyes](https://github.com/SickleSec/SnowEyes)                                                                                                 | 网站解析、网页敏感信息检测、指纹识别的chrome插件   | 938     | 2026-08-10 |
-| [keyFinder](https://github.com/momenbasel/keyFinder)                                                                                              | 被动发现各种API密钥和敏感信息的浏览器插件        | 726     | 2026-07-19 |
-| [VueCrack](https://github.com/Ad1euDa1e/VueCrack)                                                                                                 | 红队浏览器插件-检测VUE站点未授权漏洞          | 945     | 2026-05-07 |
+| [keyFinder](https://github.com/momenbasel/keyFinder)                                                                                              | 被动发现各种API密钥和敏感信息的浏览器插件        | 727     | 2026-10-24 |
+| [VueCrack](https://github.com/Ad1euDa1e/VueCrack)                                                                                                 | 红队浏览器插件-检测VUE站点未授权漏洞          | 944     | 2026-05-07 |
 | [CloudVueRoute](https://github.com/cloud-jie/CloudVueRoute)                                                                                       | 快速提取Vue应用中路由信息的浏览器脚本          | 130     | 2026-04-15 |
 | [Heimdallr](https://github.com/Ghr07h/Heimdallr)                                                                                                  | 识别目标是否是蜜罐                     | 1684    | 2023-01-19 |
 | [random-user-agent](https://github.com/tarampampam/random-user-agent)                                                                             | 自动伪造浏览器的UA头为任意值               | 760     | 2026-10-12 |
-| [DotGit](https://github.com/davtur19/DotGit)                                                                                                      | 被动监测目标网站是否有.git/.svn/.hg等文件泄露 | 482     | 2026-07-31 |
+| [DotGit](https://github.com/davtur19/DotGit)                                                                                                      | 被动监测目标网站是否有.git/.svn/.hg等文件泄露 | 481     | 2026-10-20 |
 | [onetab](https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)                                                        | 管理你的浏览器标签页                    | -       | -          |
-| [Webpack_extract](https://github.com/xz-zone/Webpack_extract)                                                                                     | 一键收集、分析js                     | 338     | 2026-06-11 |
-| [AntiDebug_Breaker](https://github.com/0xsdeo/AntiDebug_Breaker)                                                                                  | js逆向插件                        | 2232    | 2026-09-21 |
+| [Webpack_extract](https://github.com/xz-zone/Webpack_extract)                                                                                     | 一键收集、分析js                     | 340     | 2026-06-11 |
+| [AntiDebug_Breaker](https://github.com/0xsdeo/AntiDebug_Breaker)                                                                                  | js逆向插件                        | 2241    | 2026-09-21 |
 ### 内网渗透
 
 #### 内网信息收集
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) | 提取和解密浏览器数据，支持多种数据类型，可在各种操作系统（macOS、Windows、Linux）上运行。 | 14606   | 2026-10-15 |
-| [e0e1-config](https://github.com/eeeeeeeeee-code/e0e1-config)  | 收集浏览器、数据库连接工具等敏感信息的后渗透工具                              | 601     | 2026-03-01 |
-| [MX1014](https://github.com/L-codes/MX1014)                    | 大小仅2M左右，适合红队在内网进行快速端口扫描                               | 174     | 2026-08-11 |
-
+| [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) | 提取和解密浏览器数据，支持多种数据类型，可在各种操作系统（macOS、Windows、Linux）上运行。 | 14642   | 2026-10-25 |
+| [e0e1-config](https://github.com/eeeeeeeeee-code/e0e1-config)  | 收集浏览器、数据库连接工具等敏感信息的后渗透工具                              | 600     | 2026-03-01 |
+| [MX1014](https://github.com/L-codes/MX1014)                    | 大小仅2M左右，适合红队在内网进行快速端口扫描                               | 175     | 2026-08-11 |
 #### C2
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [sliver](https://github.com/BishopFox/sliver)        | 可跨平台运行，支持linux后门生成的C2         | 12142   | 2026-10-14 |
-| [Viper](https://github.com/FunnyWolf/Viper)          | 基于人工智能的对抗模拟和红队演练平台            | 5328    | 2026-05-31 |
-| [Supershell](https://github.com/tdragon6/Supershell) | Supershell是一个通过WEB服务访问的C2远控平台 | 1812    | 2026-04-03 |
-| [XiebroC2](https://github.com/INotGreen/XiebroC2)    | 神似Cobalt Strike的C2客户端、功能多样且强大 | 1392    | 2025-02-28 |
-| [Wyrm](https://github.com/0xflux/Wyrm)               | 红队后渗透框架                       | 504     | 2026-03-15 |
+| [sliver](https://github.com/BishopFox/sliver)        | 可跨平台运行，支持linux后门生成的C2         | 12177   | 2026-10-25 |
+| [Viper](https://github.com/FunnyWolf/Viper)          | 基于人工智能的对抗模拟和红队演练平台            | 5334    | 2026-05-31 |
+| [Supershell](https://github.com/tdragon6/Supershell) | Supershell是一个通过WEB服务访问的C2远控平台 | 1817    | 2026-04-03 |
+| [XiebroC2](https://github.com/INotGreen/XiebroC2)    | 神似Cobalt Strike的C2客户端、功能多样且强大 | 1395    | 2025-02-28 |
+| [Wyrm](https://github.com/0xflux/Wyrm)               | 红队后渗透框架                       | 506     | 2026-03-15 |
 | [conquest](https://github.com/jakobfriedl/conquest)  | 基于Nim语言开发的高度可定制的C2框架          | 423     | 2026-09-03 |
-
 #### 权限提升
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [RedSun](https://github.com/Nightmare-Eclipse/RedSun)     | 利用windows defender进行提权    | 2126    | 2026-04-15 |
-| [Exploit-Street](https://github.com/MzHmO/Exploit-Street) | 一个2023-2025的windows提权漏洞合集 | 972     | 2026-09-19 |
-| [dirtyfrag](https://github.com/V4bel/dirtyfrag)           | 2026年5月出现的linux提权0day     | 5091    | 2026-05-10 |
-
+| [Exploit-Street](https://github.com/MzHmO/Exploit-Street) | 一个2023-2025的windows提权漏洞合集 | 969     | 2026-09-19 |
+| [dirtyfrag](https://github.com/V4bel/dirtyfrag)           | 2026年5月出现的linux提权0day     | 5140    | 2026-05-10 |
 ### 基础设施
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [proxy_pool](https://github.com/jhao104/proxy_pool)                                | ProxyPool 爬虫代理IP池          | 23762   | 2026-06-15 |
+| [proxy_pool](https://github.com/jhao104/proxy_pool)                                | ProxyPool 爬虫代理IP池          | 23766   | 2026-06-15 |
 | [Deadpool](https://github.com/thinkoaa/Deadpool)                                   | Go编写的代理池轮询工具               | 729     | 2026-05-06 |
-| [mubeng](https://github.com/mubeng/mubeng)                                         | 一款速度极快、使用便捷的代理服务器检测和IP轮换工具 | 2749    | 2026-09-10 |
+| [mubeng](https://github.com/mubeng/mubeng)                                         | 一款速度极快、使用便捷的代理服务器检测和IP轮换工具 | 2774    | 2026-09-10 |
 | [ProxyPool](https://github.com/XiaomingX/proxy-pool)                               | 帮助用户自动维护高质量的代理池            | 134     | 2026-03-08 |
-| [camoufox](https://github.com/daijro/camoufox)                                     | 反检测浏览器                     | 12641   | 2026-10-19 |
-| [penetration-suite-toolkit](https://github.com/makoto56/penetration-suite-toolkit) | 包含常见渗透测试工具环境的windows虚拟机    | 2985    | 2025-06-11 |
+| [camoufox](https://github.com/daijro/camoufox)                                     | 反检测浏览器                     | 12795   | 2026-10-25 |
+| [penetration-suite-toolkit](https://github.com/makoto56/penetration-suite-toolkit) | 包含常见渗透测试工具环境的windows虚拟机    | 2983    | 2025-06-11 |
 | [ТОСГОНЫ机场](https://www.mouu.one/#/login)                                          |                            |         |            |
 | [一元机场](https://xn--4gq62f52gdss.com/#/login)                                       |                            |         |            |
 | [赔钱机场](https://pqjc.site/order)                                                    |                            |         |            |
-
 ### 靶场
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
 | [vulntarget](https://github.com/crow821/vulntarget)       | 贴切实战攻防、应急的靶场    | 979     | 2026-10-09 |
-| [vulhub](https://github.com/vulhub/vulhub)                | 各类nday复现环境      | 21368   | 2026-10-17 |
-| [FastJsonParty](https://github.com/lemono0/FastJsonParty) | fastjson全版本漏洞环境 | 1250    | 2024-07-12 |
+| [vulhub](https://github.com/vulhub/vulhub)                | 各类nday复现环境      | 21406   | 2026-10-17 |
+| [FastJsonParty](https://github.com/lemono0/FastJsonParty) | fastjson全版本漏洞环境 | 1249    | 2024-07-12 |
 ### 面试题
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [Sec-Interview](https://github.com/duckpigdog/Sec-Interview/) | 涵盖护网、红队、逆向、密码学、二进制、AI、区块链的面试题 | 847     | 2026-03-11 |
-
+| [Sec-Interview](https://github.com/duckpigdog/Sec-Interview/) | 涵盖护网、红队、逆向、密码学、二进制、AI、区块链的面试题 | 853     | 2026-03-11 |
 ## 🤖 AI时代足够好用的资源项目
 ### 学习资料
 #### 大模型
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [dive-into-llms](https://github.com/Lordog/dive-into-llms)                   | 上海交大《动手学大模型Dive into LLMs》系列编程实践教程 | 56904   | 2025-10-10 |
-| [self-llm](https://github.com/datawhalechina/self-llm)                       | 教会你如何正确使用开源大模型                     | 32509   | 2026-09-12 |
-| [happy-llm](https://github.com/datawhalechina/happy-llm)                     | 从核心原理搞懂大模型并构建一个大模型                 | 34430   | 2026-08-08 |
-| [llm-universe](https://github.com/datawhalechina/llm-universe)               | 大模型应用开发项目，教会你基于大模型开发上层应用           | 14162   | 2026-08-27 |
-
+| [dive-into-llms](https://github.com/Lordog/dive-into-llms)     | 上海交大《动手学大模型Dive into LLMs》系列编程实践教程 | 57774   | 2025-10-10 |
+| [self-llm](https://github.com/datawhalechina/self-llm)         | 教会你如何正确使用开源大模型                     | 32577   | 2026-09-12 |
+| [happy-llm](https://github.com/datawhalechina/happy-llm)       | 从核心原理搞懂大模型并构建一个大模型                 | 34552   | 2026-08-08 |
+| [llm-universe](https://github.com/datawhalechina/llm-universe) | 大模型应用开发项目，教会你基于大模型开发上层应用           | 14205   | 2026-08-27 |
 #### agent&harness工程
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [hello-agents](https://github.com/datawhalechina/hello-agents)               | 从零开始的智能体原理与实践教程                    | 83609   | 2026-10-13 |
-| [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)        | 通过claude code的源码学习AI工具的开发          | 78790   | 2026-09-28 |
-| [claude-code-book](https://github.com/lintsinghua/claude-code-book)          | 当所有人都在教你怎么用AI Agent——这本书带你拆开它      | 4311    | 2026-10-16 |
-| [agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns) | 谷歌出品智能体开发教程                        | 8314    | 2026-08-30 |
-
+| [hello-agents](https://github.com/datawhalechina/hello-agents)               | 从零开始的智能体原理与实践教程               | 84556   | 2026-10-13 |
+| [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)        | 通过claude code的源码学习AI工具的开发     | 79219   | 2026-09-28 |
+| [claude-code-book](https://github.com/lintsinghua/claude-code-book)          | 当所有人都在教你怎么用AI Agent——这本书带你拆开它 | 4327    | 2026-10-16 |
+| [agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns) | 谷歌出品智能体开发教程                   | 8377    | 2026-08-30 |
 ### agent
 #### conding-agent
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [Claude Code](https://github.com/anthropics/claude-code)           | 最好用、最受欢迎的AI编码助手                   | 152260  | 2026-10-18 |
-| [Codex](https://github.com/openai/codex)                           | OpenAI推出的编程助手，支持代码生成、解释和调试        | 129783  | 2026-10-19 |
+| [Claude Code](https://github.com/anthropics/claude-code)           | 最好用、最受欢迎的AI编码助手                   | 153361  | 2026-10-25 |
+| [Codex](https://github.com/openai/codex)                           | OpenAI推出的编程助手，支持代码生成、解释和调试        | 130885  | 2026-10-23 |
 | [Cursor](https://cursor.com/)                                      | 基于VSCode深度定制的AI原生IDE              | -       | -          |
 | [OpenCode](https://opencode.ai/)                                   | 完全开源免费的AI编码工具                     | -       | -          |
 | [Trae](https://www.trae.cn/)                                       | 字节跳动推出的AI原生集成开发环境                 | -       | -          |
 | [Kiro](https://kiro.dev/)                                          | 亚马逊推出的AI IDE                      | -       | -          |
 | [Qoder-cli](https://qoder.com/zh/cli)                              | 阿里巴巴开发的编程智能体，特色是专家团开发             | -       | -          |
-| [qwen-code](https://github.com/QwenLM/qwen-code)                   | 阿里巴巴推出的基于Qwen3-Coder的命令行编程智能体     | 28566   | 2026-10-19 |
-| [kimi-code](https://github.com/MoonshotAI/kimi-cli)                | kimi推出的命令行通用智能体工具                 | 11415   | 2026-09-22 |
+| [qwen-code](https://github.com/QwenLM/qwen-code)                   | 阿里巴巴推出的基于Qwen3-Coder的命令行编程智能体     | 28715   | 2026-10-26 |
+| [kimi-code](https://github.com/MoonshotAI/kimi-cli)                | kimi推出的命令行通用智能体工具                 | 11422   | 2026-09-22 |
 | [codebuddy](https://www.codebuddy.cn/ide/)                         | 腾讯旗下的AI-IDE                       | -       | -          |
-| [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 国内开发者开发的ds编程工具                    | 35848   | 2026-10-19 |
-| [CodeWhale(deepseek-tui)](https://github.com/Hmbown/CodeWhale)     | 专为deepseek打造的AI编码助手               | 41102   | 2026-10-19 |
-| [cc-haha](https://github.com/NanmiCoder/cc-haha)                   | 基于cc泄露源码打造的本地可运行的claude-claude客户端 | 15062   | 2026-10-18 |
-| [claude-code-ccb](https://github.com/claude-code-best/claude-code) | 高度可自定义的claude-code开源构建版           | 22947   | 2026-08-24 |
-
+| [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 国内开发者开发的ds编程工具                    | 35963   | 2026-10-26 |
+| [CodeWhale(deepseek-tui)](https://github.com/Hmbown/CodeWhale)     | 专为deepseek打造的AI编码助手               | 41120   | 2026-10-26 |
+| [cc-haha](https://github.com/NanmiCoder/cc-haha)                   | 基于cc泄露源码打造的本地可运行的claude-claude客户端 | 15165   | 2026-10-26 |
+| [claude-code-ccb](https://github.com/claude-code-best/claude-code) | 高度可自定义的claude-code开源构建版           | 23042   | 2026-10-26 |
 #### AI工作台
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [workbuddy](https://copilot.tencent.com/work/)                     | 腾讯出品，AI工作台                        | -       | -          |
-| [openclaw](https://github.com/openclaw/openclaw)                   | 你的个人AI助手                          | 392404  | 2026-10-19 |
-| [Qoder](https://qoder.com/)                                  | 全新形态、你的个人AI助手             | -       | -          |
-| [MiniMax-code](https://qoder.com/)                                  | 阿里巴巴开发的编程智能体，特色是专家团开发             | -       | -          |
-| [loomy](https://qoder.com/)                                  | 阿里巴巴开发的编程智能体，特色是专家团开发             | -       | -          |
-
+| [workbuddy](https://copilot.tencent.com/work/)   | 腾讯出品，AI工作台            | -       | -          |
+| [openclaw](https://github.com/openclaw/openclaw) | 你的个人AI助手              | 393055  | 2026-10-26 |
+| [Qoder](https://qoder.com/)                      | 全新形态、你的个人AI助手         | -       | -          |
+| [MiniMax-code](https://qoder.com/)               | 阿里巴巴开发的编程智能体，特色是专家团开发 | -       | -          |
+| [loomy](https://qoder.com/)                      | 阿里巴巴开发的编程智能体，特色是专家团开发 | -       | -          |
 #### pentest-agent
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 一款AI原生安全测试平台集成100+安全工具                 | 7874    | 2026-10-16 |
-| [strix](https://github.com/usestrix/strix)                | 开源AI黑客将发现并修复您应用的漏洞                     | 69593   | 2026-10-18 |
-| [pentest-ai](https://github.com/0xSteph/pentest-ai)       | 可以作为mcp接入claude-code，也可以作为独立的agent工具使用 | 1747    | 2026-10-09 |
-| [airecon](https://github.com/pikpikcu/airecon)            | 一个借助本地大模型进行类似人工的渗透测试活动的开源智能体           | 1076    | 2026-10-12 |
-| [pentagi](https://github.com/vxcontrol/pentagi)           | 利用前沿AI技术进行自动化渗透测试，适用于安全专家、研究人员和爱好者     | 31138   | 2026-10-17 |
-
+| [CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 一款AI原生安全测试平台集成100+安全工具                 | 8032    | 2026-10-23 |
+| [strix](https://github.com/usestrix/strix)                | 开源AI黑客将发现并修复您应用的漏洞                     | 71898   | 2026-10-25 |
+| [pentest-ai](https://github.com/0xSteph/pentest-ai)       | 可以作为mcp接入claude-code，也可以作为独立的agent工具使用 | 1776    | 2026-10-09 |
+| [airecon](https://github.com/pikpikcu/airecon)            | 一个借助本地大模型进行类似人工的渗透测试活动的开源智能体           | 1079    | 2026-10-12 |
+| [pentagi](https://github.com/vxcontrol/pentagi)           | 利用前沿AI技术进行自动化渗透测试，适用于安全专家、研究人员和爱好者     | 32422   | 2026-10-22 |
 ### agent模型接入&会话&mcp&版本管理
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [cc-switch](https://github.com/farion1231/cc-switch)     | agent全方位管理工具、一键切换 API 供应商，统一管理 MCP、Skills 与提示词           | 145886  | 2026-10-19 |
-| [magpie](https://github.com/yetone/magpie)    | 每个 Agent 都把模型写在自己的配置文件里，格式各不相同，key和baseURL各管各的，在这一个项目里搞定    | 145886  | 2026-10-19 |
-
+| [cc-switch](https://github.com/farion1231/cc-switch) | agent全方位管理工具、一键切换 API 供应商，统一管理 MCP、Skills 与提示词           | 148612  | 2026-10-26 |
+| [magpie](https://github.com/yetone/magpie)           | 每个 Agent 都把模型写在自己的配置文件里，格式各不相同，key和baseURL各管各的，在这一个项目里搞定 | 21499   | 2026-10-26 |
 ### MCP
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [百度搜索开放平台-MCP广场](https://www.mcpworld.com/)                                  | 一个mcp广场              | -       | -          |
-| [playwright](https://github.com/microsoft/playwright)     | 浏览器自动化 | 61      | 2026-08-15 |
-| [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 让AI调试浏览器             | 53806   | 2026-10-18 |
-| [cve-mcp-server](https://github.com/mukul975/cve-mcp-server)                 | AI驱动的安全情报聚合与风险判断工具   | 1626    | 2026-10-01 |
-
+| [百度搜索开放平台-MCP广场](https://www.mcpworld.com/)                                  | 一个mcp广场            | -       | -          |
+| [playwright](https://github.com/microsoft/playwright)                        | 浏览器自动化             | 98506   | 2026-10-25 |
+| [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 让AI调试浏览器           | 54145   | 2026-10-25 |
+| [cve-mcp-server](https://github.com/mukul975/cve-mcp-server)                 | AI驱动的安全情报聚合与风险判断工具 | 1638    | 2026-10-01 |
 
 ### skills
 #### 安全相关
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [ctf-skills](https://github.com/ljagiello/ctf-skills)                                        | 一个适用于ctf的skills，包含漏洞利用、逆向、取证分析、情报获取等技能 | 3474    | 2026-10-17 |
-| [AboutSecurity](https://github.com/wgpsec/AboutSecurity)                                     | 为AI制定的渗透测试方法论                          | 1796    | 2026-10-16 |
-| [hack-skills](https://github.com/yaklang/hack-skills)                                        | yakit官方出品，让AI拥有多项渗透测试技能                | 2505    | 2026-09-13 |
-| [reverse-skill](https://github.com/zhaoxuya520/reverse-skill)                                | 逆向/渗透/安全技能路由包                          | 42564   | 2026-09-22 |
-| [anthropic-skills](https://github.com/anthropics/skills)                                     | anthropic官方的skill仓库                    | 182010  | 2026-10-09 |
-| [superpowers](https://github.com/obra/superpowers)                                           | 提升agent的自主性和规范性，头脑风暴skills             | 301673  | 2026-10-10 |
-| [pua](https://github.com/tanweai/pua)                                                        | 一个赋予AI agent高能动性的skills                | 19717   | 2026-09-09 |
-
+| [ctf-skills](https://github.com/ljagiello/ctf-skills)         | 一个适用于ctf的skills，包含漏洞利用、逆向、取证分析、情报获取等技能 | 3527    | 2026-10-23 |
+| [AboutSecurity](https://github.com/wgpsec/AboutSecurity)      | 为AI制定的渗透测试方法论                          | 1808    | 2026-10-24 |
+| [hack-skills](https://github.com/yaklang/hack-skills)         | yakit官方出品，让AI拥有多项渗透测试技能                | 2546    | 2026-09-13 |
+| [reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 逆向/渗透/安全技能路由包                          | 43360   | 2026-09-22 |
+| [anthropic-skills](https://github.com/anthropics/skills)      | anthropic官方的skill仓库                    | 183768  | 2026-10-09 |
+| [superpowers](https://github.com/obra/superpowers)            | 提升agent的自主性和规范性，头脑风暴skills             | 305070  | 2026-10-23 |
+| [pua](https://github.com/tanweai/pua)                         | 一个赋予AI agent高能动性的skills                | 19749   | 2026-09-09 |
 ### agent插件
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [rea](https://github.com/morluto/rea)                     | 让agent对任何东西进行逆向工程，从应用程序行为到原生二进制文件。             | 83884   | 2026-10-19 |
-| [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 内置754个安全技能，将人类安全专家的实践经验转化为AI可执行的结构化知识  | 34668   | 2026-08-31 |
-| [rtk](https://github.com/rtk-ai/rtk)                     | 让你的AI节省60%-90%的token             | 83884   | 2026-10-19 |
-| [claude-hud](https://github.com/jarrodwatts/claude-hud)  | 实时查看cc的上下文、工具调用、待办事项等状态的插件       | 28628   | 2026-10-18 |
-
+| [rea](https://github.com/morluto/rea)                                                        | 让agent对任何东西进行逆向工程，从应用程序行为到原生二进制文件。    | 384936  | 2026-10-25 |
+| [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 内置754个安全技能，将人类安全专家的实践经验转化为AI可执行的结构化知识 | 35018   | 2026-08-31 |
+| [rtk](https://github.com/rtk-ai/rtk)                                                         | 让你的AI节省60%-90%的token                  | 84542   | 2026-10-25 |
+| [claude-hud](https://github.com/jarrodwatts/claude-hud)                                      | 实时查看cc的上下文、工具调用、待办事项等状态的插件            | 28880   | 2026-10-26 |
 ### agent调度
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [claudecodeui](https://github.com/siteboon/claudecodeui) | 提供一个web-ui，更好的管理AI编程工具会话和使用它们    | 14166   | 2026-10-17 |
-| [monocode](https://github.com/hardbeat920/monocode) | 一个调度agent工作的图形化管理框架    | 14166   | 2026-10-17 |
-
+| [claudecodeui](https://github.com/siteboon/claudecodeui) | 提供一个web-ui，更好的管理AI编程工具会话和使用它们 | 14283   | 2026-10-24 |
+| [monocode](https://github.com/hardbeat920/monocode)      | 一个调度agent工作的图形化管理框架           | 3406    | 2026-10-25 |
 ### 好用的AI工具
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [clawgod](https://github.com/0Chencc/clawgod)            | 一个claude code补丁，解锁了禁止网络安全相关测试的限制 | 2176    | 2026-10-18 |
-
+| [clawgod](https://github.com/0Chencc/clawgod) | 一个claude code补丁，解锁了禁止网络安全相关测试的限制 | 2209    | 2026-10-25 |
 ## 信息获取
 | 仓库名 | 描述 | Stars | 最近更新 |
 |--------|------|-------|----------|
-| [公众号](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) | 网络安全类公众号推荐            | 2266    | 2026-10-19 |
+| [公众号](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) | 网络安全类公众号推荐            | 2267    | 2026-10-26 |
 | [来福电台](https://laifufm.com/)                                                   | 在每天的早咖啡时间根据你的喜好定制推送内容 | -       | -          |
-
 
 ### 项目结构
 ```
